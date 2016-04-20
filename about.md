@@ -1,9 +1,9 @@
 ---
 layout: page
-title: About
+title: 关于
 permalink: /about/
 ---
 
-### Contact me
+### 联系方式
 
 [lllvyp@gmail.com](mailto:lllvyp@gmail.com)
