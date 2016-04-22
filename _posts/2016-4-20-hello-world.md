@@ -1,5 +1,5 @@
 ---
 layout: post
-title: 为了宅而工作
+title: hello world
 ---
 
