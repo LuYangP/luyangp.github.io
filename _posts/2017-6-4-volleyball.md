@@ -24,13 +24,13 @@ $$ \frac {1 + ... + 10} {10} = 5.5 $$
 
 $$P(M=k)=P(max\{X_{1}, X_{2}, X_{3}\}=k)$$
 
-此概率不便直接计算，故转而计算M的累积分布函数
+此概率不便直接计算，故转而计算$M$的累积分布函数
 
 $$ P(M \leqslant k) = P(max\{X_{1}, X_{2}, X_{3}\} \leqslant k)=P((X_{1} \leqslant k) \cap (X_{2} \leqslant k) \cap (X_{3} \leqslant k))$$
 
 由于$X_{1}$、$X_{2}$、$X_{3}$三个随机变量相互独立，故
 
-$$P(M \leqslant k)=P(X1 \leqslant k) \cdot P(X2 \leqslant k) \cdot P(X3 \leqslant k)$$
+$$P(M \leqslant k)=P(X_{1} \leqslant k) \cdot P(X_{2} \leqslant k) \cdot P(X_{3} \leqslant k)$$
 
 而$$P(X_{i} \leqslant k)= \frac {k} {10} $$，所以$$P(M \leqslant k)=\frac {k^3} {1000}$$
 
