@@ -31,9 +31,7 @@ $$ P(M \leqslant k) = P(max\{X_{1}, X_{2}, X_{3}\} \leqslant k)=P((X_{1} \leqsla
 
 $$P(M \leqslant k)=P(X1 \leqslant k) \cdot P(X2 \leqslant k) \cdot P(X3 \leqslant k)$$
 
-而$$P(X_{i} \leqslant k)= \frac {k} {10} $$
-
-所以$$P(M \leqslant k)=\frac {k^3} {1000}$$
+而$$P(X_{i} \leqslant k)= \frac {k} {10} $$，所以$$P(M \leqslant k)=\frac {k^3} {1000}$$
 
 $$P(M=k) = P(M\leqslant k) - P(M\leqslant (k-1))= \frac {k^3 - (k-1)^3} {1000}$$
 
