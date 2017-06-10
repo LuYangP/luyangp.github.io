@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Problem Picker</title>
+</head>
+<body>
+<h1>Problem Picker</h1>
+<div id="today_prob">
+<p id="today"></p>
+<p id="problem"></p>
+</div>
+<script>
+var prob_arr = [62, 46, 35, 45, 18, 27, 39, 24, 30];
+var total = 0;
+var cur_date = new Date().getFullYear() + "-" + (new Date().getMonth() + 1) + "-" + new Date().getDate();
+for (var i = 0; i < prob_arr.length; i++) {
+  total += prob_arr[i];
+}
+
+function serial_to_problem(serial) {
+  var chap_num;
+  var prob_num;
+  for (var i = 0; i < prob_arr.length; i++) {
+    if (serial <= prob_arr[i]) {
+      chap_num = i + 1;
+      prob_num = serial;
+      return {"chap_num" : chap_num, "prob_num" : prob_num};
+    }
+    serial -= prob_arr[i];
+  }
+}
+
+function is_duplicate_localvalue(v) {
+  var keys = Object.keys(localStorage);
+  for (var i = 0; i < keys.length; i++) {
+    if (v === JSON.parse(localStorage[keys[i]])) {
+      return true;
+    }
+  }
+  return false;
+}
+
+function filter_local() {
+  var result = [];
+  for (var i = 0; i <= total; i++) {
+    if (!is_duplicate_localvalue(i)) {
+      result.push(i);
+    }
+  }
+  return result;
+}
+
+var chap_num;
+var prob_num;
+var prob;
+
+if (localStorage.getItem(cur_date)) {
+  prob = serial_to_problem(JSON.parse(localStorage.getItem(cur_date)));
+} else {
+  var arr = filter_local();
+  if (arr.length !== 0) {
+    localStorage.setItem(cur_date, arr[Math.floor(Math.random()*arr.length)]);
+    prob = serial_to_problem(JSON.parse(localStorage.getItem(cur_date)));
+  }
+}
+
+document.getElementById("today").innerHTML = cur_date;
+if (prob) {
+  prob_num = prob.prob_num;
+  chap_num = prob.chap_num;
+  document.getElementById("problem").innerHTML = "Chapter " + chap_num + " " + "Problem " + prob_num;
+} else {
+  document.getElementById("problem").innerHTML = "No problem today!";
+}
+</script>
+</body>
+</html>
