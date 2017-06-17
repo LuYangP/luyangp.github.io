@@ -1,0 +1,269 @@
+---
+title: 五险一金计算器
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>五险一金计算器</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://cdn.staticfile.org/jquery/3.2.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+    <!--excerpt-->
+  <div class="container">
+    <h2>五险一金计算器</h2>
+
+    <div class="form-group">
+      <label for="salary">报税工资</label>
+      <input type="number" class="form-control" id="salary">
+    </div>
+
+    <div class="form-group">
+      <label for="social_insurance_base">社保缴费基数</label>
+      <input type="number" class="form-control" id="social_insurance_base">
+    </div>
+
+    <div class="form-group">
+      <label for="housing_fund_base">公积金缴费基数</label>
+      <input type="number" class="form-control" id="housing_fund_base">
+    </div>
+
+    <div class="form-group">
+      <label for="subsidy">现金补助</label>
+      <input type="number" class="form-control" id="subsidy">
+    </div>
+    <!-- Trigger the modal with a button -->
+    <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal" id="cal_btn">开始计算</button>
+
+    <!-- Modal -->
+    <div class="modal fade" id="myModal" role="dialog">
+      <div class="modal-dialog">
+
+        <!-- Modal content-->
+        <div class="modal-content">
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal">&times;</button>
+            <h4 class="modal-title">社保、公积金、个人所得税计算结果</h4>
+          </div>
+          <div class="modal-body" id="result-modal">
+          </div>
+          <div class="modal-footer">
+            <p>仅供参考，请以实际对账单为准</p>
+            <button type="button" class="btn btn-default" data-dismiss="modal">关闭</button>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+  </div>
+
+
+<script src="http://cdn.staticfile.org/highcharts/5.0.12/highcharts.js"></script>
+  <script>
+  var PAYROLLAPP = {};
+
+PAYROLLAPP.data = {
+  average_wage: 7086,
+  average_wage_300: 21258,
+  average_wage_70: 4960,
+  average_wage_60: 4252,
+  average_wage_40: 2834,
+  pension_rate: 0.08,
+  health_rate: 0.02,
+  health_additional_fee: 3,
+  unemployment_rate: 0.002,
+  housing_rate: 0.12,
+  tax_threshold: 3500,
+  tax_level: [0.03, 0.1, 0.2, 0.25, 0.3, 0.35, 0.45],
+  income_level: [1500, 4500, 9000, 35000, 55000, 80000, Infinity],
+  quick_deduction: [0, 105, 555, 1005, 2755, 5505, 13505],
+}
+
+PAYROLLAPP.calculateHandler =
+  function() {
+    var salary = Number(document.getElementById("salary").value).toFixed(2);
+    var social_insurance_base = Number(document.getElementById("social_insurance_base").value).toFixed(2);
+    var housing_fund_base = Number(document.getElementById("housing_fund_base").value).toFixed(2);
+    var subsidy = Number(document.getElementById("subsidy").value).toFixed(2);
+
+    var t;
+    var result = {
+      "salary": salary,
+      "social_insurance_base": social_insurance_base,
+      "housing_fund_base": housing_fund_base,
+      "subsidy": subsidy,
+    };
+    t = PAYROLLAPP.calculateSocialInsuranceCost(social_insurance_base);
+    Object.keys(t).forEach(function(key){result[key] = t[key].toFixed(2)});
+    t = PAYROLLAPP.calculateHousingFundCost(housing_fund_base);
+    Object.keys(t).forEach(function(key){result[key] = t[key].toFixed(2)});
+    t = salary - result.health_cost - result.pension_cost - result.unemployment_cost - result.housing_fund;
+    t = PAYROLLAPP.calculatePersonalIncomeTax(t);
+    Object.keys(t).forEach(function(key){result[key] = t[key].toFixed(2)});
+    result.real_income = Number(Number(salary) + Number(subsidy) - result.health_cost - result.pension_cost - result.unemployment_cost - result.housing_fund - result.personal_income_tax).toFixed(2);
+    return result;
+  };
+
+PAYROLLAPP.calculateSocialInsuranceCost =
+  function(base) {
+    var health_cost, pension_cost, unemployment_cost;
+    var main_base, health_base;
+
+    if (base >= PAYROLLAPP.data.average_wage_300) {
+      main_base = PAYROLLAPP.data.average_wage_300;
+      health_base = PAYROLLAPP.data.average_wage_300;
+    } else if (base >= PAYROLLAPP.data.average_wage_60) {
+      main_base = base;
+      health_base = base;
+    } else if (base >= PAYROLLAPP.data.average_wage_40) {
+      main_base = base;
+      health_base = PAYROLLAPP.data.average_wage_60;
+    } else {
+      main_base = PAYROLLAPP.data.average_wage_40;
+      health_base = PAYROLLAPP.data.average_wage_60;
+    }
+
+    health_cost = health_base * PAYROLLAPP.data.health_rate + PAYROLLAPP.data.health_additional_fee;
+    pension_cost = main_base * PAYROLLAPP.data.pension_rate;
+    unemployment_cost = main_base * PAYROLLAPP.data.unemployment_rate;
+    return {
+      "health_cost": health_cost,
+      "pension_cost": pension_cost,
+      "unemployment_cost": unemployment_cost,
+    }
+  };
+
+PAYROLLAPP.calculateHousingFundCost =
+  function(base) {
+    return {
+      "housing_fund": base * PAYROLLAPP.data.housing_rate,
+    }
+  };
+
+PAYROLLAPP.calculatePersonalIncomeTax =
+  function(base) {
+    var tax;
+    base -= PAYROLLAPP.data.tax_threshold;
+    if (base <= 0) {
+        return {
+          "personal_income_tax": 0
+        }
+    } else {
+    for (var i = 0; i < PAYROLLAPP.data.income_level.length; i++) {
+      if (base <= PAYROLLAPP.data.income_level[i]) {
+        return {
+          "personal_income_tax": base * PAYROLLAPP.data.tax_level[i] - PAYROLLAPP.data.quick_deduction[i],
+        }
+      }
+    }
+  }
+  };
+var btn = document.getElementById("cal_btn");
+btn.onclick = function() {
+    var trans = [
+      ["salary", "报税工资"],
+      ["social_insurance_base", "社保缴费基数"],
+      ["housing_fund_base", "公积金缴费基数"],
+      ["subsidy", "现金补助"],
+      ["br"],
+      ["pension_cost", "养老保险"],
+      ["health_cost", "医疗保险"],
+      ["unemployment_cost", "失业保险"],
+      ["housing_fund", "住房公积金"],
+      ["personal_income_tax", "个人所得税"],
+      ["br"],
+      ["real_income", "可支配现金"],
+    ]
+    var r = PAYROLLAPP.calculateHandler();
+    var modal_body = document.getElementById("result-modal");
+    while (modal_body.firstChild) {
+      modal_body.removeChild(modal_body.firstChild);
+    }
+
+    var table = $('<table>', {class: 'table'});
+    var thead = $('<thead>');
+    var tr = $('<tr>');
+    tr.append($('<th>项目</th>'));
+    tr.append($('<th>金额</th>'));
+    thead.append(tr);
+    table.append(thead);
+
+    var tbody = $('<tbody>')
+
+    for (var i = 0; i < trans.length; i++) {
+      if (trans[i][0] === "br") {
+        tbody.append($("<br>"));
+      } else {
+      var tr = $('<tr>')
+      tr.append($("<td>"+trans[i][1]+"</td>"));
+      tr.append($("<td>"+r[trans[i][0]]+"</td>"));
+      tbody.append(tr);
+    }
+    }
+
+
+
+    table.append(tbody);
+    $("#result-modal").append(table);
+    $("#result-modal").append($('<div id="chart-container" style="min-width: 310px; height: 400px; max-width: 600px; margin: 0 auto"></div>'));
+    var total_income = Number(r.salary) + Number(r.subsidy);
+Highcharts.chart('chart-container', {
+    chart: {
+        plotBackgroundColor: null,
+        plotBorderWidth: null,
+        plotShadow: false,
+        type: 'pie'
+    },
+    title: {
+        text: '个人收入去向'
+    },
+    tooltip: {
+        pointFormat: '{series.name}: <b>{point.percentage:.1f}%</b>'
+    },
+    plotOptions: {
+        pie: {
+            allowPointSelect: true,
+            cursor: 'pointer',
+            dataLabels: {
+                enabled: true,
+                format: '<b>{point.name}</b>: {point.percentage:.1f} %',
+                style: {
+                    color: (Highcharts.theme && Highcharts.theme.contrastTextColor) || 'black'
+                }
+            }
+        }
+    },
+    series: [{
+        name: '占比',
+        colorByPoint: true,
+        data: [{
+            name: '可支配收入',
+            y: r.real_income/total_income,
+        }, {
+            name: '养老保险',
+            y: r.pension_cost/total_income,
+        }, {
+            name: '医疗保险',
+            y: r.health_cost/total_income,
+        }, {
+            name: '失业保险',
+            y: r.unemployment_cost/total_income,
+        }, {
+            name: '住房公积金',
+            y: r.housing_fund/total_income,
+        }, {
+            name: '个人所得税',
+            y: r.personal_income_tax/total_income,
+        }]
+    }]
+});
+}
+
+  </script>
+</body>
+</html>
