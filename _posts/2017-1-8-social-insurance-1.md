@@ -1,5 +1,6 @@
 ---
 layout: post
+comment: on
 title: 社保杂谈（一）：缘起
 ---
 

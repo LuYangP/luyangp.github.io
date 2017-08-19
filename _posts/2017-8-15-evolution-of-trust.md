@@ -1,5 +1,6 @@
 ---
 layout: post
+comment: on
 title: 信任的进化及其他
 ---
 

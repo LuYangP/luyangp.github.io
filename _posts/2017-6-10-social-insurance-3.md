@@ -1,5 +1,6 @@
 ---
 layout: post
+comment: on
 title: 社保杂谈（三）：养老金空账4.7万亿？
 ---
 

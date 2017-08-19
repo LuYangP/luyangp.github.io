@@ -1,5 +1,6 @@
 ---
 layout: post
+comment: on
 title: 我下周一定好好写
 ---
 

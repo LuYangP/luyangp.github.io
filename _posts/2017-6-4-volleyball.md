@@ -1,5 +1,6 @@
 ---
 layout: post
+comment: on
 title: 垫排球的数学期望
 mathjax: true
 ---

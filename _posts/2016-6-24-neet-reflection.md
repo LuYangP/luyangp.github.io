@@ -1,5 +1,6 @@
 ---
 layout: post
+comment: on
 title: NEET再思考
 ---
 
