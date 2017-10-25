@@ -16,7 +16,7 @@ $ ls /opt/calibre/lib/qt_plugins/platforminputcontexts
 libcomposeplatforminputcontextplugin.so  libibusplatforminputcontextplugin.so
 ```
 
-可见，Calibre自带了IBus插件，能使用IBus框架下的输入法，却没有为Fcitx提供相应支持。我们要做的就是把fcitx-libs-qt5中的动态库文件拷贝到/opt/calibre/lib/目录下，将fcitx-frontend-qt5中的动态库文件拷贝到/opt/calibre/lib/qt_plugins/platforminputcontexts/目录下。
+可见，Calibre自带了IBus插件，能使用IBus框架下的输入法，却没有Fcitx对应的插件。我们要做的就是把fcitx-libs-qt5中的动态库文件拷贝到/opt/calibre/lib/目录下，将fcitx-frontend-qt5中的动态库文件拷贝到/opt/calibre/lib/qt_plugins/platforminputcontexts/目录下。
 
 系统已安装的动态库文件位置可以通过以下命令查看：
 ```
@@ -25,7 +25,7 @@ $ dpkg -L fcitx-frontend-qt5
 ```
 将其中形如lib\*.so.\*的文件拷贝至对应目录，在命令行运行Calibre进行验证。如果仍然没有反应，很有可能是fcitx-libs-qt5和fcitx-frontend-qt5两个软件包与Calibre所使用的Qt的版本不匹配。参考[此处](https://groups.google.com/forum/#!topic/fcitx/9e4TI39_4sk)的讨论，到发行版对应的在线软件仓库中寻找其他版本，一一进行试验。
 
-我使用的Debian版本为jessie，fcitx-libs-qt5和fcitx-frontend-qt5两个包的版本为0.1.2，而jessie的后继stretch，对应的两个软件包的版本已经达到了1.0.5，找到对应的下载链接（[fcitx-libs-qt5](https://packages.debian.org/stretch/libfcitx-qt5-1)，[fcitx-frontend-qt5](https://packages.debian.org/stretch/fcitx-frontend-qt5)），下载完成后，通过以下命令提取其中的库文件：
+我使用的Debian版本为jessie，fcitx-libs-qt5和fcitx-frontend-qt5两个包的版本为0.1.2，而jessie的后继stretch，对应的两个软件包的版本已经达到了1.0.5，找到下载链接（[fcitx-libs-qt5](https://packages.debian.org/stretch/libfcitx-qt5-1)，[fcitx-frontend-qt5](https://packages.debian.org/stretch/fcitx-frontend-qt5)），下载完成后，通过以下命令提取其中的库文件：
 ```
 $ dpkg-deb -R libfcitx-qt5-1_1.0.5-1+b1_amd64.deb SOME_TEMP_DIR
 $ dpkg-deb -R fcitx-frontend-qt5_1.0.5-1+b1_amd64.deb ANOTHER_TEMP_DIR
