@@ -8,7 +8,7 @@ comment: on
 
 <!--excerpt-->
 
-我使用Linux作为桌面操作系统，具体到发行版则是Debian。因为最近阅读和下载的电子书比较多，就安装了[Calibre](https://calibre-ebook.com/)电子书管理软件（版本3.9.0），不料我的中文输入法在这个软件中压根无法使用，按切换输入法的快捷键一点反应都没有。网上一查，大家都说是Calibre使用了[Qt](https://www.qt.io/)图形库，而[Fcitx](https://fcitx-im.org/wiki/Fcitx)输入法框架与Qt图形库不兼容。其实，之前我在使用一款名为[Anki](https://apps.ankiweb.net/)的辅助记忆软件（版本2.0.47）记单词的时候，已经遇到过一次这个问题，一直靠先把字写到记事本里再复制粘贴的法子凑合着。这回居然又碰到了，忍无可忍，仔细研究了一番，才算彻底地解决了这个问题。
+我使用Linux作为桌面操作系统，具体到发行版则是Debian。因为最近阅读和下载的电子书比较多，就安装了[Calibre](https://calibre-ebook.com/)电子书管理软件（版本3.9.0），不料我的中文输入法在这个软件中压根无法使用，按切换输入法的快捷键一点反应都没有。网上一查，大家都说是Calibre使用了[Qt](https://www.qt.io/)图形库，而[Fcitx](https://fcitx-im.org/wiki/Fcitx)输入法框架与Qt图形库不兼容。其实，之前我在使用一款名为[Anki](https://apps.ankiweb.net/)的辅助记忆软件（版本2.0.47）记单词的时候，已经遇到过一次这个问题，一直靠先把字写到记事本里再复制粘贴的法子凑合着。这回居然又碰到了，忍无可忍，仔细研究了一番，才算彻底解决。
 
 实际上，Fcitx框架的开发者已经为Qt提供了支持，但我按照提示安装fcitx-libs-qt5和fcitx-frontend-qt5两个软件包后仍然无法在Qt应用中使用输入法。参考Fcitx官网的常见问题解答[页面](https://fcitx-im.org/wiki/FAQ#Is_it_a_Qt_application_that_bundles_its_own_Qt_library.3F)，发现Calibre和Anki没有使用系统提供的Qt图形库及附带的插件，而是自带了一套Qt，保存在软件的安装目录下。
 ```
