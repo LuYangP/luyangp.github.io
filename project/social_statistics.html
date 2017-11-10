@@ -32,13 +32,10 @@ function pick_problems() {
     return result;
 }
 
-var prob;
-if (localStorage.getItem(cur_date)) {
-  prob = serial_to_problem(JSON.parse(localStorage.getItem(cur_date)));
-} else {
-  localStorage.setItem(cur_date, JSON.stringify(pick_problems()));
-  prob = serial_to_problem(JSON.parse(localStorage.getItem(cur_date)));
+if (!localStorage.getItem(cur_date)) {
+  localStorage.setItem(cur_date, pick_problems().join("|"));
 }
+var prob = serial_to_problem(localStorage.getItem(cur_date).split("|"));
 
 document.getElementById("today").innerHTML = cur_date;
 var ul = document.createElement("ul");
