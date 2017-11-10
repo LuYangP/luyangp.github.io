@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>社会统计学</title>
+</head>
+<body>
+<h1>社会统计学</h1>
+<div id="today_prob">
+<p id="today"></p>
+<p id="problems"></p>
+</div>
+<script>
+var prob_arr = [0, 18, 41, 22, 20, 16, 0, 11, 11, 11, 11, 11, 9, 18, 8];
+var exam_arr = [0, 1, 29, 16, 15, 11, 7, 0, 6, 6, 7, 7, 5, 12, 6];
+var cur_date = new Date().getFullYear() + "-" + (new Date().getMonth() + 1) + "-" + new Date().getDate();
+
+function serial_to_problem(serial) {
+  var result = [];
+  for (var i = 0; i < serial.length; i++) {
+     if (prob_arr[i] === 0) continue;
+     var p = serial[i] > exam_arr[i] ? serial[i] - exam_arr[i] : serial[i];
+     result.push("第" + (i+1 < 10 ? "0"+(i+1) : (i+1)) + "章 " + (serial[i] > exam_arr[i] ? "练习" : "例题") + " " + p);
+    }
+  return result;
+}
+
+function pick_problems() {
+    var result = [];
+    for (var i = 0; i < prob_arr.length; i++) {
+        result.push(Math.ceil(Math.random()*prob_arr[i]));
+    }
+    return result;
+}
+
+var prob;
+if (localStorage.getItem(cur_date)) {
+  prob = serial_to_problem(JSON.parse(localStorage.getItem(cur_date)));
+} else {
+  localStorage.setItem(cur_date, JSON.stringify(pick_problems()));
+  prob = serial_to_problem(JSON.parse(localStorage.getItem(cur_date)));
+}
+
+document.getElementById("today").innerHTML = cur_date;
+var ul = document.createElement("ul");
+for (var i = 0; i < prob.length; i++) {
+    var li = document.createElement("li");
+    li.appendChild(document.createTextNode(prob[i]));
+    ul.appendChild(li);
+}
+document.getElementById("problems").appendChild(ul);
+</script>
+</body>
+</html>
