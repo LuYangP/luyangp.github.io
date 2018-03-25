@@ -13,7 +13,7 @@ comment: on
 5. 计算器能生成随机数，输入Ran#(6)+1，并控制小数取整，就可以拿计算器当骰子使啦。
 6. 双曲函数的计算，得到大学才知道啥是双曲函数呢。
 
-还不算完，有位仁兄的博客上记载了一种开启FX-82MS隐藏功能的[特殊方法](https://www.azabani.com/2014/01/02/hacking-casio-fx-82ms.html)，去百度搜索“FX-82MS 软升级”也能找到很多类似的介绍文章，读来都有点武林秘籍的味道……
+还不算完，有位仁兄的博客上记载了一种开启FX-82MS隐藏功能的[特殊方法](https://www.azabani.com/2014/01/02/hacking-casio-fx-82ms.html)，去百度搜索“FX-82MS 软升级”也能找到很多类似的介绍文章，就是读来都有点武林秘籍的味道……
 
 原先FX-82MS只有COMP（Compute，普通计算）、SD（Standard Deviation，方差计算）和REG（Regressions，回归计算）三种模式，打通任督二脉之后，多了CMPLX（Complex，复数计算）、BASE（进制转换）、EQN（Equations，解方程组）、MAT（Matrix，矩阵运算）、VCT（Vector，向量运算），整整五个模式！
 
