@@ -19,7 +19,7 @@ title: 二〇一九年六月十七日一周新闻剪报
 * [旋涡中的刘慈欣](https://www.jinglei1917.net/%E6%97%8B%E6%B6%A1%E4%B8%AD%E7%9A%84%E5%88%98%E6%85%88%E6%AC%A3/)
 * [为什么人类还值得拯救？——刘慈欣 VS 江晓原 ](https://www.douban.com/group/topic/2155322/)
 * [牆外百科牆裡人：中國大陸的維基編輯們](https://theinitium.com/article/20190213-mainland-wikipedia-editors/)
-* [游戏与社会|《冰汽时代》：当中国玩家遭遇“白左”开发者](https://www.thepaper.cn/newsDetail_forward_2105898)
+* [游戏与社会-《冰汽时代》：当中国玩家遭遇“白左”开发者](https://www.thepaper.cn/newsDetail_forward_2105898)
 * [双面青年网民：政治冷漠还是爱国主义狂热？](http://cnpolitics.org/2017/03/politically-indifferent-nationalists/)
 
 ## [中學生、水電工、劏房戶⋯三代港人反送中群像：一場真正的跨世代抗爭](https://www.twreporter.org/a/hong-kong-extradition-law-generations-feature)
