@@ -32,6 +32,9 @@ title: 二〇一九年六月十七日一周新闻剪报
 * [陳方隅：蔡英文為何勝出？後續影響是什麼？](https://theinitium.com/article/20190617-taiwan-tsaiingwen/)
 * [Sound of Hong Kong's defiance reverberates in Beijing](https://www.theguardian.com/world/2019/jun/17/hong-kong-protests-show-first-dent-in-armour-of-xi-yinping)
 * [香港这座城市还有救吗？ ](https://mp.weixin.qq.com/s/Ya7MtKeW6FYzx7W-6pYtXg)
+* [请收起你的厌港症](https://www.douban.com/note/723504563/)
+* [流动中的“香港人”身份认同](https://ipfs.jes.xxx/ipfs/QmePoRtToaseJNQSnNeejCmdgoJP46oz1vxZpuj11knJu3/)
+* [90分钟香港社会文化史](http://chenguanzhong.blog.caixin.com/archives/3623)
 
 ## [结构化发债揭盖子](http://weekly.caixin.com/2019-06-21/101429825.html)
 
