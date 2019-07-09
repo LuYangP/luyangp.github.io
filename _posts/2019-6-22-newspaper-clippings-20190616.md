@@ -35,6 +35,7 @@ title: 二〇一九年六月十六日一周新闻剪报
 * [请收起你的厌港症](https://www.douban.com/note/723504563/)
 * [流动中的“香港人”身份认同](https://ipfs.jes.xxx/ipfs/QmePoRtToaseJNQSnNeejCmdgoJP46oz1vxZpuj11knJu3/)
 * [90分钟香港社会文化史](http://chenguanzhong.blog.caixin.com/archives/3623)
+* [催泪弹与防暴工业的历史](https://gravitysworm.com/post/185766469317/%E5%82%AC%E6%B3%AA%E5%BC%B9%E4%B8%8E%E9%98%B2%E6%9A%B4%E5%B7%A5%E4%B8%9A%E7%9A%84%E5%8E%86%E5%8F%B2)
 
 ## [结构化发债揭盖子](http://weekly.caixin.com/2019-06-21/101429825.html)
 
