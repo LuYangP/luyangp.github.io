@@ -36,6 +36,7 @@ title: 二〇一九年六月十六日一周新闻剪报
 * [流动中的“香港人”身份认同](https://ipfs.jes.xxx/ipfs/QmePoRtToaseJNQSnNeejCmdgoJP46oz1vxZpuj11knJu3/)
 * [90分钟香港社会文化史](http://chenguanzhong.blog.caixin.com/archives/3623)
 * [催泪弹与防暴工业的历史](https://gravitysworm.com/post/185766469317/%E5%82%AC%E6%B3%AA%E5%BC%B9%E4%B8%8E%E9%98%B2%E6%9A%B4%E5%B7%A5%E4%B8%9A%E7%9A%84%E5%8E%86%E5%8F%B2)
+* [孔誥烽：香港獨立關稅區前景——《逃犯條例》修例再折射出的中國難題](https://theinitium.com/article/20190711-opinion-hk-economic-status-in-trade-war/)
 
 ## [结构化发债揭盖子](http://weekly.caixin.com/2019-06-21/101429825.html)
 
