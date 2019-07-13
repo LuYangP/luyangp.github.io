@@ -36,3 +36,9 @@ title: 二〇一九年六月三十日一周新闻剪报
 * [武汉阳逻：“阳光下的逻辑” 在哪里？](https://terminus2049.github.io/archive/2019/07/04/wu-han-yang-luo.html)
 * [现代社会从未解决垃圾问题，只制造了没有垃圾的幻觉](https://mp.weixin.qq.com/s/b1bHtFJvnXV3oapzjPeh0A)
 * [“垃圾分类”，政府想清楚了吗？](https://mp.weixin.qq.com/s/SVxDg_M0NvOzNzqmISyMRQ)
+* [中國開啟強制垃圾分類時代：上海模式能否複製台北經驗？](https://theinitium.com/article/20190711-mainland-shanghai-garbage-sorting/)
+* [卞中佩：上海垃圾分類劍指何方？中國能否解決失控的焚化爐政策？](https://theinitium.com/article/20190711-mainland-incinerator/)
+* [蔣亦凡：「沉默大多數」如何在中國的強制垃圾分類中搶主動權？](https://theinitium.com/article/20190712-opinion-shanghai-garbage-sorting/)
+* [垃圾桶卖“疯”：有人一天接单2000万](https://zjnews.zjol.com.cn/zjnews/201907/t20190711_10565040.shtml)
+* ['A sort of eco-dictatorship': Shanghai grapples with strict new recycling laws](https://www.theguardian.com/world/2019/jul/12/a-sort-of-eco-dictatorship-shanghai-grapples-with-strict-new-recycling-laws)
+
