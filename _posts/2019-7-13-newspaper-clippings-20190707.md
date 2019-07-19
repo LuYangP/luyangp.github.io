@@ -1,6 +1,6 @@
 ---
-title: 二〇一九年七月七日一周新闻剪报
-type: post
+title: 2019年07月07日一周新闻剪报
+layout: post
 comment: on
 ---
 

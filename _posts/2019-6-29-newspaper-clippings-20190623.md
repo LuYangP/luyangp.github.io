@@ -1,7 +1,7 @@
 ---
 layout: post
 comment: on
-title: 二〇一九年六月二十三日一周新闻剪报
+title: 2019年06月23日一周新闻剪报
 ---
 
 关键词：无
