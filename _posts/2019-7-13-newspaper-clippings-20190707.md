@@ -30,6 +30,7 @@ comment: on
 * [Requiem for the ‘Living Dead’: Ten years after 7-5](https://supchina.com/2019/07/03/requiem-for-the-living-dead-ten-years-after-7-5/)
 * [More than 20 ambassadors condemn China's treatment of Uighurs in Xinjiang](https://www.theguardian.com/world/2019/jul/11/more-than-20-ambassadors-condemn-chinas-treatment-of-uighurs-in-xinjiang)
 * [环球时报社评：这22国不代表世界，而是一小撮](http://opinion.huanqiu.com/editorial/2019-07/15126418.html)
+* [俄罗斯朝鲜等37国联署支持中国新疆政策](https://cn.nytimes.com/china/20190715/china-human-rights-united-nations/)
 
 ## [社科院报告：养老金2035年或将耗尽结余](http://www.sohu.com/a/325487405_100191068)
 
