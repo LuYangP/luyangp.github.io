@@ -10,7 +10,7 @@ comment: on
 
 ### 缘起
 
-我[曾经]({{ site.baseurl }}{% post_url 2017-8-15-evolution-of-trust %})认为事实和观点间的区别是泾渭分明的，事实就是事实，观点就是观点。而我们社会的主要问题，如普利策奖得主张彦[所说](http://www.qdaily.com/articles/51186.html)，在于太多的人分辨不了事实和观点。
+我[曾经]({{ site.baseurl }}{% post_url thought/2017-8-15-evolution-of-trust %})认为事实和观点间的区别是泾渭分明的，事实就是事实，观点就是观点。而我们社会的主要问题，如普利策奖得主张彦[所说](http://www.qdaily.com/articles/51186.html)，在于太多的人分辨不了事实和观点。
 
 向平静的观念之湖投出第一颗石子的，是苏珊·巴克-莫斯的《[黑格尔、海地与普遍历史](https://thecharnelhouse.org/wp-content/uploads/2017/05/susan-buck-morss-hegel-haiti-and-universal-history-2009.pdf)》。苏珊在书中提及了三位研究海地的历史学者：莱茵巴赫、雷迪克与戴维斯，莱茵巴赫和雷迪克合作完成的对早期海盗历史的研究受到了来自戴维斯的批评，认为其将早期海盗活动描述为民主与革命的温床是一种过度阐释。苏珊对此评论道：
 > No one can defend sloppy scholarship. Although human error will never be eliminated completely (and although the first efforts in a field will be most vulnerable, lacking the corrective powers of later commentary), a quasi-neurotic compulsion for accuracy is an occupational necessity for history writers, the minimum responsibility that she or he has when asking for a reader's trust. But Linebaugh and Rediker are right to insist that something else is at stake besides professional standards. In making too strong a distinction between fact and ideology, truth and distortion, Davis is skirting the more basic issue as to the meaning of historical inquiry. It takes us, unavoidably, deep into the philosophy of history, and its central question: how are we to make sense out of the temporal unfolding of collective, human life? The need to rethink this question today in a global context, that is, as universal history, has not been felt so strongly for centuries-perhaps not since Hegel, Haiti, and the Age of Revolution.
