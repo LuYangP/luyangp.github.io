@@ -14,7 +14,7 @@ comment: on
 
 ## 香港
 * [国际媒体如何报道香港街头抗议运动？｜逃犯条例｜深度｜端传媒 Initium Media](https://theinitium.com/article/20190813-international-how-global-media-cover-hk-protest/)
-* [日落俱乐部 两岸书](https://v515.wordpress.com/2019/08/14/%E6%97%A5%E8%90%BD%E4%BF%B1%E4%B9%90%E9%83%A8/)
+* [日落俱乐部 ｜ 两岸书](https://v515.wordpress.com/2019/08/14/%E6%97%A5%E8%90%BD%E4%BF%B1%E4%B9%90%E9%83%A8/)
 * [“你是香港人来买滤毒罐？”台湾防毒面具相关产品销量上升｜逃犯条例｜What's New｜端传媒 Initium Media](https://theinitium.com/article/20190815-whatsnew-taiwan-hk-gasmask/)
 
 ## 汇率
@@ -29,5 +29,5 @@ comment: on
 * [The political economy of Peterloo](https://thenextrecession.wordpress.com/2019/08/16/the-political-economy-of-peterloo/)
 * [彼得盧屠殺：二百年前，一場改變英國民主運動的工人集會](https://thenextrecession.wordpress.com/2019/08/16/the-political-economy-of-peterloo/)
 * [兽爷｜那里湖面总是澄清 – 端点星 – 离银河中心最远的行星](https://terminus2049.github.io/archive/2019/08/16/shou-ye.html)
-* [冯淼|《读书生活》与三十年代上海城市革命文化的发展](https://mp.weixin.qq.com/s/xnmgUG9eaM4ZeZgIT3REHw)
+* [冯淼｜《读书生活》与三十年代上海城市革命文化的发展](https://mp.weixin.qq.com/s/xnmgUG9eaM4ZeZgIT3REHw)
 * [700万“下流老人”背后，日本养老金为何入不敷出？ - 21财经](https://m.21jingji.com/article/20190810/herald/7144cf15e1b0ac329f090570b6024361.html)
