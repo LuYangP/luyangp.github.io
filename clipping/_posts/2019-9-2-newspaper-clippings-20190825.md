@@ -15,4 +15,4 @@ comment: on
 * [历史上的一页：第一批非洲留学生为什么离开中国？ – 端点星 – 离银河中心最远的行星](https://terminus2049.github.io/archive/2019/08/28/African-students-in-China.html)
 * [女性的复仇？韩国成世界首个零生育率国家，中国也越生越少了…](https://mp.weixin.qq.com/s/T2YcHf7srGNG0CGKbbkcKg)
 * [“二七”罢工亲历记 - 乌有之乡](http://www.wyzxwk.com/Article/lishi/2019/09/407455.html)
-* [黄纪苏 | 当代思潮名物浅释 ](https://mp.weixin.qq.com/s?__biz=MzAwNjU5NjYwNQ==&mid=2650728608&idx=1&sn=981e86c77a696b2d55fb33139da41efe)
+* [黄纪苏｜当代思潮名物浅释 ](https://mp.weixin.qq.com/s?__biz=MzAwNjU5NjYwNQ==&mid=2650728608&idx=1&sn=981e86c77a696b2d55fb33139da41efe)
