@@ -12,7 +12,7 @@ comment: on
 * [“我们单位一共六百人，光上半年就走了十五人” ｜ 大庆故事④_文化_好奇心日报](http://www.qdaily.com/articles/64730.html?source=feed)
 * [涉非法删帖，多家在京知名公关公司负责人被判刑_迪思](http://www.sohu.com/a/351778163_790649)
 * [平安新出的 996 奋斗无忧险，有了解的同学吗？咋样？值不值得买？ - V2EX](https://www.v2ex.com/t/616228)
-* [电商还卖电子烟?9家平台被约谈 线下线上监管双升级!｜电商|电子烟_新浪科技_新浪网](https://tech.sina.com.cn/it/2019-11-06/doc-iicezuev7452174.shtml)
+* [电商还卖电子烟?9家平台被约谈 线下线上监管双升级!｜电商｜电子烟_新浪科技_新浪网](https://tech.sina.com.cn/it/2019-11-06/doc-iicezuev7452174.shtml)
 * [检测多款10万+爆款口红后，一名环境学博士决定找电商谈谈](https://mp.weixin.qq.com/s/JyGE8FhjcUnHFk3p5jC4BQ)
 * [GQ报道 ｜ 幸存者李佳琦：一个人变成算法，又想回到人](https://mp.weixin.qq.com/s/5WzCzb6MHsLVa13tQppUdA)
 * [滴滴顺风车返场与致命的社交本质](https://mp.weixin.qq.com/s/r-ZJxsCYhQKiWrRq6bkDGw)
