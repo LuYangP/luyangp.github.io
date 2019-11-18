@@ -4,7 +4,7 @@ layout: post
 comment: on
 ---
 
-关键词：降准、专项债
+降准、专项债
 
 <!--excerpt-->
 

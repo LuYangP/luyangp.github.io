@@ -4,7 +4,7 @@ layout: post
 comment: on
 ---
 
-翻不了墙了，只能转些微信公众号的文章
+翻不了墙了，只能转些微信公众号的文章。Facebook程序员自杀、瑞典少女气候演说
 
 <!--excerpt-->
 

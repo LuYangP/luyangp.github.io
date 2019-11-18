@@ -4,6 +4,7 @@ layout: post
 comment: on
 ---
 
+广州环卫工人猝死
 <!--excerpt-->
 
 ## 劳动
