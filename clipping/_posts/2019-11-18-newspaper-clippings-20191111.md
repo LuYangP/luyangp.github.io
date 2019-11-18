@@ -13,9 +13,9 @@ comment: on
 * [比起营销大师卢克文，他所代表的东西更值得人们警惕](https://mp.weixin.qq.com/s/bnMv70iSjqox5itj_y3M1A)
 * [我刚跟一位今年去香港念书的朋友通了电话。](https://mp.weixin.qq.com/s/8LNo6_0KMaxBnYv3ti4_pw)
 * [全港停课！在港中大读书的儿子终于平安回到家](https://mp.weixin.qq.com/s/uGJvlQ9of7f324dx0dtkdQ)
-* [2019阿里双十一总成交额2684亿元-月光博客](https://www.williamlong.info/archives/5885.html)
 
 ## 双十一
+* [2019阿里双十一总成交额2684亿元-月光博客](https://www.williamlong.info/archives/5885.html)
 * [淘宝“双11”2684亿销售额造假了吗？用本福特定律检验一下 - YouTube](https://www.youtube.com/watch?v=CCo4k9Ax7cM)
 * [校园贷再度火热：线下借贷兴起，学生电脑、驾照分皆可抵押 - 视点·观察 - cnBeta.COM](https://www.cnbeta.com/articles/tech/909017.htm)
 * [双“11”：旗舰店的狂欢，小产销者的“严冬”](https://mp.weixin.qq.com/s/yIf5W1bQanVUNRPkV1Rqlw)
