@@ -3,9 +3,7 @@ title: 2020.04.27~2020.05.03一周新闻剪报
 layout: post
 comment: on
 ---
-
 肺炎、劳动节
-
 <!--excerpt-->
 ## 新冠疫情
 * [独家｜奥尔罕·帕慕克​：如果我们希望看到疫情过后一个更好的世界，就必须拥抱谦卑与团结](https://mp.weixin.qq.com/s/W9GyT3SeCVEp7N5I9Jb1Pw)
