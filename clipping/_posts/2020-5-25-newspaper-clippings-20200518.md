@@ -1,0 +1,102 @@
+---
+title: 2020.05.18~2020.05.24一周新闻剪报
+layout: post
+comment: on
+---
+2020两会、蔡英文就职、疫情独立调查
+<!--excerpt-->
+
+## 2020两会
+* [全国人大代表、央行广州分行行长白鹤祥： 建议加快制定《信用信息公开和保护法》](https://m.21jingji.com/article/20200520/herald/9c0aa8ec66690b0fd3f1dfa687c8aa49.html?layer=2&from=timeline)
+* [《人民银行法》如何修订？央行代表：完善向全国人大报告制度，赋予对重要金融机构直接检查权](https://m.21jingji.com/article/20200521/herald/461014ead0cc8d3754a5d3c16bd2b7d6.html?from=timeline)
+* [解读｜政府工作报告释放十大政策信号（附图解）](https://mp.weixin.qq.com/s/GBx1Kklguv95_MDE0fpksg)
+* [香港恒生指数收盘重挫5.56%，创2015年7月以来最大跌幅](https://36kr.com/newsflashes/718652604303497?from=timeline)
+* [解读政府工作报告：内设GDP目标 ，赤字率3.6%，抗疫国债1万亿，减税降费2.5万亿](https://mp.weixin.qq.com/s/mTDucJpkd41lOx2_zoez0w)
+* [这个农民工“网红”，凭实力走进人民大会堂](https://mp.weixin.qq.com/s/7JnW76AiIsxWqipHSJfSYg)
+* [“公卫博士年收入仅8.2万”刷屏？人大代表建议……](https://mp.weixin.qq.com/s?__biz=MzA5MzU2NTUwOQ==&mid=2653551850&idx=1&sn=a0a96469c606a8c483415fb4ae4cd54f&chksm=8b86bbc0bcf132d689294129c7d6d4bbea18132e16dc79d5d4324769df4580dd3db771cd3617#rd)
+* [复旦40岁博士年收入仅8.2万！？人大代表：望提高工资待遇](https://mp.weixin.qq.com/s/EgcaNYD-CoXOR4ERQuWR6g)
+
+## 蔡英文就职
+* [蔡英文就職演說全文：再提「中華民國台灣七十年」、不接受一國兩制｜What's New｜端傳媒 Initium Media](https://theinitium.com/article/20200520-taiwan-president-tsai-inauguration-ceremony/)
+* [太平洋的风与不沉舰队：中美对峙下，蔡英文第二任期正式起步｜深度｜端傳媒 Initium Media](https://theinitium.com/article/20200520-taiwan-520-indo-pacific/)
+
+## 疫情独立调查
+* [媒体观察：中美之外，世界如何讨论“中国责任论”｜深度｜2019冠状病毒疫情｜被疫情改变的生活｜端传媒 Initium Media](https://theinitium.com/article/20200518-international-china-us-pandemic-world-media/)
+* [疫情独立调查，谁赢了？](https://mp.weixin.qq.com/s/r0UfWyrxiSExd3XWCtqcpA)
+
+## 性别
+* [这个世界上的爱情](https://mp.weixin.qq.com/s/di1trS7r3s4kHRvi7RTJiQ)
+* [对不起，我不想变成「更好的自己」](https://mp.weixin.qq.com/s/lGoMmy1tkGxcjSQWhOrOwA)
+* [刷到个深圳离婚排队的热门，看了看评论都是... 来自北京塞冬](https://weibo.com/2191707743/J2uILaiw2?type=comment)
+* [自恋如何侵蚀了当代爱情？ ｜ 界面新闻](https://m.jiemian.com/article/4402317.html)
+
+## 经济
+* [“与魔鬼做交易”：爱彼迎高杠杆房东损失惨重｜广场｜端传媒 Initium Media](https://theinitium.com/article/20200514-wsj-mortgage-airbnb-dilemma-in-pandemic/)
+* [刘尚希：现在地方政府被压得喘不过气来，只能东挪西借、东拼西凑](https://mp.weixin.qq.com/s/7Xs8WdqOAz-tHY_lop4ltg)
+* [全文｜中共中央 国务院关于新时代加快完善社会主义市场经济体制的意见](https://mp.weixin.qq.com/s/sX0-aGn8lGv1XBrPObRCOQ)
+* [疫情下的都市底层劳动者：没社会保障，收入大降，随时可能没工作](https://view.inews.qq.com/a/20200516A048Y800)
+* [减持科创板公司套现竟成还款来源？重庆信托汇盈6号牵出“信披撞车”疑云](https://mp.weixin.qq.com/s/exTMxB4Ch-u89HBR3sATuA)
+* [Uber AI已死！CEO宣布关停AI研究院，再裁员3000人自救](https://mp.weixin.qq.com/s/qklK2OZCOGuUKMbBnF0EIg)
+* [陆挺：PSL支持的货币化棚改，本质就是赤字货币化](https://mp.weixin.qq.com/s/IlyRzw8e_EIeauMAOKYCPw)
+* [授权全文发布｜楼继伟：中国金融市场进一步开放 与世界共同发展](https://mp.weixin.qq.com/s/oPI3B1COoKrwOjl-lxt29g)
+* [劳工问题：历史与现实专题 ｜ 许怡、叶欣：技术升级劳动降级？——基于三家“机器换人”工厂的社会学考察...](https://mp.weixin.qq.com/s/G6YAs65AT0Mm2g4Zrse6zQ)
+* [为什么我国就业压力很大，但失业率不高?](https://mp.weixin.qq.com/s/EorzUkFHzGkc1yDYk_5mtQ)
+* [抗疫特别国债设计的良苦用心](https://mp.weixin.qq.com/s/O5mq4LtOKfI8kruFDczb8Q)
+* [高培勇：市场对特别国债期望过高 对赤字率提升要心存敬畏](https://mp.weixin.qq.com/s/F2914ECLyNXhL6BqP8rLOQ)
+* [失业大军在征兵：多地工厂放假、裁员](https://mp.weixin.qq.com/s/MK1Ms_lXhSbtJ9deV3Tk8Q)
+* [刘煜辉最新演讲：脱钩与滞胀](https://mp.weixin.qq.com/s/KA2CCImRmJojjHMdgD8pPg)
+* [揭秘锁价发行：一条债市“赔本”包销的利益链](https://mp.weixin.qq.com/s/D7l2QgFwSBa1o4mDCEp0SQ)
+* [中国一季度登记失业率为何不升反降？](https://mp.weixin.qq.com/s/eZetqLF9bW46jz1eEWrG8g)
+
+## 其他
+* [517 ｜ 我们做了个永动机](https://mp.weixin.qq.com/s/K_-5J_IMosO0eVHgbn_fag)
+* [一个记者引发的香港“的士”变形记](https://mp.weixin.qq.com/s/UgXVpeeoyiRHvKDF_2GnmQ)
+* [拿中国人民的钱，替美国人民监督美国政府？](https://mp.weixin.qq.com/s/3RyzqhxwUfELn1KJ-KH2OA)
+* [世卫组织：中国农村妇女与自杀](https://mp.weixin.qq.com/s/ib9lT3s0EKta2xfWXbrLzw)
+* [反击丰巢启示录：广深市民社会衰败，长三角完胜珠三角](https://mp.weixin.qq.com/s/VOb8x0ri6cmj2VOzmmwEsA)
+* [从野百合到野草莓：20年台湾青年学运反思](https://mp.weixin.qq.com/s/1279nZcbRp9_0C_ZFOBXAQ)
+* [渔船工人成奴隶，每天只睡三小时，死了直接扔海里 ｜ 转发](https://mp.weixin.qq.com/s/Gbqraq4jRpDE22ewYK38Rw)
+* [歧视，打拳和批判性武器](https://mp.weixin.qq.com/s/lpaZ7mKSALoeAQ-qJMQZ6Q)
+* [有罪无罪什么罪：请参与一场对艺术家坚果兄弟的公审｜深度｜端传媒 Initium Media](https://theinitium.com/article/20200517-culture-performance-art-bro-nuts/)
+* [全员就位！武汉大学全面复工第一天（组图）](https://news.whu.edu.cn/info/1002/60440.htm)
+* [被户口赶走的孩子：吃苦！才能回到北京...｜马各庄田野](https://mp.weixin.qq.com/s/9pIEX6jgpgKB94AWNWC44A)
+* [真经阁｜IP建设：角色设计与世界观构建](https://mp.weixin.qq.com/s/YopJmiZitIPaSHQirIIkwQ)
+* [罗素，拿下诺贝尔文学奖的哲学家](https://mp.weixin.qq.com/s/m-Wba3XktsgkM-KjXcVZ3g)
+* [专访法国人类学家凯克：从动物的视角理解病毒与防疫](https://mp.weixin.qq.com/s/SL2oPP8VENSed2fx9nRjdQ)
+* [许煜：全球“共同免疫体”是否可能？](https://mp.weixin.qq.com/s/qTul8ggCUYGgCxgdpW8a3Q)
+* [同意将翻墙了解信息定性为“违法”并处罚](https://mp.weixin.qq.com/s/qTExMZXkIOhhWdQBvp6NGA)
+* [互联网讨论“消失”了吗？](https://mp.weixin.qq.com/s/q1JFjqgm43Ma-wlX5o4EOQ)
+* [为葛城美里的钱包和肝脏担心！在EVA中葛城美里一年能喝掉多少啤酒？](https://mp.weixin.qq.com/s/KS_QIxJb9Wf7Z-0T1Vq2WQ)
+* [北大女生自杀案：她曾遭受无人知晓的暴力](https://mp.weixin.qq.com/s/AqkTY6XosIlrhh0BqwWvkA)
+* [没有兄弟姐妹的你](https://mp.weixin.qq.com/s/rHhHu2Xckdsh4niypOrM0Q)
+* [吃政治正确的饭，砸政治正确的锅](https://mp.weixin.qq.com/s/TUCjbrUtBapDuhayJuNhow)
+* [我用AI分析了60篇方方日记，结果出人意料](https://mp.weixin.qq.com/s/ei7HdCr0hsuxdvnDta66nA)
+* [柯洁，微博对线女权第一人](https://mp.weixin.qq.com/s/tq3xKDuCba0fdzwVBZ8ZZQ)
+* [小姐姐的笑容是推动世界的力量 ｜图集](https://mp.weixin.qq.com/s/dMU3p6U-x46sXDOweGIkoA)
+* [时隔三年的更新，让《泰拉瑞亚》再次登上Steam全球第二](https://mp.weixin.qq.com/s/MafNku8ohG0obsvE_h1qpg)
+* [方可成：如何与一个充满敌意的世界相处？](https://mp.weixin.qq.com/s/h4jov-B6n0NAUnTbCpuirA)
+* [发布27款新品，网易不再套路？](https://mp.weixin.qq.com/s/CR-62i-GsZMC5sN-FfIWww)
+* [生活律师甄时隐](https://mp.weixin.qq.com/s/K41vC8fWlzrYn9_A5X_tJA)
+* [老楼加装电梯出新政 并未取消“一票否决”](https://mp.weixin.qq.com/s/bIVPb40NK9qJvzoMuqmqEw)
+* [我爱南京](https://mp.weixin.qq.com/s/yhwz9iU0SsnF57AN4BGWaA)
+* [南京先锋书店因发布“我爱南京”盲盒，公众号被永丰。](https://mp.weixin.qq.com/s/8DCr-eQlKElEd0ezJKI6SQ)
+* [郑渊洁是80后的cult启蒙，皮皮鲁专营店是世纪末的圣城](https://mp.weixin.qq.com/s/RwSttZdFDNJTUUKkuEoZhw)
+* [疫论·社运｜疫情扑灭全球抗争薪火，白人右翼垄断异议者形象](https://mp.weixin.qq.com/s/a3kE-QfPK1oXe9Er0MURGw)
+* [刻在身上的武汉](https://mp.weixin.qq.com/s?__biz=MTY0MzI5NDcwMQ==&mid=2651216023&idx=1&sn=9282a3d53f10c96461d2ff979c0f245e&chksm=523fa015654829037c2bef7f9dc4c4c8fe50452669fc3268a73087ede9b9670fccd5beb4dfe9#rd)
+* [瞿秋白郁达夫都追捧的清诗人黄仲则有什么故事?](https://ie.bjd.com.cn/5b165687a010550e5ddc0e6a/contentApp/5b1a1310e4b03aa54d764016/AP5ec6380be4b0be621cbb3644?isshare=1&app=A9B4A5D8-E5C0-4B39-839C-7FBF2EBA9A24&contentType=0&isBjh=0&from=timeline&isappinstalled=0)
+* [「第四话」所以我到底算不算'亚裔美国人'?](https://mp.weixin.qq.com/s/JAlLGcyl8NDIUKj2ZYKmFQ)
+* [邱士杰｜近代中国社会性质理论史的“法权分析”阶段](https://mp.weixin.qq.com/s/wg2CiL9TxDpmKMTmzSwUyw)
+* [史上第一次，中国民航网被骂到关了评论！](https://mp.weixin.qq.com/s/aLX1ZVnZLnT7FKzS7QG6hQ)
+* [麦高登、林丹：广州的非洲人调查以及人类学家眼中的低档全球化 ｜ 正午访谈](https://mp.weixin.qq.com/s/uDvc09kTIZY2PxtpfNxQYQ)
+* [某种程度上，今天我们的城市已经成为资本的机器，就像当年的大庆是资源生产机器一样 ｜ 侯丽 一席第76...](https://mp.weixin.qq.com/s/bghjcx2okTzA8BlC0ZyFeg)
+* [《中国金融》｜党领导下的财政与金融：历史回顾与启示](https://mp.weixin.qq.com/s/af9xp8lJh0A3jTTAFjRXzA)
+* [程抱一：con-finement 禁足即是细致地在一起](https://mp.weixin.qq.com/s/A-XXurjllcroyVmsMZt_EQ)
+* [特稿 ｜ 耶鲁大学校长2020毕业典礼演讲：“关爱我们的邻舍”（附视频）](https://mp.weixin.qq.com/s/1UIPn048qBiZaFfswEvSKA)
+* [梁慧星：国家的事，我尽了我的职责](https://mp.weixin.qq.com/s/5XUahb-UEXqtjhvcntbiLg)
+* [至道学宫，栽了](https://mp.weixin.qq.com/s/xSIevFL4uND-GDfbv_LzaQ)
+* [朴正熙时代的劳工政策与劳动关系：历史评价与反思](https://mp.weixin.qq.com/s/A2fEUPEmBDmbS53P5rswng)
+* [我呼吁列表同是留学生的朋友](http://www.360doc.com/userhome/53615136)
+* [新书：Making It Count: Statistics and Statecraft in t...](https://mp.weixin.qq.com/s/JybHiLRAnt7WgsyIYy9e6Q)
+* [如何评价「劳动者文库」？](https://www.zhihu.com/question/395612299)
+* [汉滨一男子非法进行国际联网被查处](https://www.williamlong.info/archives/6075.html)
+* [【精選書摘】被棄之不顧的日本失業潮世代──有救濟中年打工族的方法嗎？](https://www.twreporter.org/a/bookreview-japan-middle-aged-freeter-report)
