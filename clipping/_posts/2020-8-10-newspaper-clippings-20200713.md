@@ -1,0 +1,82 @@
+---
+title: 2020.07.13~2020.07.19一周新闻剪报
+layout: post
+comment: on
+---
+南方洪灾、中美冷战
+<!--excerpt-->
+
+## 南方洪灾
+* [2020南方洪灾](https://mp.weixin.qq.com/s/Zb0icXdSBYRz8YoVQs9VCQ)
+* [我所经历的鄱阳洪灾，难以想象的污浊和肮脏](https://mp.weixin.qq.com/s/TK3UAn8Bh6Jtg-rGaNRMag)
+* [洪水中的生意人：仓库店铺被淹、损失几千万、新买奔驰积满淤泥](https://view.inews.qq.com/a/20200713A0PSWC00?shareto=&devid=3DAF8075-E90E-4BE9-B39C-E25F3BC35CE7&qimei=3daf8075-e90e-4be9-b39c-e25f3bc35ce7&uid=&openid=o04IBANyUc1nKELzBpc7oGFs7T5Q&key=&version=17000e25&devicetype=iOS13.4.1&wuid=oDdoCt_1VWEXrUwIcyHYigm0y_dE&sharer=o04IBANyUc1nKELzBpc7oGFs7T5Q&from=timeline)
+* [千万别以为南方暴雨与你无关](https://mp.weixin.qq.com/s/gew82PtNFvQj_KF6TiXzDg)
+* [鄱阳县抗灾前线：水漫鱼米之乡后](https://mp.weixin.qq.com/s/M501z3RQHiOUwqF_JN07qQ)
+
+## 中美冷战
+* [外交不是摔跤](https://mp.weixin.qq.com/s/bxESfBEdkmfluSbhaZpanA)
+* [美国哈佛大学关于武汉新冠病毒的“最新研究成果”](https://mp.weixin.qq.com/s/haJpINfXzNyt2crkuE78vg)
+* [驻美大使：对美国而言，必须作出一个根本性选择](https://m.guancha.cn/internation/2020_07_20_558256.shtml?from=timeline)
+
+## 经济
+* [400亿债务的DS算啥，860亿的某县，了解下？区县四大天王呼之欲出](https://mp.weixin.qq.com/s/6I9mXAf4qXFS6yMqrDu8Tg)
+* [西方游戏业掀并购潮，上半年已达9起！专访欧美领先游戏精品投行，解析资本动向](https://mp.weixin.qq.com/s/Oi2eSB-LYH6aJSAUB7a9ig)
+* [四川省投掌门人点评青海省投破产：不只是触动，而是触及灵魂](https://mp.weixin.qq.com/s/E-zAmuljc5qop_teRzxMqA)
+* [嘉实投研体系大变阵背后：布局未来赛道的阳谋](https://mp.weixin.qq.com/s/HoquC9eYQM2QVdx0COKqHg)
+* [牛？一大波城投在低点入主上市公司](https://mp.weixin.qq.com/s/-6dqIjLulKR62-CddrXdFw)
+* [关于影子银行业务，银保监提出“五个严禁”](https://mp.weixin.qq.com/s/7wl1wy5XiHRFX2l1g_AEYA)
+* [刚刚，监管对国盛证券等9家机构实行接管](https://mp.weixin.qq.com/s/DFkADMDwxUUnlyRUnfLixg)
+* [浙江交通投融资24大动作：设千亿基金，PPP、REITs等引资超2000亿···](https://mp.weixin.qq.com/s/5pOhetjBrj2GdcoShO3nGw)
+* [​一场重要会议即将召开](https://mp.weixin.qq.com/s/59X9DYmhpAcXa7MZMClM4w)
+* [财政部发布会透露四大政策信号](https://mp.weixin.qq.com/s/S-KKZTBnAw7-tW3hfk2TVg)
+
+## 其他
+* [阿那亚Young Talk丨我们和一群不同年龄段的年轻人，聊了聊他们想要的人生](https://mp.weixin.qq.com/s/m30IPETBWOx64ycSxmQKRQ)
+* [我们和东亚社畜委员会聊了聊，年轻人该怎么脱离社畜](https://mp.weixin.qq.com/s/ER2H-0v9yap-lxRAoaQc1Q)
+* [新冠后遗症：隐秘之痛丨来自武汉新冠患者家庭的一手记录](https://mp.weixin.qq.com/s/kV861KdYWS2LczqNoQvArw)
+* [美国社运版图，与黑人组织斗争的前世今生 ｜ 政见CNPolitics](https://mp.weixin.qq.com/s/xQhGkYOkCEbLZo6TDefQRA)
+* [为什么这次民意会接受“和坏人共情了”？](https://mp.weixin.qq.com/s/Qe_gH-H5AQLMyYV72GbcMw)
+* [与许纪霖、刘擎等商榷：“（反）政治正确”框架的思维陷阱](https://mp.weixin.qq.com/s/mJafOYAY3jUysJlFfMDZRw)
+* [海外华人自组微信辟谣团队，与信息污染作战争](https://mp.weixin.qq.com/s/W84G2IvyU0eLol9UincpBw)
+* [程序正义，高高挂起：评李麦子包庇吕频](https://mp.weixin.qq.com/s/bLxcIEe9OnesRIVtYzbjqw)
+* [对北美女权群事件澄清文被指控「诽谤网暴」的回应](https://mp.weixin.qq.com/s/lv5So27StpHSWlM2llCwHQ)
+* [反对党会不会有一天不再是「副驾驶」？——新加坡2020年选举观察 ｜ 政见CNPolitics](https://mp.weixin.qq.com/s/bp05qz8xVdsKvjuNgu7XAA)
+* [哲学社是用“事实”来撒谎，用“性骚扰”实行网络私刑的惯犯](https://mp.weixin.qq.com/s/IODhg55zoMHyfLH0uHUIJw)
+* [那些身患癌症的年轻人](https://mp.weixin.qq.com/s/7Sr0MwmCuMWGmwIPzn94BA)
+* [西尔扎提医生 ｜ 如果不在武汉，我会后悔一辈子。](https://mp.weixin.qq.com/s/ZE0yeJOA_zkr0BEAOWDikw)
+* [在图书馆留言的吴桂春：“网红民工”与普通读者](https://mp.weixin.qq.com/s/lPK89ijITgHpzy-JlDt9EA)
+* [霍赫希尔德：流行病让特朗普支持者更偏执，左右翼都自认为是“故土的陌生人” ｜ 专访](https://mp.weixin.qq.com/s/ew_SXeo_iauw9LZGEu2NtA)
+* [坚果兄弟 ｜ 为《发哨子的人》记者颁奖](https://mp.weixin.qq.com/s/uDO8GNxgJ7-MyyzN5fXZfg)
+* [一个学术守门员的两点感想](https://mp.weixin.qq.com/s/8laIdeLftNb4UqysUPnxbA)
+* [还记得用10年从深圳女工逆袭为纽约程序员的女生吗，现在她失业了](https://mp.weixin.qq.com/s/IVM8uW5AKDmnmfXuvW5nSg)
+* [我宣布这综艺一秒都不能快进](https://mp.weixin.qq.com/s/3hP9_Qmw6QZUTSli7Khr1A)
+* [刘怀昭对魏京生案](https://mp.weixin.qq.com/s/PaWFM0fzc7dnMazObsVrTA)
+* [下班后的书店考察月记【上海/长沙】](https://mp.weixin.qq.com/s/rryF5ZkFjG57_3oKijn13Q)
+* [孙歌 ｜ 生命飞扬的大欢喜：如何理解鲁迅的“复仇”](https://mp.weixin.qq.com/s/UfInhaOBb96TLzJG6y1cbg)
+* [哲学社网暴文背后“性骚扰”指控之另一版本](https://mp.weixin.qq.com/s/rFhfzAi6QjWzmF8OyNEVXg)
+* [哲学社文章中性骚扰指控被控方B的证词及分析](https://mp.weixin.qq.com/s/uZIvjIjvTpiZAbYkrPQCMw)
+* [乘风破浪的姐姐们真的会用“梵蜜琳”吗？](https://mp.weixin.qq.com/s/91bqcW9aPqpBOVKc7c30ZA)
+* [跳出「（反）政治正确」论述框架的思维陷阱（附播客「自由主义与荣誉」）](https://mp.weixin.qq.com/s/lrObtyDbv0k3I870J0oxDQ)
+* [乘风破浪的姐姐—男权PUA下的30 女性“生存指南”【有点田园】](https://mp.weixin.qq.com/s/YKV77Yod8QfniTQbO2QRRQ)
+* [关于《哈泼斯》公开信的公开信](https://m.thepaper.cn/newsDetail_forward_8313061?from=timeline)
+* [“我们人多，一起烧死那个公知”——沉默的六亿人](https://mp.weixin.qq.com/s/Chjc6i3EFlqpBMeoDZoQkg)
+* [《乐队的夏天2》导演组私密文件0714.pdf](https://mp.weixin.qq.com/s/-qrA8OGYV6dInkZtjgJLKg)
+* [南京大学孙江教授对澎湃报道的批评](https://mp.weixin.qq.com/s/4mWq8Ky3EaHj3FpyBuZfhg)
+* [那个揭露伊利蒙牛的写手，刚刚被带去警察局了！](https://mp.weixin.qq.com/s/c-AHrEiiZaYSVB1RXiN18Q)
+* [寻找同路人 ｜ 父母离世、追寻意义和身份改变 ｜ 博士论文研讨会加入邀请](https://mp.weixin.qq.com/s/lrTVtL9Bo3eWkDfyAla36g)
+* [赵丽蓉逝世二十年：天堂有了笑声](https://mp.weixin.qq.com/s/aExcTMGfFSrmpQ9RVfw7ew)
+* [赵丽蓉：廿年不忘，并未走远](https://mp.weixin.qq.com/s/SWROajy8wg-efIse42WEPw)
+* [群众组织有什么用？](https://mp.weixin.qq.com/s/jl30g0vdP4Mg9MaHQTUsnQ)
+* [作为女权主义者，我们更应该关注阶层不平等——陈亚亚](https://mp.weixin.qq.com/s/DQEfJEn0VzE3dlVJ4zLf_w)
+* [【工友之声】大名鼎鼎的比亚迪，三个月死了五个工人](https://mp.weixin.qq.com/s/LfIXrjdNvk7BndB-KroFAg)
+* [多图｜实习生必看的防入坑指南（上）](https://mp.weixin.qq.com/s/KxcSZ0xn5xLhpes1nu1dAg)
+* [约翰.罗伯特.勒维斯众议员千古](https://mp.weixin.qq.com/s/9nD_429dnWR8lxbI7LIyiA)
+* [光环累累的一场游戏和伤痕累累的一场梦｜深度｜端传媒 Initium Media](https://theinitium.com/article/20200717-technology-injuries-in-esports/)
+* [专访漩涡中的“小明”父亲：我们已做了选择，想要回台湾｜深度｜2019冠状病毒疫情｜端传媒 Initium Media](https://theinitium.com/article/20200717-taiwan-little-ming/)
+* [北京拆除逾千小产权别墅：它们是怎样被建造的、又因何被摧毁？｜深度｜端傳媒 Initium Media](https://theinitium.com/article/20200715-mainland-beijing-villa-demolish/)
+* [活在人们表情包里的神烦狗Doge，本尊现在过得怎么样？](https://mp.weixin.qq.com/s/wV-l00s5yzWbdnMa70fdHA)
+* [从W·E·B·杜波依斯到黑豹党：美国黑人在红色中国](https://mp.weixin.qq.com/s/VRC7wiKQvg4bmqm31-7WFQ)
+* [论骑手的职业风险](https://mp.weixin.qq.com/s/rSSfNZdcrH88T6LF78Qu1g)
+* [延迟享受和及时行乐](https://mp.weixin.qq.com/s/fGJsceY9HPpjX_6tR22wNg)
+* [【重磅】北京疫情防控降至三级响应！](https://mp.weixin.qq.com/s/K9zA6PRAc49LDWny62PIlA)
+* [沿用40年的疼痛定义被修改！将如何影响诊断与治疗？](https://mp.weixin.qq.com/s/x9WOez2_jUZOvG-LTg-f1A)
