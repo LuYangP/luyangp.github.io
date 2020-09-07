@@ -11,7 +11,7 @@ layout: post
 * [桥水Dalio最新文章：从美元周期看大国经济战](https://mp.weixin.qq.com/s/SkGHRUJgmANXnnwvop8Eag)
 * [沈志华：历史的转折——美苏冷战起源的经济因素](https://mp.weixin.qq.com/s/jOa_YK55d6PscTkwcrOZSQ)
 * [“还得中共去收拾烂摊子”：习近平强硬政策背后的智囊团](https://cn.nytimes.com/china/20200803/china-hong-kong-national-security-law/?utm_source=RSS)
-* [一個驅逐微信一個屏蔽 Google，印度的「牆」和中國的「牆」是一回事麼？｜深度｜端傳媒 Initium Media](https://theinitium.com/article/20200807-technology-india-banned-china-app/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+theinitium+(%E7%AB%AF%E5%82%B3%E5%AA%92+|+Initium+Media))
+* [一個驅逐微信一個屏蔽 Google，印度的「牆」和中國的「牆」是一回事麼？｜深度｜端傳媒 Initium Media](https://theinitium.com/article/20200807-technology-india-banned-china-app/)
 * [从头号海外市场到中美科技冷战前线：华为在欧洲的“下半场战事”｜端传媒五周年｜深度｜端传媒 Initium Media](https://theinitium.com/article/20200806-international-huawei-fighting-in-europe/)
 * [刚刚，字节跳动强硬声明：或将起诉美国政府](https://mp.weixin.qq.com/s/vDjK_qu1a0BOtHXnrxvRUg)
 * [美国两党党代会的前生今世：线上实验2020](https://mp.weixin.qq.com/s/RD_nh6J178kTqfgLSxGung)
