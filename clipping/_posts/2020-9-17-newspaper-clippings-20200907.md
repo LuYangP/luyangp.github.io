@@ -1,0 +1,120 @@
+---
+title: 2020.09.07~2020.09.13一周新闻剪报
+layout: post
+comment: on
+---
+
+中美冷战、蒙语教学风波、外卖骑手困在系统里
+
+<!--excerpt-->
+
+## 中美冷战
+* [新冠疫苗与全球间谍战：中国黑客被指攻击美国大学](https://cn.nytimes.com/usa/20200907/coronavirus-vaccine-espionage/?utm_source=RSS)
+* [美国考虑对新疆棉制品实施禁令](https://cn.nytimes.com/usa/20200908/us-china-xinjiang-cotton-ban/?utm_source=RSS)
+* [甲骨文竞购TikTok背后：它为何受特朗普青睐？](https://cn.nytimes.com/technology/20200904/oracle-tiktok-trump/?utm_source=RSS)
+* [世纪之诈：中国导弹到底能否击沉美国航母？｜深度｜端传媒 Initium Media](https://theinitium.com/article/20200907-opinion-aircraft-carrier-killer-puzzle/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+theinitium+%28%E7%AB%AF%E5%82%B3%E5%AA%92+%7C+Initium+Media%29)
+* [两岸婚姻四十年：敌对阴影下，人们相恋成家｜深度｜端传媒 Initium Media](https://theinitium.com/article/20200907-taiwan-cross-strait-marriage/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+theinitium+%28%E7%AB%AF%E5%82%B3%E5%AA%92+%7C+Initium+Media%29)
+* [美国关闭休斯顿中国领事馆之前发生了什么？｜广场｜端传媒 Initium Media](https://theinitium.com/article/20200908-wsj-chinese-diplomats-helped-military-scholars/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+theinitium+%28%E7%AB%AF%E5%82%B3%E5%AA%92+%7C+Initium+Media%29)
+
+## 蒙语教学风波
+* [萌展／擴大漢語授課「動搖國本」：內蒙古為何爆發保護母語示威潮？](https://www.twreporter.org/a/opinion-inner-mongolia-mother-tongue-education-crisis)
+* [赤峰多人被依法查处！涉及寻衅滋事、扰乱单位及公共秩序…](https://mp.weixin.qq.com/s/XDoZcFbIo5LCcWuNqPZk0Q)
+* [苏尼特左旗对4名拒不执行党和国家重大决策部署的科级领导干部给予停职处分并启动问责（蒙汉文）](https://mp.weixin.qq.com/s/VWfYUHNZv-darBTfJzzSUg)
+* [抖音让他们忘了不少蒙语，但教育部门觉得还不够](https://mp.weixin.qq.com/s/x1grKUzXa7Hku9w1ovH37A)
+* [【重磅】 ｜ 紧急通知：大板一中学生9月13日中午12:00时未报到将全部取消学籍](https://mp.weixin.qq.com/s/UJ8isO-52ROWY9aj1kIBjA)
+
+## 外卖骑手，困在系统里
+* [外卖骑手，困在系统里](https://mp.weixin.qq.com/s/Mes1RqIOdp48CMw4pXTwXw)
+* [你愿意多给我5分钟吗？](https://mp.weixin.qq.com/s/QEMGh97RjB2S8mvWsnSKxQ)
+* [热议｜如果骑手没有发言权，那8分钟能解决什么问题？](https://mp.weixin.qq.com/s/TY6mKQCTgHAXutnYvmdDmA)
+* [身处舆论风暴的外卖小哥感叹谁来倾听我们最真实的声音](https://mp.weixin.qq.com/s/_eMprXDZdstFt-zTppQTNw)
+* [无人生还：他们是今天的外卖骑手，你我是明天的赛博无产者](https://mp.weixin.qq.com/s/ZRw9LIqzDJrS0E-3Tc9nnw)
+* [三个外卖小哥只见过两次就要结为异性兄弟，现在还有江湖义气吗？](https://mp.weixin.qq.com/s/pLy9x5Xv0so_THyjiclGcA)
+* [外卖骑手何处去？破解零工经济困局的三条出路](https://mp.weixin.qq.com/s/peMWeaBWnmgFMq3Uty4QAQ)
+* [最真实的外卖小哥告诉你他们并不需要那个所谓的八分钟十分钟](https://mp.weixin.qq.com/s/c83qwpwboXeXBkcGXtrBhw)
+* [印度外卖送餐工人罢工，抗议报酬锐减](https://mp.weixin.qq.com/s/64d_M-4jcTTnig1YHPq9BA)
+
+## 经济
+* [政信金融民工：平台最困难的时候已经熬过去了](https://mp.weixin.qq.com/s/1Ck_INqkzrTMLalXy9QKFA)
+* [深度剖析专项债发行及用途](https://mp.weixin.qq.com/s/UkdX6bLEj0lkJLdKjqrPNA)
+* [Pandemics: prevention before cure ｜ Michael Roberts Blog](https://thenextrecession.wordpress.com/2020/09/06/pandemics-prevention-before-cure/)
+* [首只省级国企信用保障基金成立，专项用于化解债券风险等](https://m.21jingji.com/article/20200908/herald/78066e625e4b101adf9b8b957b6f04df.html?from=timeline)
+* [长信基金嘲讽门的“三个不妥”](https://mp.weixin.qq.com/s/mYNBw68CptC5B5u1Xg1Zaw)
+* [解析《住房租赁条例》：立法禁止“续租一次交一次中介费”](https://mp.weixin.qq.com/s/RbpDxO3-Wewce-Br0t66RQ)
+* [闭眼买国企](https://mp.weixin.qq.com/s/UYRgmypAZI1WlhttclsvlQ)
+* [财政央行再议货币大放水 刘尚希：同意，纪敏：越来越没节操](https://mp.weixin.qq.com/s/e0m-g7UCvvng_Dp2DVCSPQ)
+* [金交所通道要凉凉](https://mp.weixin.qq.com/s/ZCTb6iadVfrkM_SzBweE2g)
+* [专项债用作资本金比例远低于25%红线，地方政府为何踌躇？](https://mp.weixin.qq.com/s/BrFo3zNSmwKo9pEu47OikQ)
+* [独家丨西部某省开展国企债务风险再排查：关注债券违约、贷款续接、对外担保三大风险](https://m.21jingji.com/article/20200910/herald/e7fbe981bd98828f8ec1bea4fd8bffc0.html?from=timeline)
+* [宽松已成央行“鸦片”](https://mp.weixin.qq.com/s/C55ZTZTQan-oS7QvFu6pBg)
+* [又一家城投入股银行](https://mp.weixin.qq.com/s/hotquwLS9JDBuwQvCp7nHQ)
+* [专项债注资中小银行来了：温州银行或率先试水](https://m.21jingji.com/article/20200911/herald/82a5bf009f7f4519f131baa31260cea8.html?from=timeline)
+* [长效机制落地！北京将编制各区房地产调控目标](https://mp.weixin.qq.com/s/kUTutZPDXqGdpxcNit1mkQ)
+* [专项债注资中小银行来了：温州银行或率先试水](https://mp.weixin.qq.com/s/eoKsPJxMOzVa9a3qv9FucA)
+* [城投债刚兑的N种操作，最low的是···](https://mp.weixin.qq.com/s/tX8NDVnJ-GZtUrxRxXrGYA)
+* [2020城投评级变动梳理：10家下调，139家上调](https://mp.weixin.qq.com/s/fY1OrYW1Y1IS-S9dy-t5HA)
+* [杨伟民：经济增速何以转正？](https://mp.weixin.qq.com/s/AyOCVjYPfgcbuofurpWanw)
+* [金控监管办法来了（附央行解读）](https://mp.weixin.qq.com/s/sqQlWSWRrB8HPkCpd-SfZQ)
+
+## 劳工
+* [众筹 ｜ 14岁辍学进工厂的女孩们，如今过得怎么样？](https://mp.weixin.qq.com/s/1LIHiIzdWlgr-zhvFBNN8w)
+* [2020-99公益日（个人整理）](https://shimo.im/docs/wtWcgR6JKrxxH33G/read?from=timeline)
+* [「左翼失語」，還是被消聲的抗爭主體？](https://matters.news/@PK_Hui2020/%E5%B7%A6%E7%BF%BC%E5%A4%B1%E8%AA%9E-%E9%82%84%E6%98%AF%E8%A2%AB%E6%B6%88%E8%81%B2%E7%9A%84%E6%8A%97%E7%88%AD%E4%B8%BB%E9%AB%94-bafyreiffnjhocnx4xhqytk7hylbwnp2upoco4iyewm5bift6rxeypnqxte)
+* [工伤指南](https://m.douban.com/note/777329517/)
+* [林超超评《再造与自塑》丨中国工人阶级的形成](https://mp.weixin.qq.com/s/4-gt761BsYoKUK4CYI5oZw)
+
+## 性别
+* [最后三天！将你的关切纳入国家妇女发展十年大计](https://mp.weixin.qq.com/s/ng1AXByxjDYFrdcEvE-u0Q)
+* [我是在为正义而战，还是在参与网络暴力？｜吕频X弦子【有点田园】](https://mp.weixin.qq.com/s/ALuPK_q3-YVAMxjA20tDeQ)
+* [全职妈妈们的生活困境，有出路吗？](https://mp.weixin.qq.com/s/1MDAdKbWZ2CyD2438PnuCQ)
+* [书写｜出走的女人：“我可以囿于爱与厨房，也可以走进广大世界”](https://mp.weixin.qq.com/s/oGUiYvF8dROhJxJg7f1GNA)
+
+## 其他
+* [张亭栋获“未来科学大奖”背后的世纪悬案](https://mp.weixin.qq.com/s/AuZ9uJppue1SqZ14z_aDOA)
+* [冰场上的“劳伦斯先生”，人生不能过早缴械投降丨谷雨](https://mp.weixin.qq.com/s/2PUTi_XlRIFV_FvDlyni5A)
+* [普通人可以做些什么？](https://mp.weixin.qq.com/s/C_bC3oCbFJ2qk1hInvbLJg)
+* [多米诺式的“脑残运动”，是如何从牛传到人的？](https://mp.weixin.qq.com/s?__biz=MjM5NTk1ODM4MQ==&mid=2650701989&idx=1&sn=0f1726ce9b4d5c24653103ed716a0ee0&chksm=befabba7898d32b1aed343812809c3fa1e27e34cb1d69c089639e31671c48aaf75de92741608#rd)
+* [《秘密森林》：剪不斷、理還亂的檢警關係](https://www.twreporter.org/a/saturday-features-legal-profession-drama-stranger)
+* [律师与黑客 ｜ #3 第一修正案：代码和言论自由 – 网络社会研究所](https://www.caa-ins.org/archives/6785)
+* [【線上博弈帝國追蹤1】博弈代工轉向洗錢代工，奕智博如何一週洗白50億？](https://www.twreporter.org/a/online-gambling-industry-money-laundering-wisbet)
+* [【線上博弈帝國追蹤2】演戲開戶當人頭、貢獻信用擔風險，線上博弈員工變「洗錢工具」](https://www.twreporter.org/a/online-gambling-industry-money-laundering-head-account)
+* [徐世榮：區段徵收早已被世界拋棄，只有台灣還在實施 ｜ 苦勞網](https://www.coolloud.org.tw/node/94702)
+* [托洛茨基與革命藝術 ｜ 苦勞網](https://www.coolloud.org.tw/node/94681)
+* [高耀洁：我一生几次逃难｜广场｜端传媒 Initium Media](https://theinitium.com/article/20200905-note-gaoyaojie-diary/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+theinitium+%28%E7%AB%AF%E5%82%B3%E5%AA%92+%7C+Initium+Media%29)
+* [主权的野心？——数字人民币的来龙去脉](https://theinitium.com/article/20200908-opinion-digital-rmb-central-bank/)
+* [一只宠物狗的四肢里，能装下多少芯片？｜深度｜端传媒 Initium Media](https://theinitium.com/article/20200908-technology-dogs-with-microchips/)
+* [加速博士生失败的10种路径](https://mp.weixin.qq.com/s/jbKy1JLgI5VwpIY0QSlxDg)
+* [方方：关于](https://mp.weixin.qq.com/s/GCnY58m4M_3_FM02ZbVzaw)
+* [​接种者疑出现严重不良反应，全球首次暂停进入三期临床的新冠疫苗](https://mp.weixin.qq.com/s/GMKWhbjT8xI0_YvxfIamJg)
+* [反思教育 ｜ 一位年轻中学教师的无奈与挣扎](https://mp.weixin.qq.com/s/YkesDgw_uLiIAIdtrTZFHQ)
+* [Facebook将付你$120，换大选前停用脸书和Instagram账号，你愿意吗？](https://mp.weixin.qq.com/s/T0zQ5Zt7evS-cLQu87wO6g)
+* [一部手机失窃而揭露的窃取个人信息实现资金盗取的黑色产业链](https://mp.weixin.qq.com/s/3UeZzw2LmPsM3cU7Rhmb8w)
+* [格雷伯的礼物｜技术减速主义：我们为什么没能等来“飞行汽车”？](https://mp.weixin.qq.com/s/tbUYCx94wsJ3h7lEVTAtrw)
+* [想象一下，什么是城市（下）｜ 马各庄讲座](https://mp.weixin.qq.com/s/65eNjBaV5gp9Rc5vodBN7A)
+* [荷蘭牢房生活：在低監禁率之國，監獄的存在不是為了懲罰](https://www.twreporter.org/a/netherlands-prison-system-low-incarceration-rate)
+* [China’s Story Comes to Brussels ｜ China Media Project](http://chinamediaproject.org/2020/09/10/chinas-story-comes-to-brussels/)
+* [Putting vaccine trials in boxes](https://junkcharts.typepad.com/junk_charts/2020/09/putting-vaccine-trials-in-boxes.html)
+* [24小时牢笼绝食抗议文明码：去TMD文明码，老子又不是野蛮人](https://mp.weixin.qq.com/s/QE_kh6i3CD36IisZlW5ZSQ)
+* [谁动了我的祖屋？](https://mp.weixin.qq.com/s/S74QK4iNhpNM0QrsdGW1uA)
+* [当你的语言中没有“病毒”](https://mp.weixin.qq.com/s/SMm8BUbv60vO9Rh9hvRJFQ)
+* [腾格里污染举报人被宁夏中卫“扫黑办”逮捕](https://mp.weixin.qq.com/s/_2dFoKqY-uXOYSh5b2Pj1A)
+* [「附近」研习 ｜ 高房价、原子化的社会，“共识共居”会是一种解药吗？](https://mp.weixin.qq.com/s/XNVDz1koqLIEv4Mc6FyBmQ)
+* [文亮](https://mp.weixin.qq.com/s/_nVveAf9ji4gYdLO6WhtOA)
+* [一支新疆乐队决定北漂](https://mp.weixin.qq.com/s/Wj_yy5pcgP9THtmECdwW2g)
+* [睡 狗 是 谁 ？](https://mp.weixin.qq.com/s/Pk_IngPntx3TmNb9bH1LGQ)
+* [尋找裸身集會](https://mp.weixin.qq.com/s/BO-1MWcxKmk7W4KfrfF0fQ)
+* [那些本以为理所当然的](https://mp.weixin.qq.com/s/PtOvNTGqxHMqhGSpWiD_kA)
+* [Corona 预告 No.30 把XX作为XX](https://mp.weixin.qq.com/s/u-zIckCuWeCVxBC90qqMsw)
+* [花木兰影评：迪士尼果然每年都拍了一部星战片](https://mp.weixin.qq.com/s/QGtfVfIJYkAyYCqsSL0I3A)
+* [当我也需要换肾，才知道电视里都是骗人的](https://mp.weixin.qq.com/s/AmEirvycH-DIOg2Kh5KuvA)
+* [串门卖艺 ｜ 从定海到临海](https://mp.weixin.qq.com/s/dRxM5FWjfz1Jd9GXUwHcYw)
+* [赴美留学生的恶梦——留美签证断崖式下跌](https://mparticle.uc.cn/article.html?uc_param_str=frdnsnpfvecpntnwprdssskt&btifl=100&app=uc-iflow&title_type=1&wm_id=7e9692c746b848509e15eeb071459886&wm_cid=377050814474099712&pagetype=share&client=&uc_share_depth=1&from=singlemessage)
+* [芬兰正式废除小学和中学课程教育，成为世界第一个摆脱学校科目的国家！](https://mp.weixin.qq.com/s/PjLDXsAZxyFjkrQJVU6S7w)
+* [有超能力的花木兰，是一厢情愿的文化输出](https://mp.weixin.qq.com/s/Si-VvSNqC_gZ2tjbl-ZlDw)
+* [木心是悲剧命运代表，但不是艺术大师——致郭文景兄、陈丹青兄](https://mp.weixin.qq.com/s/hIehmSIPFmyoTgRLERfGyQ)
+* [抑郁症不该这样上热搜](https://mp.weixin.qq.com/s/yw-Mkct9QNbJ_qz1zt-gVA)
+* [川普在低处](https://mp.weixin.qq.com/s/nVPldnP_fRWzVK57s0pJuQ)
+* [黑白之间：世界工厂周围的帮派与劳工政治](https://mp.weixin.qq.com/s/-l5BSrwpikBS3kneuh4JHQ)
+* [为什么她能拿下威尼斯金狮奖？](https://mp.weixin.qq.com/s/lJ4Cps4QGw4gMysCsELuUQ)
+* [纪念我的朋友大卫·格雷伯](https://mp.weixin.qq.com/s/87jQC0zAlDCYQFbS0Y7zdQ)
+* [在舒适圈里，诺兰突破了自己的舒适圈 ｜ 画外 Vol.03](https://mp.weixin.qq.com/s/HfVsOQeoQya8alAS5saS7g)
