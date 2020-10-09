@@ -23,7 +23,7 @@ comment: on
 * [能够帮外卖骑手走出困境的，不是怜悯 ｜ 手记](https://mp.weixin.qq.com/s/U_mLwV6O_uYvxVGsPFRimA)
 * [大学教育有什么用？](https://mp.weixin.qq.com/s/mqQS-ifRadzaWTOb1BmH2g)
 * [《社评》“劳工社会学”专题（一）｜ 沈原：劳工社会学三十年](https://mp.weixin.qq.com/s/k8Rt7HEmonBWQl20daCuRQ)
-* [逃离职场，去自习室重新开始？｜大陆｜深度｜端传媒 Initium Media](https://theinitium.com/article/20200929-mainland-study-room/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+theinitium+(%E7%AB%AF%E5%82%B3%E5%AA%92+|+Initium+Media))
+* [逃离职场，去自习室重新开始？｜大陆｜深度｜端传媒 Initium Media](https://theinitium.com/article/20200929-mainland-study-room/)
 * [張瓈文／新藥自費負擔沉重，健保改革如何讓重症病人看見希望？](https://www.twreporter.org/a/opinion-health-insurance-system-critical-patients-burden)
 * [誰是健保刷卡大戶──健保財務的隱形黑手，政府刷卡付衛福政策](https://www.twreporter.org/a/health-insurance-system-rate-problems)
 * [青貧族繳保費、銀髮族去看病──青年可能扛不起的健保未來，如何解？](https://www.twreporter.org/a/health-insurance-system-generation-problems)
