@@ -15,7 +15,7 @@ comment: on
 * [打工谈征集：你的春运还好吗？](https://mp.weixin.qq.com/s/9C1N0oz-el3t0NXG8CH4hw)
 * [来稿｜户籍=核酸：打工的人，没有权利回家](https://mp.weixin.qq.com/s/gM2_d118gE2NgWWhE5zJ3A)
 * [各位茶几能关注一下吉林通化吗？现在疫情很严重(更新:有160名志愿者要加入各个社区了](https://m.douban.com/group/topic/209257713/?dt_platform=wechat_moments&dt_dapp=1?bid=tmklQHSQ04A?bid=1fwcXx7hfb4?bid=h9hYZgEr8FQ?bid=_kznFiti-Ic)
-* [0124卓明招募吉林疫情信息响应志愿者]](https://web.uvw.org.cn/circle/sjZ2Lwj/post/kNYw6Z?from=groupmessage)
+* [0124卓明招募吉林疫情信息响应志愿者](https://web.uvw.org.cn/circle/sjZ2Lwj/post/kNYw6Z?from=groupmessage)
 * [沪公布昨天3例本地确诊病例情况，黄浦区贵西小区列为中风险地区！](https://mp.weixin.qq.com/s/z17rfAxVHebIJyrnNhQd2w)
 
 ## 武汉封城一周年
