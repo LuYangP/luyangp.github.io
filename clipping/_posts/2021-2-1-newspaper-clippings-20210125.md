@@ -4,7 +4,10 @@ layout: post
 comment: on
 ---
 
-吉林通化疫情、俄罗斯多地游行声援纳瓦尔尼、GameStop股票被恶炒、昂山素季被捕
+吉林通化疫情、俄罗斯多地游行声援纳瓦尔尼、GameStop股票被恶炒、昂山素季被军方逮捕
+
+<!--excerpt-->
+
 ## 吉林通化疫情
 * [通化防疫乱象：追责14名干部，副市长道歉](https://mp.weixin.qq.com/s/GTxeickpDI1Et5oYFzHL0Q)
 * [武汉社区采购经验](https://m.weibo.cn/status/4597047342414449)
@@ -27,7 +30,7 @@ comment: on
 * [Stop the game – I want to get off! – Michael Roberts Blog](https://thenextrecession.wordpress.com/2021/01/28/stop-the-game-i-want-to-get-off/)
 * [GameStop shares plunge after ban by Robinhood app ｜ GameStop ｜ The Guardian](https://www.theguardian.com/business/2021/jan/28/gamestop-shares-robinhood-app-ban-blackberry-amc-nokia-reddit)
 
-## 昂山素季被捕
+## 昂山素季被军方逮捕
 * [Aung San Suu Kyi and other Myanmar figures detained in military raids, says ruling party ｜ Aung San Suu Kyi ｜ The Guardian](https://www.theguardian.com/world/2021/feb/01/aung-san-suu-kyi-and-other-figures-detained-in-myanmar-raids-says-ruling-party)
 
 ## 经济
