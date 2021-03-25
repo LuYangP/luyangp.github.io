@@ -1,0 +1,113 @@
+---
+title: 2021.03.15~2021.03.21一周新闻剪报
+layout: post
+comment: on
+---
+
+中美高层会晤、亚特兰大枪击与反亚裔仇恨
+
+<!--excerpt-->
+
+## 中美高层会晤
+* [拜登亚洲外交策略：重建盟友关系，联手对抗中国](https://cn.nytimes.com/world/20210315/blinken-japan-south-korea/)
+* [US and China publicly rebuke each other in first major talks of Biden era ｜ China ｜ The Guardian](https://www.theguardian.com/world/2021/mar/19/us-china-talks-alaska-biden-blinken-sullivan-wang)
+* [美中高层会谈火药味十足，双方外交官互相指责](https://cn.nytimes.com/usa/20210319/china-blinken-sullivan/)
+* [火上浇油！美方的翻译，放大了布林肯的攻击性](https://mp.weixin.qq.com/s/ZE_AC5wDXxxA-fcpa5X5cQ)
+* [中國擬在阿拉斯加會晤中要求美方撤銷特朗普的對華制裁措施｜端 x 華爾街日報｜廣場｜端傳媒 Initium Media](https://theinitium.com/article/20210318-wsj-alaska-meeting/)
+* [习近平气候雄心的绊脚石：煤炭](https://cn.nytimes.com/china/20210317/china-coal-politics/)
+* [敌意与分歧：无果而终的美中高层会晤释放了何种信号](https://cn.nytimes.com/world/20210322/china-us-alaska/)
+
+## 亚特兰大枪击与反亚裔仇恨
+* [跨国交互的种族歧视：Covid疫情中，发生在华人和少数族裔身上的多重伤害｜评论｜深度｜端傳媒 Initium Media](https://theinitium.com/article/20210319-opinion-asian-hate-crimes-and-backfire/)
+* [为什么亚特兰大枪击案和每个人都有关](https://mp.weixin.qq.com/s/gc2funP7Hys3Y-EA5yi5YA)
+* [求扩散！不做沉默的哑裔！全美各地周末游行！你会用行动支持吗？](https://mp.weixin.qq.com/s/t6sUFRnEbkFC8azreOh7PA)
+* [亚特兰大枪击案：亚裔的愤怒之声如何改变美媒的报导风向？｜国际｜深度｜端传媒 Initium Media](https://theinitium.com/article/20210320-international-united-states-atlanta-mass-shooting-media-coverage/)
+
+## 经济
+* [“滑天下之大稽'台前幕后](https://mp.weixin.qq.com/s/LlOK5lIrNDQ3JFK9iCFwKw)
+* [和2008年之后对比：不同的政策组合，但却同样的中观传导和微观结果](https://mp.weixin.qq.com/s/jtS0Wj8DOXpL2jac5GRxSA)
+* [Mark Carney: value or price? – Michael Roberts Blog](https://thenextrecession.wordpress.com/2021/03/15/mark-carney-value-or-price/)
+* [Beijing Asks Alibaba to Shed Its Media Assets](https://www.wsj.com/articles/beijing-asks-alibaba-to-shed-its-media-assets-11615809999)
+* [政府杠杆率如何降？重点指向压降整体债务规模，化解地方政府隐性债务](https://m.21jingji.com/article/20210316/herald/ca93dedf1c267b2bbdbc5337ffa8099f.html)
+* [山西再发声：防止企业过度负债，严防债务违约事件发生](https://mp.weixin.qq.com/s/WT1OrGYWuL1NEWjFpCA6Gw)
+* [创新药的中国式内卷：资本扎堆、低水平重复、血海一片](https://mp.weixin.qq.com/s/UtUK5oaYSds7xK7VFKK1fA)
+* [中国的房子到底多贵？应该跟国外的城市直接比较一下！](https://mp.weixin.qq.com/s/mWYbVBgkpK4kTIu8cUe9WA)
+* [黄峥看不到，拼多多盗版中国](https://mp.weixin.qq.com/s/1ljKWt5lYgS2v9QpZjzcWg)
+* [中国电商三巨头都英年早退了](https://mp.weixin.qq.com/s/snnsK5uRUghfYtae-XMnbg)
+* [剑指结构化发行四大顽疾，银行间债市整顿大幕开启](https://mp.weixin.qq.com/s/xoAO-ZYAcP23fZGhWKym-Q)
+* [加密货币资金流入创历史新高](https://www.williamlong.info/archives/6377.html)
+* [李開復談人工智能對企業及就業的影響｜端 x 華爾街日報｜廣場｜端傳媒 Initium Media](https://theinitium.com/article/20210319-wsj-ais-impact/)
+* [刘鹤寄语辽宁：要维护信用，引导预期向积极方向转变](https://mp.weixin.qq.com/s/-5xj4yssLjf-k2oI4vMKfg)
+* [金融人物｜“金融其实很简单”：刘金的银行业之路](https://m.21jingji.com/article/20210319/herald/bd5b188d07530fd7d6d5373dd0cbc01d.html)
+* [“金融其实很简单”：新任中行行长往事](https://mp.weixin.qq.com/s/HXVqw7Vei4TF6kJF_BD5PA)
+* [易会满：只要没有过度杠杆，就不会出大事](https://mp.weixin.qq.com/s/HJLzr6PMxOqac6SO109kag)
+* [两会后首个国家级论坛，透露10大政策信号](https://mp.weixin.qq.com/s/THHgjJLa6ynyMvIPxOO2DA)
+* [Paris Commune 150: the economics – Michael Roberts Blog](https://thenextrecession.wordpress.com/2021/03/18/paris-commune-150-the-economics/)
+* [最新财新周刊｜腾讯百度们企图绕过隐私规则？ 苹果公司如何冲击数字广告](https://weekly.caixin.com/2021-03-20/101677858.html?p0)
+* [最新财新周刊｜“环京大地主”没余粮 华夏幸福债务困局何解](https://weekly.caixin.com/2021-03-20/101677843.html?p0)
+* [最新封面报道｜苏宁危机何来](https://weekly.caixin.com/2021-03-19/101677501.html?p0)
+* [The sugar rush economy – Michael Roberts Blog](https://thenextrecession.wordpress.com/2021/03/21/the-sugar-rush-economy/)
+
+## 劳工
+* [多数派·对谈｜项飙：从春运的流动看不平等的维度](https://mp.weixin.qq.com/s/_kfPrEe2xLSE6eSooWkysQ)
+* [应聘时要书面保证一旦怀孕主动辞职？重庆两江新区社保局出手](https://weibo.com/ttarticle/p/show?id=2309354614744987533818)
+* [没错！“企业失控、监管失序、工会失灵”就是996猖狂的最大原因！](https://www.douban.com/note/797034941/)
+* [35岁职场歧视未解，延迟退休又来，年轻人就业会更难吗？](https://mp.weixin.qq.com/s/GMkJyWfyoKMrUo6c74qidA)
+* [红色圣女米歇尔与巴黎公社的太平洋原住民遗产](https://mp.weixin.qq.com/s/0oxBiyJAO5mPjoHX9OIK6A)
+* [关于天河区城市管理第二保洁所五山班班长谭新文的检举信](https://card.weibo.com/article/m/show/id/2309404616474433290675)
+* [环卫工人讨薪后遭公司报复，工会反问“你还想加班？”](https://www.douban.com/note/756113296/)
+* [梁鸿：在大城市，老一辈农民工不会有漂泊感，白领才会有 ｜ 正午访谈｜界面新闻 · 正午](https://www.jiemian.com/article/5824609.html)
+* [被击碎的互联网叙事，和中国年轻人的”新异化“人生](https://matters.news/@zscliterary/%E8%A2%AB%E5%87%BB%E7%A2%8E%E7%9A%84%E4%BA%92%E8%81%94%E7%BD%91%E5%8F%99%E4%BA%8B-%E5%92%8C%E4%B8%AD%E5%9B%BD%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9A%84-%E6%96%B0%E5%BC%82%E5%8C%96-%E4%BA%BA%E7%94%9F-bafyreiescj3f6gy7e7qr3ae7jsiz225ki2wnapj5gl6qglrkqeusx2whf4)
+* [多半快递小哥月收入不超过5000元“月入万元”的快递小哥仅占1.3%](https://m.weibo.cn/status/4617625076504020?)
+
+## 性别
+* [暴食与厌食，被身材焦虑绑架的中国女孩们｜大陆｜深度｜端传媒 Initium Media](https://theinitium.com/article/20210317-mainland-body-shaming/)
+* [1931 年生的王秀凤 ｜ 水瓶故事](https://mp.weixin.qq.com/s/zXeChdkR9e2sxbjajBJhcA)
+* [女权主义与消费主义水火不容吗？｜ 三八节放送](https://mp.weixin.qq.com/s/isd9miArcTZDF-3ZeAmrew)
+* [20件许多女生介意，却不常说出口的事。](https://mp.weixin.qq.com/s/mrMZc1SuxXzANhfnZgB1Aw)
+* [小端網絡觀察：北京16歲男生因性向遭校園霸凌，輿論為何容不下男性受害者？｜廣場｜端傳媒 Initium Media](https://theinitium.com/article/20210320-internet-beijing-school-bullying/)
+* [属于女性的城市使用权，请还给她们](https://mp.weixin.qq.com/s/5WUl4vkJyPP_W7_Hu_odWQ)
+* [加拿大为什么有六种性别 ？](https://mp.weixin.qq.com/s/AOKmy6bU1VpAMrd_l58vHw)
+* [性骚扰女社工的“公益明星”刘猛还在培训社工？“米兔”胜诉第一案需要你的关注！](https://mp.weixin.qq.com/s/xYzx1R4XVdBBdakeQnpTQA)
+* [带妈妈取节育环](https://matters.news/@yangliuyilia/%E5%B8%A6%E5%A6%88%E5%A6%88%E5%8F%96%E8%8A%82%E8%82%B2%E7%8E%AF-bafyreieubaobj6byq3jz2y7ix4ijzmxpgv4l3ucegvitrlzqgx7zsb2eem)
+* [湾区N号房 事件文档搜集过程中的一些感受 和我想说的话](https://www.douban.com/note/797635186/)
+* [涉事人关于湾区N号房的一些回复](https://seattler.io/thread-6313.htm)
+
+## 其他
+* [滴滴回应司机因口角撞死乘客](https://www.williamlong.info/archives/6375.html)
+* [维权网: 女权主义者李翘楚女士今被正式批准逮捕](https://wqw2010.blogspot.com/2021/03/blog-post_15.html)
+* [【精選書摘】沒朋友，只有山：庫德族流亡者被拘禁5年的獄中札記](https://www.twreporter.org/a/bookreview-no-friend-but-the-mountains-writing-from-manus-prison)
+* [Brazil Needs Coronavirus Vaccines. China Is Benefiting.](https://www.nytimes.com/2021/03/15/world/americas/brazil-vaccine-china.html?_ga=2.147212663.1720173943.1615864209-495480934.1588921415)
+* [我如何从豆瓣第一个科普寄生虫到去检查寄生虫的](https://www.douban.com/note/797086502/)
+* [Chaos in Germany and Italy after suspension of Oxford vaccine ｜ Coronavirus ｜ The Guardian](https://www.theguardian.com/world/2021/mar/16/chaos-in-germany-and-italy-after-suspension-of-oxford-vaccine)
+* [香港女孩倫敦染疫記：病困异乡，我被英国公共医疗网漏掉后……｜风物｜深度｜端传媒 Initium Media](https://theinitium.com/article/20210316-culture-plague-diary-london-hk-girl/)
+* [IPO热潮背后，你了解港交所大堂的秘密吗？｜评论｜深度｜端传媒 Initium Media](https://theinitium.com/article/20210316-opinion-hk-stock-exchange-square/)
+* [Rising encrypted app Signal is down in China ｜ TechCrunch](https://techcrunch.com/2021/03/15/signal-is-down-in-china/)
+* [为什么社交媒体上人人都很愤怒？](https://mp.weixin.qq.com/s/FvUpV-wXxObUEPa4_rXyYg)
+* [关于中国“文革”研究的现状和前景](https://mp.weixin.qq.com/s/ws3GG8LdIpxhyjDCsWSMRw)
+* [为什么周边殡葬用品越发达的医院，医疗水平越高？](https://mp.weixin.qq.com/s/coo3R8OHva6mKk2aaMUN3w)
+* [卧底10个鸡娃群后，没娃的我都想鸡自己了](https://mp.weixin.qq.com/s/h9fKloHm19zFGTMAabfpcA)
+* [她用一件小事，就让小区的公共空间变得更有人情味了](https://mp.weixin.qq.com/s/LZ8QIDhcBC_ojU-MeLgK_w)
+* [一场尘暴后，北京少了一批北京人](https://mp.weixin.qq.com/s/BNAwFEpFxMb29qio3OD3sg)
+* [怎样才能做到情绪成熟？](https://mp.weixin.qq.com/s/SvA9Dfq5aSdTD4RRC8HA1w)
+* [伊朗“折叠”：山脚下的人、沙漠里的人与戴面具的人](https://www.thepaper.cn/newsDetail_forward_5566321)
+* [中国因内容审查不严惩罚领英](https://cn.nytimes.com/technology/20210319/china-linkedin-censorship/)
+* [郭美美，十年未变](https://mp.weixin.qq.com/s/a6ug6ykjZ9t4J5Yl3v99jQ)
+* [豆瓣 9.0 分，DC 电影终于要逆袭漫威了吗？](https://mp.weixin.qq.com/s/7pxWTMV2QJl8eO-fuCthhQ)
+* [无印良品与共产主义](https://mp.weixin.qq.com/s/-gvVMGgo-RDnneJUVbCE-Q)
+* [知名育儿博主一得他爹的儿子自杀了。](https://bbs.saraba1st.com/2b/thread-1993325-1-1.html)
+* [一得的留学申请文书](https://mp.weixin.qq.com/s/tTGBGB8uQNQfmdecxkVtuQ)
+* [所谓家长的育儿学，就是孩子的动力学：关于一得他爹育儿理念的5000字复盘](https://note.youdao.com/ynoteshare1/index.html?id=9eed8f425529e2f1f38c7ebe80ce94c8&type=note&from=timeline)
+* [藏在家中的摄像头：保护下的摧毁｜大陆｜科技｜深度｜端傳媒 Initium Media](https://theinitium.com/article/20210319-technology-camera-in-home/)
+* [向阳背雨：占领立法院七年后，台湾青年的时代考题｜台湾｜深度｜端傳媒 Initium Media](https://theinitium.com/article/20210318-taiwan-student-movement-7-years/)
+* [匿名報導、祕密行動──緬甸政變後，軍方搜捕下的新聞戰鬥](https://www.twreporter.org/a/myanmar-coup-journalist-news)
+* [计算机网络通讯的【系统性】扫盲](https://program-think.blogspot.com/2021/03/Computer-Networks-Overview.html)
+* [从爽文广告一窥当代人的精神世界](https://bbs.saraba1st.com/2b/thread-1994256-1-1.html)
+* [《新·福音战士剧场版：终》 – artforum.com.cn](http://www.artforum.com.cn/film/13291)
+* [“Having a tea” 个人心理支持，有需要可联系](https://www.douban.com/note/797434916/)
+* [車票上的中國](https://matters.news/@leeyian/%E8%BB%8A%E7%A5%A8%E4%B8%8A%E7%9A%84%E4%B8%AD%E5%9C%8B-bafyreibq5v6luzcnjktb4jmtf5fyoabh3yjrbm5igllzk6s62mlp4mseeq)
+* [外国人离港潮：去留之间， 他们怎看黯淡的城市未来？｜香港大离散｜香港｜深度｜端传媒 Initium Media](https://theinitium.com/article/20210322-hongkong-expats-foreigners-leaving/)
+* [诱导与课金：游戏里的行动有可能真正自由吗？｜Game ON｜深度｜端传媒 Initium Media](https://theinitium.com/article/20210321-game-on-game-freedom/)
+* [当农业园来的时候，我们蕉径半世纪的家没有了｜香港｜深度｜端传媒 Initium Media](https://theinitium.com/article/20210320-hongkong-agricultural-park-1/)
+* [一个可能摧毁香港农业的农业园｜香港｜深度｜端传媒 Initium Media](https://theinitium.com/article/20210321-hongkong-agricultural-park-2/)
+* [民政部等22部门联合印发《关于铲除非法社会组织滋生土壤净化社会组织生态空间的通知》](https://mp.weixin.qq.com/s/cxJlKoBHrSVvPus8kUs2jg)
