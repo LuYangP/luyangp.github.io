@@ -20,7 +20,7 @@ comment: on
 
 ## 经济
 * [一季度地方债发行规模为何骤减？后续待发行额度约6万亿](https://m.21jingji.com/article/20210406/herald/18705b13b85730f47252aeed68aceb23.html)
-* [前沿君对话① | 东方基金蒋茜的周期投资方法论](https://mp.weixin.qq.com/s/NUTUAq69KAzdyxI2cV3Vrg)
+* [前沿君对话①｜东方基金蒋茜的周期投资方法论](https://mp.weixin.qq.com/s/NUTUAq69KAzdyxI2cV3Vrg)
 * [民营医院第一股破产重组，医院还是一门好生意吗？](https://mp.weixin.qq.com/s/TcAbRhbYdV_eSBBohsK6zw)
 * [互联网医疗扎堆上市背后：那些决定上市和不上市的企业怎么想？](https://mp.weixin.qq.com/s/vavFJTuM92oY6koluVDd_Q)
 * [今天，财政部发布会释放6大信号](https://mp.weixin.qq.com/s/wm90-BBC2dnkFb8pydEYvQ)
@@ -42,7 +42,7 @@ comment: on
 * [河南国资委：建立“631”债务偿还机制，提前1个月备足偿债资金](https://mp.weixin.qq.com/s/W6SYiMLNR4PMv_wc3pKusw)
 
 ## 劳工
-* [一名环卫女工的自述：工作、家庭和被车撞死的环卫工哥哥 | 服务业劳动观察](https://serviceworkercn.com/female-sanitation-workers-story/)
+* [一名环卫女工的自述：工作、家庭和被车撞死的环卫工哥哥｜服务业劳动观察](https://serviceworkercn.com/female-sanitation-workers-story/)
 * [起诉书：开胸验肺事件曝光，时任新密市委书记收了企业40万](https://m.thepaper.cn/newsDetail_forward_12057918)
 * [“北大保安”的二次突围](https://mp.weixin.qq.com/s/FKbpdLyVgq8sK-xPnaxVLw)
 * [从清华长庚去世的年轻医生的事件，谈谈年轻医生的...](https://www.douban.com/group/topic/219940231/)
@@ -63,7 +63,7 @@ comment: on
 ## 其他
 * [中国在争议水域部署大量船只，加强对南海控制](https://cn.nytimes.com/china/20210406/swarms-ships-south-china-sea/?utm_source=RSS)
 * [春天了，该摸鱼摸鱼，该发呆发呆](https://mp.weixin.qq.com/s/YN5fhJzUYAp0Js7mTNN3zg)
-* [傅正 | “棉花帝国”是怎么统治亚洲的？](https://mp.weixin.qq.com/s/Pu4F3xyK6s_DuZXh-rO_aw)
+* [傅正｜“棉花帝国”是怎么统治亚洲的？](https://mp.weixin.qq.com/s/Pu4F3xyK6s_DuZXh-rO_aw)
 * [因为反对歧视非洲人，我们被网暴了](https://mp.weixin.qq.com/s/zPGjgmUTmcJ73wQGTG1HyQ)
 * [周玉亮：网络风暴是如何形成的，以及社交媒体上以讹传讹是如何产生的？](https://mp.weixin.qq.com/s/H4uU-L5CIlJO6u_97uVWxQ)
 * [纳粹建集中营时，德国老百姓都坚决支持](https://mp.weixin.qq.com/s/6NCo-7QPckAa5W0j6l3roQ)
