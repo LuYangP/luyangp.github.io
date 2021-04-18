@@ -75,7 +75,7 @@ comment: on
 * [中国有座城市,花了近30年把一条河熬成米其林级别的火锅汤底 ⎮ 淄博火锅鱼](https://mp.weixin.qq.com/s/nhfr_htPWuJwcxtnb-MUVQ)
 * [新京报遭公权力干预，视频被删](https://m.weibo.cn/status/K95cZ6ibv?from=timeline&wvr=6&mod=weibotime&type=comment&jumpfrom=weibocom)
 * [一个网络喷子的自白 我有过剩的同理心，也曾幻想改善网络环境](https://k.sina.cn/article_1672519561_m63b09f8903300yx0h.html?from=ent&subch=oent)
-* [奋斗在研发前线，误打误撞进入了游戏业！参与<永远的七日之都>多数设计-SoulofArt](https://mp.weixin.qq.com/s/BVMKadoYA9XXvOClEomeRA)
+* [奋斗在研发前线，误打误撞进入了游戏业！参与《永远的七日之都》多数设计-SoulofArt](https://mp.weixin.qq.com/s/BVMKadoYA9XXvOClEomeRA)
 * [新闻采访写作快速入门](https://mianbaoduo.com/o/bread/YZiYlJtq)
 * [被消失的与不会消失的｜013 ｜ Revue](https://www.getrevue.co/profile/newslab/issues/013-499019)
 * [那些在网贷中挣扎、死去的年轻人](https://bbs.saraba1st.com/2b/thread-1997210-1-1.html)
