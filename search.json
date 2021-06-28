@@ -8,6 +8,7 @@
       "url"      : "{{ site.baseurl }}{{ post.url }}",
       "category" : "{{ post.category }}",
       "tags"     : "{{ post.tags | join: ', ' }}",
+      "date"     : "{{ page.date | date: '%Y年%-m月%-d日' }}",
       "content" : "{{post.content | strip_html | strip_newlines | remove : ' ' | remove : '\' | escape }}"
 
     } {% unless forloop.last %},{% endunless %}
