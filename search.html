@@ -12,11 +12,23 @@ layout: default
     
     <!-- Configuration -->
     <script>
-    SimpleJekyllSearch({
-      searchInput: document.getElementById('search-input'),
-      resultsContainer: document.getElementById('results-container'),
-      // searchResultTemplate: '<div><a href="{url}"><h1>{title}</h1></a><span>{date}</span></div>',
-      json: '/search.json',
-      noResultsText: '未找到结果'
-    })
+ SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    searchResultTemplate: '<div><a href="{url}"><h1>{title}</h1></a><span>{content}</span></div>',
+    templateMiddleware: function (prop, value, template) {
+        if (prop === 'content') {
+            let searchWord = document.getElementById("search-input").value;
+            let regex = new RegExp(`(\s|&lt;|&gt;)([^&]*?${searchWord}.*?)(&lt;|&gt;|$)`, "i")
+            let m = value.match(regex)
+            if (!m) {
+                console.log(value);
+            } else {
+                return m[2].replaceAll(searchWord, `<span style="background-color:darkseagreen">${searchWord}</span>`);
+            }
+        }
+    },
+    json: '/search.json',
+    noResultsText: '未找到结果'
+})
     </script>
