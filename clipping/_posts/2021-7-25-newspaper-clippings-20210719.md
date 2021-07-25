@@ -1,0 +1,131 @@
+---
+title: 2021.07.19~2021.07.25一周新闻剪报
+layout: post
+comment: on
+---
+
+河南暴雨、吴亦凡被指性侵、温州动车事故十周年、东京奥运会开幕
+
+<!--excerpt-->
+
+## 河南暴雨
+* [河南洪灾紧急求助信息登记](https://shimo.im/forms/T9DW1d6krjsKze88/fill)
+* [郑州地铁5号线被困人员口述：车厢外水有一人多高，车厢内缺氧](https://mp.weixin.qq.com/s/smBZ7UkpDoxOFBdBms7bTw)
+* [河南暴雨紧急求助通道](https://h5.peopleapp.com/floodhelp/)
+* [巩义农村：暴雨中的失联小镇](https://mp.weixin.qq.com/s/RY_VCWhT-vr-cnWEHSZkwQ)
+* [郑州地铁5号线：为什么乘客被困两站之间？](https://mp.weixin.qq.com/s/6w9DDkRYkx1UBCqIQIf2HQ)
+* [我还是会想起那个夜晚](https://mp.weixin.qq.com/s/NSoAyF1sQPbnAJj0GoRmig)
+* [暴雨倒灌致12人死亡，郑州地铁两道防线为何皆失守？](https://mp.weixin.qq.com/s/xUb9hMTnih3X74-6BCniIQ)
+* [极端降水会越来越多？](https://mp.weixin.qq.com/s/Ob5DM4B4gfkE3DpMd_4ENg)
+* [【实时更新】腾讯新闻｜河南暴雨灾情求助地图](https://new.qq.com/qqfile/tnewsh5/rain2021/rain2021.html#/)
+* [一小时201.9毫米，暴雨落在河南｜大陆｜深度｜端传媒 Initium Media](https://theinitium.com/article/20210721-mainland-henan-rainstorm/)
+* [一个救命文档的24小时](https://mp.weixin.qq.com/s/nxHrvg_mg7e7VRmolW0_Tg)
+* [暴雨夜，五个郑州人的声音日记｜故事FM](https://mp.weixin.qq.com/s/jN86-cE_5OoSeZqKxHfgxw)
+* [灾难面前，我们唯有依靠互助、勇气和责任感](https://mp.weixin.qq.com/s/7rA-TYzIhowJQr3-aStpYw)
+* [没有“千万郑州人”，只有一个个郑州人](https://mp.weixin.qq.com/s/cP1wwd6SJhZMuWLuxt-K9Q)
+* [地铁列车停在了尴尬的位置](https://view.inews.qq.com/a/20210722A0089H00?uid=&shareto=&devid=B186BC49-3575-46F9-A2CF-95D09C2ACBD3&qimei=ee6aa009-9d8c-4aba-a822-5e4fe234ef67&openid=o04IBANyUc1nKELzBpc7oGFs7T5Q&key=&version=18000924&devicetype=iOS14.6&wuid=oDdoCt_1VWEXrUwIcyHYigm0y_dE&sharer=o04IBANyUc1nKELzBpc7oGFs7T5Q&openwith=wxtimeline)
+* [水涨贾鲁河：泄洪后的乡村大撤离](https://mp.weixin.qq.com/s/59GWX0Po0eCzlQBopUq7eQ)
+* [逝者 ｜ 在车厢里给大家鼓劲儿的她，掉了队](https://mp.weixin.qq.com/s/XdZO2lxDbb_Tg_v5U_RRNg)
+* [灾后郑州：当一座都市忽然失去了互联网 ｜ 故事硬核](https://mp.weixin.qq.com/s/ZE2cOdHTi-Kn0N04FMOcMw)
+* [对话京广路隧道喊话者：曾经历北京暴雨，看情况不对弃车救人](https://m.mp.oeeee.com/a/BAAFRD000020210723523473.html?layer=3&share=timeline&isndappinstalled=0&wxuid=ogVRcdO11cea2yQWjx0o5f0tU8yc&wxsalt=b57fca)
+* [直击新乡暴雨：77万人口受灾，各方救援行动中](https://mp.weixin.qq.com/s/HfSho6X-qwCjp40BaS4yOQ)
+* [0501号地铁没有终点](https://mp.weixin.qq.com/s/TIAyV-AtPc6eZd_YvLUOcA)
+* [一支民间救援队在河南农村的24小时](https://mp.weixin.qq.com/s/1hJUc46RnK3HrOHsMK1BMA)
+* [一份表格里的郑州自救](https://mp.weixin.qq.com/s/9EjkZw6Xd5-OJqVHs5tgPA)
+* [冰点丨水墓：河南'75.8'特大洪水深度报道](https://mp.weixin.qq.com/s/cA7-AeF_RTopUfhfDHzrxg)
+* [气象局长李柯星和他的团队](https://mp.weixin.qq.com/s/k88Xfq-guqaSGStpZST5vQ)
+* [“他没再回来”：河南洪灾受害者绝望寻找失联亲人](https://cn.nytimes.com/china/20210723/china-flood/)
+* [最新封面报道之一｜暴雨袭郑州](https://weekly.caixin.com/2021-07-23/101744175.html?p0)
+* [最新封面报道之二｜新乡亦告急](https://weekly.caixin.com/2021-07-24/101744748.html)
+* [那天傍晚，郑州地铁5号线发生了什么](https://mp.weixin.qq.com/s/hloFur1yztYz2A5vvJ-Ajw)
+* [郑州暴雨真的是“千年一遇”？](https://mp.weixin.qq.com/s?__biz=MzI1MzMwNzAwOA==&mid=2247485267&idx=1&sn=20f4b9b9f2e096a256f84a90755500d9&chksm=e9d736bcdea0bfaa9ff2681d8cff5e80a7569f071c11b8556dc4d4bf59e52ef22853fa4c7f98&dt_platform=douban_broadcast&dt_dapp=1)
+* [郑州地铁12死5伤背后的灾害链：极端强降雨穿透城市轨道交通“安全网”](https://m.21jingji.com/article/20210721/herald/6bf87fac4068fdc7c246acc054a18466.html)
+* [社会组织注意事项，如何在河南水灾中针对残障人士进行有效救援？](https://mp.weixin.qq.com/s?__biz=MzI1Mjg4NTc1Ng==&mid=2247508285&idx=1&sn=eec9e6ca519a1d0643945d0c0d934539&chksm=e9de0eaedea987b8111dcfa1c38f650804cea938369f3c83f010a9ea7ee14cc4ec35803278d8&token=2018711439&lang=zh_CN)
+* [河南暴雨中一线工人的微弱呼救](https://www.douban.com/note/808305547/)
+
+## 吴亦凡被指性侵
+* [被指诱奸未成年、“选妃”：吴亦凡性丑闻引发公愤](https://cn.nytimes.com/china/20210721/kris-wu-china-metoo/)
+* [情况通报](https://mp.weixin.qq.com/s/PjRUYVchGEx6AyHr6loFJA)
+* [如果此次吴亦凡不接受法律制裁，我仅代表本人，不会再为中国电影、综艺以及相关院线、网站贡献一分钱](https://m.douban.com/group/topic/235974981/?dt_platform=wechat_moments&dt_dapp=1)
+
+## 温州动车事故十周年
+* [温州动车事故十周年：大国速度与困在记忆中的失亲者｜大陆｜深度｜端传媒 Initium Media](https://theinitium.com/article/20210723-mainland-wenzhou-bullet-train-crash-10-year/)
+* [各大报纸头版报道温州动车追尾事故](https://3g.163.com/news/photoview/0001/16711.html?spss=adap_pc)
+
+## 东京奥运会开幕
+* [八问奥运会：这个世界还需要奥林匹克这种综合性的盛会吗？｜东京奥运会｜国际｜深度｜端傳媒 Initium Media](https://theinitium.com/article/20210723-international-olympic-games-tokyo-eight-questions/)
+* [三个国家、四场奥运：第一位参与奥运的“台湾人”张星贤｜东京奥运会｜台湾｜深度｜端传媒 Initium Media](https://theinitium.com/article/20210722-taiwan-the-first-player-of-olympics/)
+* [核查｜东京奥运会开幕式真有这些演出？](https://mp.weixin.qq.com/s/CbxmxCzO20EXpnv8HnF-lQ)
+* [艰难的东京奥运会开幕式，并没让我失望](https://mp.weixin.qq.com/s/uHIOYHcTI5W7fst34oFjLg)
+* [彩虹之队：东京奥运会公开出柜的LGBT+运动员名单](https://www.douban.com/note/808421298/)
+* [被误解的奥运会开幕式，被营销号掌控的互联网情绪](https://zhuanlan.zhihu.com/p/392647300)
+
+## 经济
+* [Biden signs executive order targeting right to repair, ISPs, net neutrality, and more](https://www.theverge.com/2021/7/9/22569869/biden-executive-order-right-to-repair-isps-net-neutrality)
+* [复盘历次降准后LPR走势，明日报价前瞻：一年期大概率不降](https://m.21jingji.com/article/20210719/herald/c7fa6d0ee99516353e239dd39d05c08c.html)
+* [打破25BP“铁底”：10年期地方债票面利率首度高于下限15BP](https://mp.weixin.qq.com/s/m9AqJQ2KDqhPpkMUqsVUPQ)
+* [美国财政部长耶伦质疑美中贸易协议](https://cn.nytimes.com/usa/20210719/yellen-us-china-trade/)
+* [河南人要革全球钻石巨头的命](https://mp.weixin.qq.com/s/rtruCaCv8j4DIFavqjdXAQ)
+* [AI医疗的中场战事: 资本疯狂烧钱，公司拼命亏损](https://mp.weixin.qq.com/s/uyiBkpWk2XexwsFf8IOjwg)
+* [腾讯变“疯鹅”，海外游戏团队超4000人，提前完成今年目标？](https://mp.weixin.qq.com/s/J61jlfagYBYIHs-MoW34aw)
+* [中央最新定调房地产调控 北京模式获肯定并推广](https://mp.weixin.qq.com/s/j0dppcbTiBjE815i4wqOHQ)
+* [独家｜“16青国投MTN001”分期还本方案存变数，发行人提议延期5年兑付](https://m.21jingji.com/article/20210723/herald/c0eb490d63529d075bbffc5da7e772b0.html)
+* [It’s not pent up demand, it’s savings ｜ Financial Times](https://www.ft.com/content/afc67ffb-3f4c-4b41-8240-1a96115325c9)
+* [More of the same, but worse ｜ Financial Times](https://www.ft.com/content/c30d53d3-4876-49f4-99b8-d0c0f597bbbe)
+* [300万粉丝财经大V暴雷被抓](https://www.williamlong.info/archives/6499.html)
+* [最新财新周刊｜电动车“炒钴热”](https://weekly.caixin.com/2021-07-24/101744786.html?p0)
+* [最新财新周刊｜“中国英伟达”梦想](https://weekly.caixin.com/2021-07-24/101744787.html?p0)
+* [关于中国碳排放权交易市场，你应该知道的四件事](https://cn.nytimes.com/china/20210719/china-carbon-market/)
+* [最新财新周刊｜特别报道：中国碳价出世](https://weekly.caixin.com/2021-07-24/101744783.html?p0)
+* [最新财新周刊｜新三板考验](https://weekly.caixin.com/2021-07-24/101744772.html?p0)
+* [最新财新周刊｜隐私计算风起](https://weekly.caixin.com/2021-07-24/101744776.html?p0)
+
+## 劳工
+* [中年北漂，追逐户口，只为更好的生活](https://mp.weixin.qq.com/s/eY5LU106R57IOIJ0xBy-fA)
+* [南栅往事](https://mp.weixin.qq.com/s/tvYxjpDbYLTZb-GZDMrGEw?utm_campaign=%E6%96%B0%E9%97%BB%E5%AE%9E%E9%AA%8C%E5%AE%A4&utm_medium=email&utm_source=Revue%20newsletter)
+* [Wealth Accumulation and Opportunity Hoarding: Class-Origin Wealth Gaps over a Quarter of a Century in a Scandinavian Country](https://journals.sagepub.com/doi/full/10.1177/00031224211020012)
+* [走不出的按摩店｜视障按摩师的自述：我为什么不喜欢按摩？ ｜ 服务业劳动观察](https://serviceworkercn.com/blind-masseur/)
+* [三孩生育政策公布 地方可制定差异化购房优惠政策](https://mp.weixin.qq.com/s/EuTYFTVRt-T0hAOY-9GRrw)
+* [取消加班也治不好内卷，互联网打工人说“真的停不下来”｜大陆｜科技｜深度｜端傳媒 Initium Media](https://theinitium.com/article/20210720-mainland-work-in-internet-giants/)
+* [蒋寅 ｜ 关于博士生发C刊论文的对话](https://mp.weixin.qq.com/s/GR1YE1ARfMk0s6AwZyVQ6w)
+* [说说我的“内卷”考博](https://m.douban.com/note/804343677/)
+* [打工谈vol.21 ｜ 配送员阿穗：在工作与写作间寻找自由](https://mp.weixin.qq.com/s/eFSKLCRETl-jsrz5OQJBmg)
+* [​教培“双减”新政落地，校外机构面临去产业化](https://mp.weixin.qq.com/s/dE_QzL28ZXwXs-ap8_5rPA)
+* [学而思一天暴跌近70%，中概教育股进入危机时刻](https://mp.weixin.qq.com/s/k2k6RcpufWVOeRBLyDAtog)
+* [最新财新周刊｜“最严”多校划片之后](https://weekly.caixin.com/2021-07-24/101744791.html?p0)
+* [台风中美团需要骑士赶死队](https://www.douban.com/note/808491112/)
+* [2021高考录取，中山大学再爆“冷门”，多省录取分数创新低](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9909641556648698657%22%7D&n_type=-1&p_from=-1)
+* [招募社员 ｜ 零房租，在躺平沟建一个公社](https://www.douban.com/note/808141013/)
+* [​ 一个未婚妈妈争取产假工资的四年 ｜ 深度报道](https://mp.weixin.qq.com/s/s8EGNog7Lo839Lr025Wo5w)
+
+## 性别
+* [被说“不大”时，有些男人怎么反应那么大？](https://mp.weixin.qq.com/s/iw7cbp_Jq-KJL373rzZCSg)
+* [“今天没人有权站在这个讲台上” ｜ 与此同时](https://mp.weixin.qq.com/s/5XiVCYNgFqz-S1Ln6yupzA)
+* [李纯黑桃纹身](https://m.weibo.cn/status/4660822032778020?wm=3333_2001&from=10B7093010&sourcetype=weixin)
+* [为什么需要反思单配偶制](https://mp.weixin.qq.com/s/fvbpXTeBfWlOY8YFBAt4eA)
+* [“知性青年”专访：无顾忌地讨论性愉悦，我们对性的恐惧来自孤独｜风物｜深度｜端传媒 Initium Media](https://theinitium.com/article/20210725-culture-sex-and-love-lgbt-to-sex/)
+* [请一定要看后续！官方出声明了！我希望这样的人少一点，不要...](https://www.douban.com/group/topic/235477265/)
+
+## 其他
+* [【80后传媒史・人物志】白岩松：国嘴叫不醒躺平的年轻人?](https://www.xiaoyuzhoufm.com/episode/60f37ec0291fb9c2ed94970c?s=eyJ1IjogIjVlN2M5MzcyYjNjNWJjYTVmNjQxNGE0NyJ9&utm_campaign=%E6%96%B0%E9%97%BB%E5%AE%9E%E9%AA%8C%E5%AE%A4&utm_medium=email&utm_source=Revue%20newsletter)
+* [Comic strip: Who needs a press pass?](https://existential.cjr.org/press-pass-history-comic/?utm_campaign=%E6%96%B0%E9%97%BB%E5%AE%9E%E9%AA%8C%E5%AE%A4&utm_medium=email&utm_source=Revue%20newsletter)
+* [微博会被取代吗？｜028 ｜ Revue](https://www.getrevue.co/profile/newslab/issues/028-687974)
+* [什么是“芬兰化”？：一个在强权夹缝中求生的北欧小国生存史｜评论｜深度｜端傳媒 Initium Media](https://theinitium.com/article/20210718-opinion-cold-war-finland-survival/)
+* [Peru’s Pedro Castillo Can Break With Neoliberalism for Good](https://jacobinmag.com/2021/07/peru-election-pedro-castillo-neoliberalism-fujimorismo-indigenous)
+* [咒骂方方早死的巴黎恋人自己得了癌症 但方方的粉丝纷纷伸出援手](https://mp.weixin.qq.com/s/g8x2ZtafysymblSNWKcVoA)
+* [Funny moments of using the GitHub Copilot](https://scaomath.github.io/blog/vscode-copilot/)
+* [陈纯：为什么要讨论小粉红的“主体性”｜评论｜大陆｜深度｜端传媒 Initium Media](https://theinitium.com/article/20210719-opinion-why-should-understand-little-pinko/)
+* [小龙虾要冰镇的还是麻辣的？](https://mp.weixin.qq.com/s/tPnPvhEQuL0AtmoU6w0AYA)
+* [审核地狱图 ｜ 与此同时](https://mp.weixin.qq.com/s/7hSd2sme97AcjHUVhsaOaw)
+* [港中大校友唐艺扬威戛纳　夺最佳短片金棕榈奖！](https://mp.weixin.qq.com/s/T7i1elgNxq52EcEPTOH24A)
+* [哈里.哈尔平 ｜ 对抗超控制的全民密码学 – 网络社会研究所](https://www.caa-ins.org/archives/7878)
+* [光州阴谋论、“历史扭曲”和韩国言论自由之争](https://cn.nytimes.com/asia-pacific/20210720/korea-misinformation-youtube/)
+* [美国正式指控中国政府入侵微软邮件系统](https://cn.nytimes.com/usa/20210720/microsoft-hacking-china-biden/)
+* [缅甸平行政府内幕：如何对付枪、民族主义与大国政治？｜缅甸政变｜国际｜深度｜端传媒 Initium Media](https://theinitium.com/article/20210720-international-interview-nug/)
+* [南京一天新增17例感染者，大城市为何再次破防？](https://mp.weixin.qq.com/s/39pjwOnjjaIVBYtI9NoKww)
+* [搅拌器与食物泥：我那爱吃的妈妈，还能拥有食福吗？｜香港｜深度｜端传媒 Initium Media](https://theinitium.com/article/20210722-hongkong-soft-meal-for-dysphagia/)
+* [齐泽克 ｜ 通往社会主义的最后出口](https://mp.weixin.qq.com/s/9eG8oCryYPJT3A9LChUWtQ)
+* [《纽约客》深度：放弃幻想，学会与新冠共存](https://mp.weixin.qq.com/s/gPix-yiyV1atB5h2XF96bA)
+* [古巴政府通过简易审判和监禁惩罚抗议者 英国政府将艺术高等教育经费减半｜ARTFORUM新闻](https://mp.weixin.qq.com/s/f7NK5RunnBYk-tRIBQF3QQ)
+* [清华教授告诉你 装修中卫生间特别容易忽视的几个需求](https://mp.weixin.qq.com/s/RYjPDeGD6tgKB94TIaf0Eg)
+* [清华教授告诉你 三代同堂的小户型如何优化设计](https://mp.weixin.qq.com/s/mY8DjERctvDNOhN8SOjMtg)
