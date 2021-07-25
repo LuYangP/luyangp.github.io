@@ -16,16 +16,60 @@ comment: on
 
 另外一个观察是，这些国内的政治运动往往是与社会主义阵营里其他国家的政治运动遥相呼应、声气相连的。这也从一个侧面说明，并不单纯是中共或毛泽东喜欢搞政治运动，而更可能是当时社会主义阵营内部的矛盾确实积累到了要爆发的程度。
 
-| 时间 | 事件 | 代表性文件 | 外国政治运动 |
-| :-----| :----- | :----- | :----- |
-| 1949-55 | 民主化改造、第一个五年计划 |  |  |
-| 1956-57 | 双百方针和反右 |  | 匈牙利革命 |
-| 1958-65 | 大跃进 |  |  |
-| 1966-69 | 文化大革命 | 杨小凯《[中国向何处去](https://www.marxists.org/chinese/reference-books/minjian-1966-1976/25.htm)》 | 布拉格之春 |
-| 1969-76 | 四五运动 | 李一哲《[关于社会主义民主和法制](https://www.marxists.org/chinese/reference-books/minjian-1966-1976/41.htm)》 |  |
-| 1976-84 | 民主墙运动 |  | 波兰团结工会 |
-| 1984-94 | 六四民运 |  |  |
-
+<table class="custom-table">
+  <thead>
+    <tr>
+      <th style="text-align: left">时间</th>
+      <th style="text-align: left">事件</th>
+      <th style="text-align: left">代表性文件</th>
+      <th style="text-align: left">外国政治运动</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">1949-55</td>
+      <td style="text-align: left">民主化改造、第一个五年计划</td>
+      <td style="text-align: left">&nbsp;</td>
+      <td style="text-align: left">&nbsp;</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">1956-57</td>
+      <td style="text-align: left">双百方针和反右</td>
+      <td style="text-align: left">&nbsp;</td>
+      <td style="text-align: left">匈牙利革命</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">1958-65</td>
+      <td style="text-align: left">大跃进</td>
+      <td style="text-align: left">&nbsp;</td>
+      <td style="text-align: left">&nbsp;</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">1966-69</td>
+      <td style="text-align: left">文化大革命</td>
+      <td style="text-align: left">杨小凯《<a href="https://www.marxists.org/chinese/reference-books/minjian-1966-1976/25.htm">中国向何处去</a>》</td>
+      <td style="text-align: left">布拉格之春</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">1969-76</td>
+      <td style="text-align: left">四五运动</td>
+      <td style="text-align: left">李一哲《<a href="https://www.marxists.org/chinese/reference-books/minjian-1966-1976/41.htm">关于社会主义民主和法制</a>》</td>
+      <td style="text-align: left">&nbsp;</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">1976-84</td>
+      <td style="text-align: left">民主墙运动</td>
+      <td style="text-align: left">&nbsp;</td>
+      <td style="text-align: left">波兰团结工会</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">1984-94</td>
+      <td style="text-align: left">六四民运</td>
+      <td style="text-align: left">&nbsp;</td>
+      <td style="text-align: left">&nbsp;</td>
+    </tr>
+  </tbody>
+</table>
 
 （书中多处引用了[刘国凯](http://difangwenge.org/read.php?tid=14397)、[陈佩华](https://www.chinesepen.org/blog/archives/113396)、[杨小凯](https://www.bannedbook.net/resources/file/2836)的著述，后又特意找了他们的一些文章来看）
 
