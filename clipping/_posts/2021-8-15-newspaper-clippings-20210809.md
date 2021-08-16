@@ -16,6 +16,7 @@ comment: on
 * [江西教师因涉疫言论被拘15天](https://www.williamlong.info/archives/6525.html)
 * [中国加强奥运场馆防疫设计，力保冬奥会顺利举办](https://cn.nytimes.com/china/20210810/beijing-winter-olympics-covid/)
 * [著名传染病学家管轶：新冠的病死率目前来看，大概是季节性流感的十到五十倍。如果每年按这个速度去收割人类，人类的平均寿命都会缩短](https://mp.weixin.qq.com/s/s88MYmnHv4jI65x5QVqD9g)
+* [张医生被批判，背后是专业主义的危机](https://www.getrevue.co/profile/newslab/issues/032-717011)
 
 ## 新冠病毒溯源问题
 * [中国驻意大利使馆有关提醒](https://mp.weixin.qq.com/s/nXBW-hYLO6zgjBof0D42lg)
@@ -107,3 +108,4 @@ comment: on
 * [Climate change: the fault of humanity? – Michael Roberts Blog](https://thenextrecession.wordpress.com/2021/08/12/climate-change-the-fault-of-humanity/)
 * [《中国医生》也拯救不了的2021电影暑期档｜风物｜深度｜电影｜端傳媒 Initium Media](https://theinitium.com/article/20210815-culture-film-summer-chinese-doctor/)
 * [端点星案结，蔡小伟陈玫回家](https://www.douban.com/people/emmmmmmma/status/3552068009/)
+* [亲历浦东机场送行，赴美千米长队出国难](https://mp.weixin.qq.com/s/P1ZPnWr4PXYn1yowiD9H-g)
