@@ -27,7 +27,7 @@ comment: on
 * [Wikipedia infiltrators banned for pushing China propaganda ｜ News ｜ The Times](https://www.thetimes.co.uk/article/wikipedia-infiltrators-banned-for-pushing-china-propaganda-w2brbw7tt)
 * [忧渗透与起底风险 维基百科对中国编辑下禁令 ｜ 德国之声 来自德国 介绍德国 ｜ DW ｜ 15.09.2021](https://www.dw.com/zh/%E5%BF%A7%E6%B8%97%E9%80%8F%E4%B8%8E%E8%B5%B7%E5%BA%95%E9%A3%8E%E9%99%A9-%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E5%AF%B9%E4%B8%AD%E5%9B%BD%E7%BC%96%E8%BE%91%E4%B8%8B%E7%A6%81%E4%BB%A4/a-59185673)
 * [维基百科封禁7名中国大陆编辑：他们想搞“渗透”](https://www.guancha.cn/internation/2021_09_17_607522.shtml)
-* [说来惭愧，这件事的主角Techyan当年还是我... 来自快乐色批喵学长](http://www.360doc.com/content/21/0917/15/53615136_995886093.shtml)
+* [说来惭愧，这件事的主角Techyan当年还是我... 来自快乐色批喵学长](https://weibo.com/1875648277/KyyBk4YAt?from=page_1005051875648277_profile&wvr=6&mod=weibotime&type=comment)
 * [墙外百科墙里人：中国大陆的维基编辑们｜大陆｜深度｜端传媒 Initium Media](https://theinitium.com/article/20190213-mainland-wikipedia-editors/)
 * [月光博客：维基百科封禁多名大陆编辑：他们想搞“渗透”](https://www.williamlong.info/archives/6560.html)
 
@@ -73,8 +73,8 @@ comment: on
 * [打工谈X橙雨伞 ｜ 在她们的租房故事中，看到女性互助的力量](https://mp.weixin.qq.com/s/rd4MssqeBsqYfZrvJxYM1w)
 
 ## 其他
-* [眼泪砖、绿大米、荧光鱼、牛中毒、人中风，这里的村庄很诡异 ⎮ 重金属乡村巡演2021](http://www.360doc.com/content/21/0913/08/53615136_995265011.shtml)
-* [方法｜如何利用太阳和影子确定照片拍摄时间？](http://www.360doc.com/content/21/0913/08/53615136_995265216.shtml)
+* [眼泪砖、绿大米、荧光鱼、牛中毒、人中风，这里的村庄很诡异 ⎮ 重金属乡村巡演2021](https://mp.weixin.qq.com/s/GrvPoerMdv7OVesWHBlyLw)
+* [方法｜如何利用太阳和影子确定照片拍摄时间？](https://mp.weixin.qq.com/s/5PTm7x4n1ulCvNWj2aPttw)
 * [案例｜一条爆款视频如何扭曲9·11事件真相？](https://mp.weixin.qq.com/s/x2O_UXy1CfSFQv4EV7WI4w)
 * [911事件20周年｜江泽民当机立断三选一为中国赢得关键十年](https://mp.weixin.qq.com/s/-MPkwfl2Gz1wGTvf0cm-eg)
 * [“21世纪开始于2001年9月11日”｜036 ｜ Revue](https://www.getrevue.co/profile/newslab/issues/21-2001-9-11-036-760501)
@@ -85,8 +85,8 @@ comment: on
 * [小心翼翼的《尚气》：当一部电影避开了所有辱华的可能｜风物｜散场之后慢慢吵｜电影｜端传媒 Initium Media](https://theinitium.com/article/20210914-culture-films-shangchi-political-cleanness/)
 * [“天上掉下来的好事”：改变韩国农村的“百元出租车”](https://cn.nytimes.com/asia-pacific/20210914/south-korea-100-won-taxis/)
 * [用两年才吃到的优质直男](https://mp.weixin.qq.com/s/A1WAv3-CsZ7OZnF0aXXwLA)
-* [人类学在寻找现存替代方案以及社会变革的可能性](http://www.360doc.com/content/21/0916/08/53615136_995698328.shtml)
-* [1969年，列侬和小野洋子上演“床上和平”，2021年，土壤改良乐队被迫在床上演出](http://www.360doc.com/content/21/0916/08/53615136_995698451.shtml)
+* [人类学在寻找现存替代方案以及社会变革的可能性](https://mp.weixin.qq.com/s/69K26w2_I6t4-NICxa54kA)
+* [1969年，列侬和小野洋子上演“床上和平”，2021年，土壤改良乐队被迫在床上演出](https://mp.weixin.qq.com/s/Fa6xiTAW10BC5WffZMPnYg)
 * [我们都有「问题」，只不过，我的更明显一点](https://mp.weixin.qq.com/s/7f24NWIeOQrkPCje5HPO5g)
 * [Brexit has become an exercise in quiet damage limitation ｜ Financial Times](https://www.ft.com/content/55d33996-fef4-4aaa-8f8c-644a20ddf5a5)
 * [China seeks to join transpacific trade pact ｜ Financial Times](https://www.ft.com/content/df94b345-8fb9-473f-8e58-0cb230c0a1fa)
