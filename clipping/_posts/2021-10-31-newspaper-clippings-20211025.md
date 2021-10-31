@@ -15,12 +15,12 @@ comment: on
 * [325. 许鞍华 × 梁文道：如今，我少了很多盲目的愿望](https://www.xiaoyuzhoufm.com/episode/617be311b856d721e973a112?s=eyJ1IjoiNWZmN2QzNTdlMGY1ZTcyM2JiNmYyOGI2In0%3D)
 
 ## 西北多地出现疫情
-* [有关《瑞丽需要祖国的关爱》的声明](https://mp.weixin.qq.com/s/_sPadjBAyiAT9s9xu03baw)
-* [瑞丽需要祖国的关爱](https://mp.weixin.qq.com/s/Hv2Z_zv2-HpqLHIYY1bDMg)
 * [北京本轮疫情存在3个传播分支，均为德尔塔变异株](https://view.inews.qq.com/k/20211030A07B3V00)
 * [兰州疫情小规模反弹，当局下令所有小区封闭式管理](https://cn.nytimes.com/china/20211027/covid-china-lanzhou-lockdown/)
 * [杨大né的广播 - 地方政府懒政到了极致](https://www.douban.com/people/158252437/status/3636409699/)
 * [看到这轮yq 的报道真的很难过](https://www.douban.com/group/topic/251212498/)
+* [瑞丽需要祖国的关爱](https://mp.weixin.qq.com/s/Hv2Z_zv2-HpqLHIYY1bDMg)
+* [有关《瑞丽需要祖国的关爱》的声明](https://mp.weixin.qq.com/s/_sPadjBAyiAT9s9xu03baw)
 * [Nic的广播 - 瑞丽前副市长戴荣里10月28日在个人公众号发表博文《瑞丽需要祖国的关爱》](https://www.douban.com/people/167705913/status/3634696261/)
 * [美国宣布国际航空旅行新政策](https://mp.weixin.qq.com/s/Q9xfHXFEvrhSHRri2WNRvA)
 * [为什么全世界只有中国还在坚持病毒清零政策？](https://cn.nytimes.com/china/20211029/china-zero-covid-virus/?utm_source=RSS)
