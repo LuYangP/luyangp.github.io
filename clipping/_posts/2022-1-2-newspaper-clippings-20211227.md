@@ -10,14 +10,14 @@ layout: post
 
 ## 2021年终总结
 * [“困囿时分秒，看人类多么渺小”－－2021年，我们继续寻找人生意义｜2021年终专题｜国际｜深度｜端传媒 Initium Media](https://theinitium.com/article/20211231-international-end-of-year-search-for-meaning/)
-* [我们把2021写成了一首歌](http://www.360doc.com/content/21/1231/13/53615136_1011271644.shtml)
+* [我们把2021写成了一首歌](https://mp.weixin.qq.com/s/u01yMgWn1sVSm30eOET5MQ)
 * [2021年度图片回顾：痛苦使我们更坚强｜国际｜香港｜影像｜端传媒 Initium Media](https://theinitium.com/article/20220101-photo-of-the-year-2021/)
 * [汲取勇气，希望传递 ｜ 2021年劳动权益事件大盘点](https://mp.weixin.qq.com/s/coHK7z-I-pZYe8QEKL268g)
 * [三和大神早报 ｜ 2022-01-01(元旦特辑)](https://mp.weixin.qq.com/s/3P1mYlx4KB7I6C5deqP5_A)
 * [性别之眼回望2021：只要醒来，就在向前](https://mp.weixin.qq.com/s/bnrs61hqOai4NTHF-5KcIw)
 * [2022，愿你有更多自由](https://mp.weixin.qq.com/s/BORyqWlr7-sflr4zcLqJpg)
 * [新年自在。寫自己的故事。](https://mp.weixin.qq.com/s/EpEJDev3FRTgobDvqt-H8g)
-* [2021年定海桥的一些不重要时刻](http://www.360doc.com/content/21/1231/20/53615136_1011317964.shtml)
+* [2021年定海桥的一些不重要时刻](https://mp.weixin.qq.com/s/0sJq3xdomNxDeJY-qKd9Yg)
 
 ## 香港《立场新闻》遭查禁
 * [国殇之柱、民女像、六四浮雕壁画遭强拆后，他们写下自己的记忆｜香港｜深度｜端传媒 Initium Media](https://theinitium.com/article/20211228-hongkong-our-memories-of-june-fourth-memorial-sculptures/)
@@ -35,7 +35,7 @@ layout: post
 * [早报：中国广西将四人“游街示众”，靖西市政府称“没有不合适”｜即时｜端传媒 Initium Media](https://theinitium.com/article/20211230-morning-brief/)
 * [东方快评丨“游街示众”羞辱了谁？](https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=10510470499fe447940e49491c410514d1e4284&to_app=hwbrowser&dy_scenario=recomm&tn=6424642afe6468e9bc7f6559047f161d5b5d21ef6a53b953e112e31b789ffa58&share_to=weixin&channel=HW_TRENDING&ctype=news&appid=hwbrowser&cpid=666&r=CN)
 * [新京报评论：哪怕为了防疫，也不宜“游街示众”](https://baijiahao.baidu.com/s?id=1720434050110793601&wfr=spider&for=pc&searchword=%E6%96%B0%E4%BA%AC%E6%8A%A5%E7%BD%91%20%E6%B8%B8%E8%A1%97%E7%A4%BA%E4%BC%97)
-* [当我的一个淳化老乡成了网上的“猛人”“狠人”“铁人”……](http://www.360doc.com/content/21/1231/07/53615136_1011226116.shtml)
+* [当我的一个淳化老乡成了网上的“猛人”“狠人”“铁人”……](https://mp.weixin.qq.com/s/hWSSQS17B3p_wwaJ36aTuA)
 * [西安封城第六天：市民全网找菜，发布会关闭评论，配菜438元一箱](https://mp.weixin.qq.com/s/Jd-PhB1R_1DArlnJ6ykpjQ)
 * [长安已经开始物物交换了。。。](https://mp.weixin.qq.com/s/snxR1W8oh508RDEmg0e1dg)
 * [西安封城逾一周，极端限制措施惹民怨](https://cn.nytimes.com/china/20211231/china-xian-lockdown-covid/)
@@ -44,7 +44,7 @@ layout: post
 ## 三只松鼠模特眯眯眼被指辱华
 * [为什么一见到眯眯眼，就立刻想到辱华？](https://mp.weixin.qq.com/s/_16NzAWnsfmaJPIOk2jUyg)
 * [三只松鼠模特回应：我的长相不辱华](https://www.williamlong.info/archives/6661.html)
-* [​三只松鼠广告为何引发市场连锁反应？](http://www.360doc.com/content/21/1229/22/53615136_1011051989.shtml)
+* [​三只松鼠广告为何引发市场连锁反应？](https://mp.weixin.qq.com/s/v6p-JHIQfgIREZXItF1Kbw)
 * [东方主义的“眯眯眼”VS父权制的面相学](https://mp.weixin.qq.com/s/vD4f1GB1t-Lqizqpc2ga3w)
 
 ## 经济
@@ -55,8 +55,8 @@ layout: post
 * [央行发布会释放6大信号](https://mp.weixin.qq.com/s/CvBB1iZsunLo5OpaE-DGyA)
 * [全国财政工作会议召开：对化债不实、新增隐性债务的要严肃问责，完善防范化解隐性债务风险长效机制](https://mp.weixin.qq.com/s/rgTEWLMOrUZMD1igt1vGhg)
 * [甘肃城投全梳理](https://mp.weixin.qq.com/s/uciX28BrHYjzEYJ4AbCZJQ)
-* [财政部新疆监管局：探索推行债务穿透式的债务监管手段](http://www.360doc.com/content/21/1231/07/53615136_1011226487.shtml)
-* [一大波城投7.5%发债](http://www.360doc.com/content/22/0101/08/53615136_1011360044.shtml)
+* [财政部新疆监管局：探索推行债务穿透式的债务监管手段](https://mp.weixin.qq.com/s/lHPcvv-CX-0vJGM07IdBWg)
+* [一大波城投7.5%发债](https://mp.weixin.qq.com/s/iiGLCsBvtaHGYdL_TzE_dg)
 * [【土地财政歇火之霸州样本】](https://weibo.com/2208787052/L85Z18YN1?from=page_1005052208787052_profile&wvr=6&mod=weibotime&type=comment)
 * [小商户挨个领罚背后 霸州的地不生钱了](http://www.eeo.com.cn/2021/1227/516624.shtml)
 * [高善文8000字演讲：房地产市场面临转折](https://mp.weixin.qq.com/s/JOv8o6g8vCJP69uFHB8hcA)
