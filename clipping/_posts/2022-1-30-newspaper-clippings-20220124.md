@@ -34,6 +34,7 @@ layout: post
 * [被强奸生8孩的女子会不会这个女孩？已经26年了！她的爸爸没有放弃找她！更新重要体貌特征！【又一个疑似受害者出现！】](https://www.douban.com/group/topic/258902222/?_i=3512526vJICDvI)
 * [无论是刘学州，还是8个孩子的精神病母亲，都折射出一个问题](https://www.douban.com/group/topic/258881990/?_i=3512981vJICDvI)
 * [转载｜盲山之痛](https://mp.weixin.qq.com/s/hrCgIgcGjI7_Fwa_FlKnyA)
+* [👍村委连夜给八孩改建房子了 ](https://www.douban.com/group/topic/258978536/?_i=3554231vJICDvI)
 
 ## 春节返乡防疫政策引争议
 * [北京：今日起，既往14日内及今后在药店购买“四类药品”，健康宝将弹窗](https://mp.weixin.qq.com/s/EmfozlCkcdJQRkzd63c_DQ)
