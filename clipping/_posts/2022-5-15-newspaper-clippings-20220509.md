@@ -15,7 +15,7 @@ layout: post
 * [【書摘】杜特蒂和小馬可仕為何接連當上菲國總統？從《現代菲律賓政治的起源》看人民的選擇](https://www.twreporter.org/a/bookreview-philippine-politics)
 * [革命太易，改革太难：菲律宾戒​​严幸存者看独裁者回朝｜国际｜深度｜2022菲律宾大选｜端传媒 Initium Media](https://theinitium.com/article/20220513-international-philippines-ocampo-martial-law-story/)
 
-## 稳定币TerraUSD的暴跌致加密货币市场震荡
+## 稳定币TerraUSD暴跌致加密货币市场震荡
 * [稳定币TerraUSD的暴跌，是如何使整个加密币市场崩盘的？ – 会员](https://www.caus.money/all-articles/5898/)
 * [一周内蒸发逾3000亿美元，加密货币暴跌引发不安](https://cn.nytimes.com/technology/20220513/cryptocurrencies-crash-bitcoin/)
 * [Crypto industry shaken as Tether’s dollar peg snaps ｜ Financial Times](https://www.ft.com/content/5887ef43-d43a-4608-a1ac-aacc99f076b9)
