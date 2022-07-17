@@ -42,7 +42,6 @@ layout: post
 ## 斯里兰卡债务违约政府倒台
 * [What Sri Lanka reveals about the risks in emerging markets ｜ Financial Times](https://www.ft.com/content/5ac44901-e989-42d6-ab4f-c168cd13196d)
 * [斯里兰卡破产、政府倒台，抗争者想要一个什么样的未来？｜国际｜深度｜端传媒 Initium Media](https://theinitium.com/article/20220713-international-srilanka/)
-* [What Sri Lanka reveals about the risks in emerging markets ｜ Financial Times](https://www.ft.com/content/5ac44901-e989-42d6-ab4f-c168cd13196d)
 * [最新财新周刊｜斯里兰卡是怎样破产的](https://weekly.caixin.com/2022-07-16/101913870.html?p0#page2)
 
 ## 安倍遇刺后续
