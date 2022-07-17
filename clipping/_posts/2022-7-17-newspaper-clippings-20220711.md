@@ -1,0 +1,133 @@
+---
+title: 2022.07.11~2022.07.17一周新闻剪报
+comment: on
+layout: post
+---
+多地烂尾楼业主强制停贷、河南村镇银行取款难后续、全国多地爆发疫情、斯里兰卡债务违约政府倒台、安倍晋三遇刺后续
+<!--excerpt-->
+
+## 多地烂尾楼业主强制停贷
+* [最高院：烂尾楼的风险不应全由购房者承担，偿还剩余贷款有违公平](https://mp.weixin.qq.com/s/MCLSQ7u0bDcKoSk3xrfUIg)
+* [一对郑州年轻夫妻的月供记录](https://mp.weixin.qq.com/s/mbWUwdvZm_KBF-1BY388pA)
+* [那对眼里有光又消失了的郑州小夫妻](https://mp.weixin.qq.com/s/6RySpQqVzI6eBfv3Qi-7ZA)
+* [房价跌了](https://mp.weixin.qq.com/s/UNIqh_perXPvWZ9YjVYRcQ)
+* [三十年，不短也不长](https://mp.weixin.qq.com/s/dU4_PQFXGKEJN0rT7IxF6g)
+* [花旗银行：监管这次多半是会介入的](https://twitter.com/caolei1/status/1547209782750130182)
+* [Chinese regulators rush to tame investor panic over mortgage boycotts ｜ Financial Times](https://www.ft.com/content/1fab4b10-5e8e-4c94-8d19-d62f56044a91)
+* [【404文库】兽楼处｜祥子决定不拉车了](https://chinadigitaltimes.net/chinese/684249.html)
+* [王biubiu｜拒还房贷的骆驼祥子们绝非死路一条](https://chinadigitaltimes.net/chinese/684346.html)
+* [关胖侃财｜作业不抄全的代价](https://chinadigitaltimes.net/chinese/684386.html)
+* [老斯基财经｜抄作业可以，能不能把答案抄全](https://chinadigitaltimes.net/chinese/684384.html)
+
+## 河南村镇银行取款难后续
+* [河南将对四家村镇银行客户垫资，首批对象本金5万元及以下](https://mp.weixin.qq.com/s/FfdPydScNQktNK_Q0qMuuQ)
+* [对村镇银行账外业务客户本金分类分批开展先行垫付工作](https://mp.weixin.qq.com/s/Bibx5-GwmvhhL_3dKDrJAg)
+* [河南村镇银行的危机，是怎么从“村镇”波及全国的？](http://www.lifeweek.com.cn/article/170969)
+* [凤凰网风暴眼｜起底暴雷的河南村镇银行背后神秘人：谁的白手套](https://chinadigitaltimes.net/chinese/684115.html)
+* [交通银行人脸识别遭破解，多名储户百万存款惨遭骗子转走，谁的责任？](https://post.mp.qq.com/kan/article/1001020701365-1853256966.html?_wv=2147483777&sig=b0f64a37dc48a17f37679ff6d58ec685&article_id=1853256966&time=1657635616&_pflag=1&x5PreFetch=1&rowkey=97062cd828984952&cc_media_type=10001&share_source=2&keepShareUrl=1)
+* [储户近200万巨款不翼而飞 人脸识别漏洞成骗子作案工具](https://finance.sina.com.cn/money/bank/gsdt/2022-07-06/doc-imizmscv0377623.shtml)
+
+## 全国多地爆发疫情
+* [终于发现了“常温下体外病毒活不过1天”，不容易](https://mp.weixin.qq.com/s/YiMn7ZS7o-ZvNOFXRteHhw)
+* [欠债太多，新冠下的流感高峰，我们的防控有多难？](https://mp.weixin.qq.com/s/8ifde_Du7tRMV94kjlFJZQ)
+* [78家盲人推拿店求救无门，集体面临倒闭](https://mp.weixin.qq.com/s/RK0fNy8awjHTbdXQYpLSfg)
+* [一起行动｜7月14日海甸岛援助&紧急求助信息](https://mp.weixin.qq.com/s?__biz=Mzk0NzMzNDcwMQ==&mid=2247498069&idx=1&sn=b210ffd03894789a0d9fac4e307e5f47&chksm=c37ac217f40d4b0133aa6e0fb3122c7580dcbea7b5f50bc2779c108036250bebab9a65879caa&mpshare=1&srcid=0714NIdjOLubzuATFN7t6mQ7&sharer_sharetime=1657771133198&sharer_shareid=d0508c34c048f7e80ff4d0102f28f43e&from=timeline&scene=2&subscene=1&clicktime=1657771669&enterid=1657771669&ascene=2&devicetype=android-30&version=28000f3c&nettype=3gnet&abtest_cookie=AAACAA%3D%3D&lang=zh_CN&exportkey=AzA5fEVSLb9gwf2UhABBDnI%3D&pass_ticket=2Uzf9vuSvJ8FnQvCuka984XHJJdFJX3aTn96ZpCIfUTql1aBUglp37jwcQgprBw%2B&wx_header=3)
+* [我在上海做日结工，“阳过”，想再坚持一下留在这儿](https://mp.weixin.qq.com/s/uxB0FihbqihI-m7jUBr2zw)
+* [我终于知道为什么各地防疫一刀切屡禁不止了，北京榜样做得好](https://mp.weixin.qq.com/s/ZE7QmSdRAsPpCzPc_E0fNQ)
+* [“复工又放弃”的餐饮店](https://mp.weixin.qq.com/s/KCCqioYOSVousJJshvh4vQ)
+* [解封不是结束，只是另一个开始：悬崖边的上海餐饮业｜上海封城｜大陆｜深度｜被疫情改变的生活｜端传媒 Initium Media](https://theinitium.com/article/20220712-mainland-shanghai-catering-industry/)
+* [半封城下的澳门，大三巴剩下核酸检测站｜香港｜广场｜影像｜被疫情改变的生活｜端传媒 Initium Media](https://theinitium.com/article/20220713-photo-macau-partial-lockdown/)
+* [#成都疫情##疫情防控##眉山##疫情#...](https://m.weibo.cn/status/4792332065179433?wm=3333_2001&from=10C7193010&sourcetype=weixin)
+
+## 斯里兰卡债务违约政府倒台
+* [What Sri Lanka reveals about the risks in emerging markets ｜ Financial Times](https://www.ft.com/content/5ac44901-e989-42d6-ab4f-c168cd13196d)
+* [斯里兰卡破产、政府倒台，抗争者想要一个什么样的未来？｜国际｜深度｜端传媒 Initium Media](https://theinitium.com/article/20220713-international-srilanka/)
+* [What Sri Lanka reveals about the risks in emerging markets ｜ Financial Times](https://www.ft.com/content/5ac44901-e989-42d6-ab4f-c168cd13196d)
+* [最新财新周刊｜斯里兰卡是怎样破产的](https://weekly.caixin.com/2022-07-16/101913870.html?p0#page2)
+
+## 安倍遇刺后续
+* [关于安倍之死的深度思考：兼驳民族主义与抽象人道主义](https://mp.weixin.qq.com/s/wnOOdG1U98knz8iMbj6QJA)
+* [孙歌: 透过安倍被刺, 看到水面下的真实日本 ｜ 文化纵横](https://mp.weixin.qq.com/s/vf8BUVtLvGNxDjDOE0GHxg)
+* [【Hello World】安倍晉三驟逝後的日本政局：派閥洗牌、修憲斷尾壓力與繼承者競爭](https://www.twreporter.org/a/hello-world-2022-07-11)
+* [安倍之死：他的经济、外交、政治遗产，与日本的未来｜评论｜国际｜深度｜端传媒 Initium Media](https://theinitium.com/article/20220712-opinion-abe-death/)
+* [安倍家族、统一教与日本政治：从战后到当代的盘根错节｜评论｜国际｜深度｜端传媒 Initium Media](https://theinitium.com/article/20220715-opinion-abe-tong-il/)
+* [最新财新周刊｜日本开启“后安倍时代”](https://weekly.caixin.com/2022-07-16/101913875.html?p0#page2)
+
+## 经济
+* [中国二季度GDP增长0.4%，创疫情以来最低增速](https://cn.nytimes.com/business/20220715/china-economy-slows/)
+* [楼继伟：必要时可以增加中央和地方预算赤字](https://mp.weixin.qq.com/s/rpnyeHop0_KW1LdQMXDDdQ)
+* [专项债的问题，这篇5000字官方报告分析得很透彻](https://mp.weixin.qq.com/s/inQd6I5s3jw8Nvt2iX9gZA)
+* [现在县城投的外部融资基本断了](https://mp.weixin.qq.com/s/uOQPVFTVodjPRLyj3jtYdw)
+* [一直认为城投市场化转型是个伪命题](https://mp.weixin.qq.com/s/tpoqYKFvuJ32Ji1HNd8RoA)
+* [深圳航空，这种浓眉大眼的AAA央企评级都能下调](https://mp.weixin.qq.com/s/-Qh9a0vSKNb114UqWJiiqg)
+* [欧美重估中国光伏](https://mp.weixin.qq.com/s/2uBOFmZ2FRoipjUVLSfrvQ)
+* [Banks as recession-o-meters](https://www.ft.com/content/b047d414-6530-4d48-9953-f6fe27d11953)
+* [Don't Fight The Fed](https://fedguy.com/dont-fight-the-fed/)
+* [3.5% ASAP – William Gross](https://williamhgross.com/3-5-asap/)
+* [America’s new agricultural frontier: vertical farms ｜ Financial Times](https://www.ft.com/content/4263fbe2-db0e-4a8e-8cb4-32405ee2c9b6)
+* [The case for T-bills and patience](https://www.ft.com/content/4ea1dc1d-9bfb-4a8c-90a3-6f76aedc0b8c)
+* [Inflation is a political challenge as well as an economic one ｜ Financial Times](https://www.ft.com/content/2022df1d-57c5-44a4-93e6-73f5f5274ca8)
+* [Inside Celsius: how one of crypto’s biggest lenders ground to a halt ｜ Financial Times](https://www.ft.com/content/4fa06516-119b-4722-946b-944e38b02f45)
+* [Energy: the recession trigger? – Michael Roberts Blog](https://thenextrecession.wordpress.com/2022/07/13/energy-the-recession-trigger/)
+* [High inflation doesn’t scare the market anymore ｜ Financial Times](https://www.ft.com/content/3cc28208-05dd-42c8-a569-d5cb23fb24b4)
+* [JPMorgan and the never-ending non-recession](https://www.ft.com/content/94e75ce5-dea8-4514-ba40-2d97d7d41577)
+* [The era of the Great Exasperation arrives for investors ｜ Financial Times](https://www.ft.com/content/05d0324f-e216-47ff-973e-c22f660edf22)
+* [Twitter hires US law firm Wachtell to sue Elon Musk for ending $44bn takeover ｜ Financial Times](https://www.ft.com/content/158eb253-08e0-4af2-bedd-840c819333b2)
+* [How retail investors can navigate the rough terrain of US equities ｜ Financial Times](https://www.ft.com/content/ee21a9c4-2162-4508-9a17-4f01d8c2d3d5)
+* [US inflation hits 9.1% as pressure grows on Federal Reserve ｜ Financial Times](https://www.ft.com/content/b15ee858-f9e4-492e-8f4d-ebe919c12f9a)
+* [Longtermtrends - Monthly Chart Brief](https://australis.eocampaign1.com/web-version?ep=2&lc=ccb34bc0-8976-11ec-9835-06b4694bee2a&p=1ce6e87d-ffca-11ec-9258-0241b9615763&pt=campaign&t=1657710162&s=26e1ef2844033323d1341c44d8b405707811a1b28de93ec0cafc50a78b35e3ab#)
+
+## 劳工
+* [职校生戏剧 ｜《影子》：同龄人，身边人](https://mp.weixin.qq.com/s/v6WMfPhwsqnK66-HvIXELg)
+* [居家办公与工作的未来](https://mp.weixin.qq.com/s/pWUvnAigCWbgPgseNTArBw)
+* [双减一年后，家长省钱了吗？](https://mp.weixin.qq.com/s/CxZO-pwu2Xa0NzsXXCvNxg)
+* [30岁后留学，我用3年时间移居德国](https://m.douban.com/note/834458775/?dt_platform=wechat_friends&dt_dapp=1?bid=AfwYHXkw2qw)
+* [“双非”本科生的漫长毕业季：考研受挫、春招失败、国考再失之交臂](https://news.ifeng.com/c/8HYWeiIIXSk)
+* [上海警方泄露数据中的劳动案件分析｜数据研究 ｜ 服务业劳动观察](http://www.serviceworkercn.com/shanghaidata/)
+* [恰帕斯东风电囼的广播 - 如果不工作，基本收入从哪里来](https://www.douban.com/people/80620968/status/3929345892/?_dtcc=1&_i=8033124vJICDvI)
+* [杭州22岁女孩连续熬夜加班后被送icu，好友：公司现在不管她了！](https://mp.weixin.qq.com/s?__biz=MzUzOTUxMTgzMQ==&mid=2247551810&idx=1&sn=b172120ec01d8a193d194f825615da81&chksm=fac5163acdb29f2c92a6f23248edf51af976e73499310cf227afe42539f429a58964667e95de&dt_dapp=1#rd)
+* [裁员、负债、高消费：我从个人财务危机里学到了什么｜界面新闻 · 正午](https://www.jiemian.com/article/7746280.html)
+* [最新财新周刊｜从互联网大厂“毕业”后](https://weekly.caixin.com/2022-07-16/101913893.html?p0#page2)
+
+## 性别
+* [❗急需关注 p大教授猥亵学生 拜托拜托🙏](https://m.douban.com/group/topic/270565422/?_i=57462365606e096&dt_dapp=1&dt_platform=com.douban.activity.wechat_moments?bid=AfwYHXkw2qw)
+* [山东莱阳警方回应“母女被雨衣男拖拽进屋”：二人刚离婚，被拖拽两人无大碍](https://static.cdsb.com/micropub/Articles/202207/4cf42e2e2112c7c6be854e65fd383f00.html?wxopenid=null)
+* [在人间｜悬浮在土地上的农村女性](https://mp.weixin.qq.com/s?__biz=MzI4ODc3ODYzMg==&mid=2247510201&idx=1&sn=8468aa4441de5fdd58288756371728eb&chksm=ec3bd85edb4c51483e9498ecf78203b8b3b8df7446ff9c166f542693049f6a8a6d90547a2a50&dt_dapp=1#rd)
+* [一个女人学会写自己的名字意味着什么？ ｜ 谷雨](https://mp.weixin.qq.com/s/75CvDuQJiTeVPelUUgojdQ)
+* [上海某985青椒性骚扰多名女生，横跨两所top大学，校方消极处理（请帮助扩散）](https://www.douban.com/group/topic/270818350/?_dtcc=1&_i=7875618vJICDvI)
+* [看到有其他博主发的关于国内版N号房的事情...](https://weibo.com/2661864314/LCBv146X2)
+* [冻卵的决定：她的身体与三个家庭｜国际｜深度｜端传媒 Initium Media](https://theinitium.com/article/20220713-international-story-about-egg-freezing/)
+
+## 其他
+* [FT interview: Brazil’s Lula on the prospects of an extraordinary comeback ｜ Financial Times](https://www.ft.com/content/228e0615-0dae-4ba6-afdb-c3db0fcdd15a)
+* [The sultan, his family and a $15bn dispute over oil in Malaysia ｜ Financial Times](https://www.ft.com/content/0f4b655d-ef28-446a-8e3c-37090ef138da)
+* [小丑表演的落幕：约翰逊的辞职与英国政坛一个时代的结束｜评论｜国际｜深度｜端传媒 Initium Media](https://theinitium.com/article/20220712-opinion-british-prime-minister-boris-resigns/)
+* [Global population growth hits lowest rate since 1950 ｜ Financial Times](https://www.ft.com/content/6b131d91-1834-4243-bb8b-dc49060b1450)
+* [Ukraine: can Russia still win the war? ｜ Financial Times](https://www.ft.com/content/d60ef086-a252-4d6d-8534-e39ccd541926)
+* [Nato and EU sound alarm over risk of Ukraine weapons smuggling ｜ Financial Times](https://www.ft.com/content/bce78c78-b899-4dd2-b3a0-69d789b8aee8)
+* [Kyiv quells fears of weapons smuggling from Ukraine ｜ Financial Times](https://www.ft.com/content/a37997ff-1128-416c-ad1f-0ad157004dd2)
+* [瑞金医院伤人案，主要攻击儿科妇科，增加安检真的能解决问题吗？](https://mp.weixin.qq.com/s/hY64wtHqZ83B6_f77bLR8Q)
+* [消息人士称阿里巴巴高管因警方数据库泄露事件被上海当局约见](https://cn.wsj.com/articles/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E9%AB%98%E7%AE%A1%E5%9B%A0%E8%AD%A6%E6%96%B9%E6%95%B0%E6%8D%AE%E6%B3%84%E9%9C%B2%E4%BA%8B%E4%BB%B6%E8%A2%AB%E4%B8%AD%E5%9B%BD%E5%BD%93%E5%B1%80%E7%BA%A6%E8%B0%88-11657841106)
+* [可下载！20家基金会的中层人员培养经验](https://mp.weixin.qq.com/s?__biz=MzUwOTE1MTA5Nw==&mid=2247508757&idx=1&sn=d10832de6952931e3bcd08b179ff08d8&chksm=f9147103ce63f81535ad3db61daa0d98148a5aeaef3b27a23de676a8bbec52dcead738bb8c4f&scene=90&subscene=93&sessionid=1657881554&clicktime=1657881568&enterid=1657881568&ascene=56&devicetype=android-30&version=28000f3c&nettype=3gnet&abtest_cookie=AAACAA%3D%3D&lang=zh_CN&session_us=gh_9a7e7f4a4c03&exportkey=AznupZNqjypOR3W%2BAU1MT6o%3D&pass_ticket=HUpUPYAdwO6bTWBMhckUdTR4dZes2OzkGPseL%2BWANBzLnDS84D%2F8%2FfYmymwFFySr&wx_header=3)
+* [在“监控之国”，中国民众正变得愈发警惕](https://cn.nytimes.com/china/20220715/china-data-privacy/)
+* [微博将集中整治“错别字”](https://www.williamlong.info/archives/6861.html)
+* [【404文库】安在｜据报阿里云业务高管遭上海当局约谈，涉警方数据大规模泄露事件](https://chinadigitaltimes.net/chinese/684378.html)
+* [悼念向青](https://mp.weixin.qq.com/s/jCyTOV6AyfXt1KPMshvnuQ)
+* [南斯拉夫崩溃之路](https://mp.weixin.qq.com/s/k9x84olVgRMdWA52GnQNHg)
+* [郭言郭语，与阿桢（美少女嗨购go）的语言](https://mp.weixin.qq.com/s/VQEhaFd0O8uBsvpDyB2Axw)
+* [武大发现霍乱病例，虽不会大规模流行，但仍有这些隐患](https://mp.weixin.qq.com/s/b9iteJFZNcxnL3-ML8IrNg)
+* [30多年不工作，徐霞客为何选择一辈子都在旅行？旅费从哪来？](https://mp.weixin.qq.com/s/eOUpdAYRRcTQSWhZh3bTBw)
+* [公用电话亭之用](https://mp.weixin.qq.com/s/BK6keTqKlVDLi1doZ_qNQg)
+* [他们为何向这个北京公共电话亭求救](https://mp.weixin.qq.com/s/VzpmFayNeLkpIW0qTmhZlA)
+* [高高，不想说再见](https://mp.weixin.qq.com/s/vAsESvCsInEgeg6uGS9_OA)
+* [浙大副教授博士论文被判剽窃，被剽窃者：抄到最后就一字不改](https://mp.weixin.qq.com/s/D2V49NZYI-rRQDgwom7png)
+* [2022死亡的尊严 ｜ 武汉来信](https://mp.weixin.qq.com/s/peVIV53dt6pKqpCXfpjlEA)
+* [道德故事搬上银幕，真实农村“隐入尘烟”（隐入尘烟）影评](https://movie.douban.com/review/14516403/?_dtcc=1)
+* [艾小荀的广播 - 跟学校沟通编程课排课](https://www.douban.com/people/217939485/status/3895465940/?_dtcc=1&_i=8033389vJICDvI)
+* [信财神，在当代社会真的是件“邪门”的事吗？](https://theinitium.com/article/20220711-opinion-new-religion/)
+* [聊聊台湾迷因：我们知道这很地狱、很多中国梗，但真的很好笑｜台湾｜深度｜端传媒 Initium Media](https://theinitium.com/article/20220714-taiwan-meme-1/)
+* [重返少年台湾：一部电影背后的天才成群、江湖爆发与九零年代｜风物｜深度｜端传媒 Initium Media](https://theinitium.com/article/20220714-culture-dust-of-angels-interview/)
+* [走過VTuber粉絲應援牆：虛擬直播主的魔力從哪來？](https://www.twreporter.org/a/vtuber-subculture)
+* [迷因为何好笑？又反映了怎样的时代精神？｜台湾｜深度｜端传媒 Initium Media](https://theinitium.com/article/20220716-taiwan-meme-2/)
+* [《智齿》影评：金像奖最多提名之作，也许先把剧本搞好再说？｜风物｜深度｜端传媒 Initium Media](https://theinitium.com/article/20220717-culture-limbo-movie-hk/)
+* [最新封面报道上篇｜挽救鄱阳湖：缘何而枯？](https://weekly.caixin.com/2022-07-16/101913857.html?p0#page2)
