@@ -3,12 +3,11 @@ title: 2022.07.25~2022.07.31一周新闻剪报
 comment: on
 layout: post
 ---
-
-房地产断供潮后续、视频《回村三天，二舅治好了我的精神内耗》引热议
+烂尾楼停贷潮后续、视频《回村三天，二舅治好了我的精神内耗》引热议
 
 <!--excerpt-->
 
-## 房地产断供潮后续
+## 烂尾楼停贷潮后续
 * [棚改专项债救地产？](https://mp.weixin.qq.com/s/1DX249o0pQDgNPmjRiD-Ww)
 * [徐高：中国房地产业的困境和对策](https://mp.weixin.qq.com/s/r6ipc7TDaWszop-ulnu8xQ)
 * [中国房地产从业者口述：当作为经济引擎的行业失去信心｜中国房地产暴雷｜大陆｜深度｜端传媒 Initium Media](https://theinitium.com/article/20220729-mainland-real-estate-agency/)
