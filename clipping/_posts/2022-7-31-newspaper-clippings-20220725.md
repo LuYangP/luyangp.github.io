@@ -60,6 +60,7 @@ layout: post
 * [【Hello World】5年間少40%新生兒，中國生育率雪崩、超高齡化的人力與消費危機將至](https://www.twreporter.org/a/hello-world-2022-07-27)
 * [香港医管局员工阵线最终章︰二万会员变七百，组织新工会的残酷与美好｜香港｜深度｜端传媒 Initium Media](https://theinitium.com/article/20220728-hongkong-haea-the-last-officer/)
 * [最新财新周刊｜“兵教师”开路](https://weekly.caixin.com/2022-07-30/101919943.html?p0#page2)
+* [热射病死亡前，农妇想请假以为中暑了](https://mp.weixin.qq.com/s/UlMLpBDs_vMcxD_lmY0Sig)
 
 ## 性别
 * [《vista看天下》杂志请回答](https://mp.weixin.qq.com/s/0iL8PD35gD9HRVsXLMcHNA)
