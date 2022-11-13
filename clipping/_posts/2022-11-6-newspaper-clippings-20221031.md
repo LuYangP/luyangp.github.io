@@ -4,7 +4,7 @@ comment: on
 layout: post
 ---
 
-兰州及呼和浩特疫情防控引争议、富士康疫情后续、《反派影评》波米谈电影行业现状、生物学家颜宁高调宣布再次回国、巴西左翼前总统卢拉再度当选
+兰州及呼和浩特疫情防控引争议、郑州富士康疫情后续、《反派影评》波米谈电影行业现状、生物学家颜宁高调宣布再次回国、巴西左翼前总统卢拉再度当选
 
 <!--excerpt-->
 
@@ -27,7 +27,7 @@ layout: post
 * [I spent 10 days in a secret Chinese Covid detention centre ｜ Financial Times](https://www.ft.com/content/77622627-9433-445a-a763-a547b77b58ed)
 * [一个外国记者在中国秘密新冠隔离中心度过10天，发现要搞清到底发生了什么难于上青天 – 会员](https://www.caus.money/all-articles/life/7715/)
 
-## 富士康疫情后续
+## 郑州富士康疫情后续
 * [辟谣的富士康和热搜外的“兵马俑”](https://mp.weixin.qq.com/s/mYihQoE6ubN8ZuNmwym6_A)
 * [富士康：已与政府配合防疫 统一组织车辆帮员工返乡](https://www.caixin.com/2022-10-30/101957952.html)
 * [新冠肺炎不可怕，可防可治。郑州权威专家来解答！](https://mp.weixin.qq.com/s/MPtMuLKIjTyV_ptV0auqhA)
