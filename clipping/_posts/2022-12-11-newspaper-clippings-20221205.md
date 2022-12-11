@@ -79,7 +79,7 @@ layout: post
 * [科技爱好者周刊（第 234 期）：AI 聊天有多强？](http://www.ruanyifeng.com/blog/2022/12/weekly-issue-234.html)
 
 ## 经济
-* [Manufacturing orders from China down 40% in demand collapse](https://www.cnbc.com/2022/12/04/manufacturing-orders-from-china-down-40percent-in-demand-collapse.html?__source=sharebar|twitter&par=sharebar)
+* [Manufacturing orders from China down 40% in demand collapse](https://www.cnbc.com/2022/12/04/manufacturing-orders-from-china-down-40percent-in-demand-collapse.html)
 * [中央政治局召开会议，分析研究2023年经济工作](https://mp.weixin.qq.com/s/HYF_Q6zwb3NH-0JLBCfHjQ)
 * [21解读｜政治局会议释放6大信号](https://m.21jingji.com/article/20221207/herald/b22ec6e0909f2bb86924a6de1c2300d8.html)
 * [李克强：随着优化调整措施的落实，中国经济增速将会持续回升](https://mp.weixin.qq.com/s/0rhMfDxWCXESgXNi0sZcKA)
