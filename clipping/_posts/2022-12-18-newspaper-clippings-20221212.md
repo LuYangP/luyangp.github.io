@@ -3,12 +3,11 @@ title: 2022.12.12~2022.12.18一周新闻剪报
 comment: on
 layout: post
 ---
-
-防弃清零后感染激增缺医少药
+放弃清零后感染激增缺医少药
 
 <!--excerpt-->
 
-## 防弃清零后感染激增缺医少药
+## 放弃清零后感染激增缺医少药
 * [大流行前夕 ｜ 同济气象观测与提议](https://mp.weixin.qq.com/s/7ExNk_oApWvLIoGNjZG1mQ)
 * [关于下线“通信行程卡”服务的公告](https://mp.weixin.qq.com/s/7F_RwN1Hmx9Rk4im_yNcyA)
 * [医护人员阳性飙升，医疗机构迎战“至暗时刻”](https://mp.weixin.qq.com/s/NZoCMInBkx86UtyvqlcUGg)
