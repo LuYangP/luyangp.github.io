@@ -1,0 +1,122 @@
+---
+title: 2023.02.27~2023.03.05
+comment: on
+layout: post
+---
+
+俄乌战争一周年、美国加拿大禁止在政府设备上使用TikTok、经济学家厉以宁去世
+
+<!--excerpt-->
+
+## 俄乌战争一周年
+* [「我不想成為戰地記者」專訪烏克蘭攝影師 Maxim Dondyuk｜端傳媒 Initium Media](https://theinitium.com/project/20230304-photo-maxim-dondyuk-russia-ukraine-war-anniversary/)
+* [“精英”失声，“暴徒”崛起，冷漠依旧：开战一年，俄罗斯发生了哪些变化？｜俄乌战争｜俄乌战争一周年｜评论｜国际｜深度｜端传媒 Initium Media](https://theinitium.com/article/20230301-opinion-ukraine-war-one-year-russia-changes/)
+* [吴昆玉：俄乌战争一周年，有哪些战略教训？高科技武器为何无法终结战事？｜俄乌战争｜俄乌战争一周年｜评论｜国际｜台湾｜深度｜端传媒 Initium Media](https://theinitium.com/article/20230228-opinion-russia-ukraine-war-anniversary-analysis/)
+* [Russian far-right fighter claims border stunt exposes Putin’s weakness](https://www.ft.com/content/c4ffe9b8-a3f5-4f33-a420-effe32754bbf)
+* [Ukraine asks EU for 250,000 artillery shells a month ｜ Financial Times](https://www.ft.com/content/75ee9701-aa93-4c5d-a1bc-7a51422280fd)
+* [US launches new crackdown on Russian sanctions busting ｜ Financial Times](https://www.ft.com/content/19341a0a-56a2-4e57-a807-a57c365f1eb1)
+* [Russia on alert after reconnaissance group crosses over from Ukraine ｜ Financial Times](https://www.ft.com/content/55a701c1-809e-4431-92e0-06dd124ea5be)
+* [Antony Blinken meets Sergei Lavrov for first time since start of Ukraine war ｜ Financial Times](https://www.ft.com/content/20bf7183-0e1d-4370-9713-886729d13df5)
+* [布林肯与俄罗斯外长会面，要求结束“侵略战争”](https://cn.nytimes.com/world/20230303/ukraine-blinken-lavrov-g20/)
+* [Swiss prosecutors charge four bankers with helping to hide Vladimir Putin’s millions ｜ Financial Times](https://www.ft.com/content/7caf49dd-1d44-40b7-825d-01a30e9df822)
+* [泽连斯基多次寻求与习近平直接对话无果](https://cn.nytimes.com/world/20230302/zelensky-treads-a-careful-line-with-china-even-as-efforts-to-reach-out-come-up-empty/)
+* [习近平会见白俄罗斯总统卢卡申科](https://cn.nytimes.com/china/20230302/leader-of-belarus-a-putin-ally-meets-with-chinas-premier/)
+* [布林肯访问中亚，与中俄争夺影响力](https://cn.nytimes.com/usa/20230228/blinken-china-russia-ukraine-war/)
+* [Arming Ukraine: how war forced the EU to rewrite defence policy ｜ Financial Times](https://www.ft.com/content/1b762ff1-2c7f-40a1-aee9-d218c6ef6e37)
+* [欧盟武装乌克兰内幕：俄乌战争是如何让欧盟改变防务政策的 – 会员](https://www.caus.money/all-articles/focus_news/9310/)
+
+## 美国加拿大禁止在政府设备上使用TikTok
+* [「 深蓝洞察 」2022 年度最“不可赦”漏洞（疑指拼多多）](https://mp.weixin.qq.com/s/P_EYQxOEupqdU0BJMRqWsw)
+* [Can TikTok convince the world it is not a tool for China? ｜ Financial Times](https://www.ft.com/content/c8903308-4da1-4a13-a50a-fe96bbf9b5a2)
+* [美国、加拿大禁止在政府设备上使用TikTok](https://www.williamlong.info/archives/7098.html)
+* [最新封面报道｜抖音略地](https://weekly.caixin.com/2023-03-03/102004175.html?p0#page2)
+* [最新封面报道之二｜TikTok：“刀尖”上的全球化](https://weekly.caixin.com/2023-03-04/102004434.html?p0#page2)
+
+## 经济学家厉以宁去世
+* [【考证】厉以宁真的说过那些雷人的语录吗？真相究竟是？](https://mp.weixin.qq.com/s/g7kJAOS9pTHqtyAdwyLw-g)
+* [最新财新周刊｜厉以宁：经济体制改革的积极倡导者](https://weekly.caixin.com/2023-03-04/102004417.html?p0#page2)
+
+## 经济
+* [对当前国内形势的几点研判（上）](https://mp.weixin.qq.com/s/mja-oOUpMY8GuVChfo4bhQ)
+* [对当前国内形势的几点研判（中）](https://mp.weixin.qq.com/s/AgrtFD9BzsNTvHfSautFxA)
+* [中国经济复苏迎利好，制造业强势反弹](https://cn.nytimes.com/business/20230302/china-factories-economy/)
+* [China sets 5 per cent growth target to drive economic recovery ｜ Financial Times](https://www.ft.com/content/842c5f55-5f0c-4ff4-bf5e-fe588236d08a)
+* [简评证监会支持保险资管开展ABS、REITS业务](https://mp.weixin.qq.com/s/kroiSL92oef5s6s6e_I1Dg)
+* [推出不到一年，FIP开始优化](https://mp.weixin.qq.com/s/ydSDUQXVtpaHrMRW1irePQ)
+* [地方预算看2023年：财政收入预计增长5.8%](https://mp.weixin.qq.com/s/pacddZYfZJRoU-by0-ghfA)
+* [甘肃再发声：会像保护自己生命和眼睛一样，保护投资者的投资收益和合法权益](https://mp.weixin.qq.com/s/qvr2qAYrShRUYNzgLqWjQQ)
+* [刚刚，财政部发布会释放6大信号](https://mp.weixin.qq.com/s/6jE5G_csvlOVmaZrHc-CQA)
+* [今年非公开公司债2月的审批情况延续了上个月同比强势增长的态势](https://mp.weixin.qq.com/s/IjD1hCuiR7_Vr0HaRCymVw)
+* [关于城投债系统性风险的一点思考](https://mp.weixin.qq.com/s/GV_rqyASvKHEpce1gadV-Q)
+* [潍坊再开恳谈会](https://mp.weixin.qq.com/s/mwxWiHw14IxatBoPTA5KLQ)
+* [2022年百强县排行（GDP及财政）](https://mp.weixin.qq.com/s/a0vfw1YdaSmonSRserBbAw)
+* [科技企业大裁员-估值泡沫和企业效率](https://mp.weixin.qq.com/s/84ipcNPbqIyiGMbCL0s91Q)
+* [经济学人：科技产业崩盘后，风投巨头蛰伏过冬，减少了对中国初创企业的投资 – 会员](https://www.caus.money/all-articles/business/9323/)
+* [公募北京留不住](https://mp.weixin.qq.com/s/miDNuLLQczULeqQL406JVA)
+* [New drugs could spell an end to the world’s obesity epidemic ｜ The Economist](https://www.economist.com/leaders/2023/03/02/new-drugs-could-spell-an-end-to-the-worlds-obesity-epidemic)
+* [Ozempic Is Changing the Definition of Being Thin](https://www.thecut.com/article/weight-loss-ozempic.html)
+* [透視2023開春缺蛋現象：失靈的產銷制度，如何影響雞蛋價格和流向？](https://www.twreporter.org/a/the-acute-shortage-of-eggs-2023-production-and-marketing)
+* [谷歌和联邦通信法230条款](https://www.williamlong.info/archives/7095.html)
+* [2022 never ended ｜ Financial Times](https://www.ft.com/content/a9057eec-eb93-4088-8ad1-627129eeaefe)
+* [The frozen housing market ｜ Financial Times](https://www.ft.com/content/4e639974-4d78-4114-a3c6-dd7387f3745e)
+* [Why activists love Salesforce ｜ Financial Times](https://www.ft.com/content/6fe91d05-9afb-4f13-86fe-ed50376fb110)
+* [Checking in on the U.S. Housing Market](https://theovershoot.co/p/checking-in-on-the-us-housing-market)
+* [EEA1 – the causes of current inflation – Michael Roberts Blog](https://thenextrecession.wordpress.com/2023/02/27/eea1-the-causes-of-current-inflation/)
+* [EEA 2: Long waves, profit curves, imperialism and socialist planning – Michael Roberts Blog](https://thenextrecession.wordpress.com/2023/02/28/eea-2-long-waves-profit-curves-imperialism-and-socialist-planning/)
+* [Global economy: will higher wages prolong inflation? ｜ Financial Times](https://www.ft.com/content/0097fbd7-96ae-4a75-876d-8df4d4379651)
+* [The big con – Michael Roberts Blog](https://thenextrecession.wordpress.com/2023/03/01/the-big-con/)
+
+## 劳工
+* [快递员的生死疲劳](https://mp.weixin.qq.com/s/ltjjOHnGA2wYVfXUT4SRqQ)
+* [【#如何看待常态化加班#】#建议保障劳动...](https://m.weibo.cn/status/4874087249219688?sourceType=weixin&from=10CB095060&wm=9006_2001&featurecode=newtitle)
+* [当代清醒年轻人！说的很有感觉](https://mp.weixin.qq.com/s/Z_o75ZYAJ1aBeUlanyf_1w)
+* [政协委员：“996”导致就业难、生育率低](https://mp.weixin.qq.com/s/Z159BA4h3lBOywtzy60LWA)
+* [电子厂大门难进](http://www.eeo.com.cn/2023/0302/580075.shtml)
+* [今年找工有多慌？｜工劳小报 #16](https://news.laborinfocn.com/issue16/)
+
+## 性别
+* [从负开始的女权主义](https://mp.weixin.qq.com/s/Ql1Kgvs2k78_g8JQNP-MNQ)
+* [上野千鹤子对谈戴锦华实录：“恐弱”是“慕强”的翻版](https://mp.weixin.qq.com/s/0UiIw1w2gLKxBG46K65nCQ)
+* [蔚来事件原帖被删，当事人回应](https://www.xiaohongshu.com/discovery/item/64037ac5000000001402518e?secondshare=weixin&share_from_user_hidden=true&appuid=5fa049e5000000000100111a&apptime=1677949645)
+* [Hundreds of Iranian schoolgirls targeted by mysterious poison gas attacks ｜ Financial Times](https://www.ft.com/content/87063128-add4-4b52-96d3-c14478562945)
+* [致命的亲密关系，被前任或伴侣杀死的香港女性｜一分钟数洞｜香港｜深度｜数洞｜端传媒 Initium Media](https://theinitium.com/article/20230302-dataphile-intimate-partner-femicide-in-hongkong/)
+* [《霍格华兹的传承》，舆论批评的背后｜Game ON｜深度｜端传媒 Initium Media](https://theinitium.com/article/20230305-game-on-lgbt-game/)
+* [恐怖片中的怪物女性：从被排除的他者，到“害怕就对了”｜评论｜女人没有国家？｜深度｜端传媒 Initium Media](https://theinitium.com/article/20230305-hercountry-female-in-terror-movie/)
+
+## 其他
+* [《深化党和国家机构改革方案》诞生记（2018年）](https://mp.weixin.qq.com/s/yX8ODFQwG0hUyNAgXrYPkg)
+* [从全国政协委员到全国人大代表，朱征夫呼吁取消寻衅滋事罪15年](https://mp.weixin.qq.com/s/ec58mDETC6fp3sX-vmc2bA)
+* [路透：中国新“二把手”李强，去年加速结束了疫情“清零”政策](https://www.caus.com/detail/74704)
+* [中共试图改写公众关于“清零”的痛苦记忆](https://cn.nytimes.com/china/20230301/china-covid-lab-leak/)
+* [EY China staff encouraged to wear Communist party badges ｜ Financial Times](https://www.ft.com/content/cfa55e7d-1294-4c4f-85cc-03c6ec63550a)
+* [香港立法会记录不具名风波︰与涉侵犯人权的中国公司合作、征询程序被消失｜香港｜深度｜端传媒 Initium Media](https://theinitium.com/article/20230228-hongkong-legco-members-no-longer-identified-by-name-in-the-minutes-of-panel-meetings/)
+* [深度：一个美国说唱歌手卷入中美幕后政治，与孙力军和马来富商一起想努力遣返郭文贵 – 会员](https://www.caus.money/all-articles/focus_news/9400/)
+* [中国驳斥美国能源部新冠病毒实验室泄漏说](https://cn.nytimes.com/china/20230228/china-react-covid-lab-leak/)
+* [关于新冠实验室泄漏说，我们的关注点全错了](https://cn.nytimes.com/opinion/20230303/lab-leak-energy-department-covid/)
+* [Republicans attack Democrats for dismissing Wuhan lab leak theory ｜ Financial Times](https://www.ft.com/content/0215408a-90d6-42ef-957e-ff83bc7e880d)
+* [王臻明：台湾有事等于日本有事，菲律宾呢？美中冲突下，菲国的战略角色与隐忧｜评论｜台湾｜深度｜端传媒 Initium Media](https://theinitium.com/article/20230302-opinion-taiwan-philippines-and-us-china-conflict/)
+* [土耳其政变一周年｜昔日的“中东之光”如何一步步走到今天？](https://m.thepaper.cn/newsDetail_forward_1733400)
+* [The angry divide in Israel over the rule of law and religion ｜ Financial Times](https://www.ft.com/content/05f15936-882e-4a4f-a7c4-96870cc39a3e)
+* [Scandal at South Africa’s Eskom: the CEO and the cyanide](https://www.ft.com/content/5fe8291d-9895-4272-9e0a-eefa279116f4)
+* [【Data Reporter】黨產會認定671筆不當黨產之不動產，數據帶你看哪裡最多？成功追討僅6%](https://www.twreporter.org/a/data-reporter-ill-gotten-party-assets)
+* [第一次在香港按摩，技师是一位内陆来的阿姐](https://www.douban.com/people/bikemanboy/status/3899456837/?_dtcc=1&_i=7576867dT9BtlC)
+* [发烧、抢药、回到发热门诊…甲流凶猛，中国流感欠账再暴露](https://mp.weixin.qq.com/s/rgteZlYWORrRNcvuhTjo6w)
+* [甲流击中了基层医疗的软肋](https://mp.weixin.qq.com/s/-NK84btolYC7arw0fyzcZg)
+* [「功绩社会」生产大量抑郁症患者：被迫内卷的7个迹象](https://mp.weixin.qq.com/s/qde6SRd6_3iXEiRSMy494A)
+* [《自然》：1990-2019年全球碳不平等](https://mp.weixin.qq.com/s/2Ipn_Yod_ov1B0YvUQuXtA)
+* [我与学霸这十年](https://mp.weixin.qq.com/s/wQ4QbROIAwaWKAimUC4-yQ)
+* [离开美术馆后，我们如何行动？](https://mp.weixin.qq.com/s/WcAP8hRnHfFgEbnW4J2M1g)
+* [走在路上我常常发笑](https://mp.weixin.qq.com/s/zJkUQPWFqAZ4KfNCsglazg)
+* [成都情趣酒店有多狂，我一下午连开四间钟点房](https://www.douban.com/note/845777551/?_dtcc=1&_i=7936675dT9BtlC)
+* [香港名媛碎尸案引发轰动，其前夫等四人被捕](https://cn.nytimes.com/china/20230227/model-murder-dismember-hong-kong/)
+* [林蔚昀／最後一眼日本帝國的珍珠：日治時代波蘭人眼中的福爾摩沙](https://www.twreporter.org/a/opinion-na-formozie-a-polish-writers-journey-to-formosa-under-japanese-rule)
+* [从网红到中国版《Vogue》主编：章凝的时尚之道](https://cn.nytimes.com/style/20230303/vogue-china-margaret-zhang/)
+* [杜岳軒／沒有地圖卻又獨一無二的身體旅行：他們的「抱石人生」](https://www.twreporter.org/a/photo-the-life-of-bouldering)
+* [人工智能真正的恐怖之处](https://cn.nytimes.com/opinion/20230301/microsoft-bing-sydney-artificial-intelligence/)
+* [Generative AI is sowing the seeds of doubt in serious science ｜ Financial Times](https://www.ft.com/content/e34c24f6-1159-4b88-8d92-a4bda685a73c)
+* [張智琦 │《悲情城市》：對準了大時代中的一個個名不見經傳的小人物 ｜ 新國際 New International](https://www.newinternationalism.net/?p=6971)
+* [《流浪地球2》：科幻版愚公移山，流浪地球系列定义了中国科幻电影？｜风物｜深度｜端传媒 Initium Media](https://theinitium.com/article/20230227-culture-the-wandering-earth-2-movie/)
+* [陈哲艺专访：电影是痛苦，是孤独，也是解方｜风物｜深度｜电影｜端传媒 Initium Media](https://theinitium.com/article/20230301-culture-anthonychen-interview-cross/)
+* [比特币的未来系于一小撮神秘程式员｜端 × 华尔街日报｜广场｜端传媒 Initium Media](https://theinitium.com/article/20230302-wsj-bitcoins-future/)
+* [香港剧场人在台湾：粤语，政治，血脉，标签⋯⋯我们怎样moving on？｜香港大离散｜风物｜深度｜端传媒 Initium Media](https://theinitium.com/article/20230303-theater-artists-from-hk-to-taiwan/)
+* [望不见欢欣人脸 香港人的口罩三年｜香港疫情大爆发｜香港｜影像｜被疫情改变的生活｜2019冠状病毒疫情｜端传媒 Initium Media](https://theinitium.com/article/20230304-photo-hongkong-covid-mask/)
