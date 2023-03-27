@@ -1,0 +1,132 @@
+---
+title: 2023.03.20~2023.03.26一周新闻剪报
+comment: on
+layout: post
+---
+
+习近平访俄与普京会面、TikTok面临封禁首席执行官出席美国会听证会、瑞银集团收购瑞士信贷、法国总统马克龙强推退休改革法案引发全国罢工
+
+<!--excerpt-->
+
+## 习近平访俄与普京会面
+* [Saving Ukraine’s economy: the grain giant fighting for survival ｜ Financial Times](https://www.ft.com/content/e0d9607e-f313-4fa6-91d5-ec32039fe632)
+* [习近平访问俄罗斯，以“和平”之名介入俄乌战争](https://cn.nytimes.com/china/20230320/xi-jinping-china-putin-russia-war/)
+* [习近平充当俄乌之间“和平使者”？美国和欧洲持怀疑态度](https://cn.nytimes.com/world/20230320/russia-china-putin-xi/)
+* [习近平和普京会面：强调团结，仅简略提及乌克兰“冲突”](https://cn.nytimes.com/world/20230321/putin-xi-russia-china/)
+* [九名中国公民在中非共和国被杀凸显中俄利益冲突](https://cn.nytimes.com/world/20230321/central-african-republic-russia-china/)
+* [数据显示中国一年来持续向俄罗斯输送无人机](https://cn.nytimes.com/world/20230322/russia-china-drones-ukraine-war/)
+* [俄罗斯与普京的共生关系，未来会以何种方式结束？｜评论｜国际｜深度｜端传媒 Initium Media](https://theinitium.com/article/20230324-opinion-russia-regime-future-collapse/)
+* [中俄宣扬关系“无上限”，但边境贸易是另外一番景象｜广场｜端 × 华尔街日报｜端传媒 Initium Media](https://theinitium.com/article/20230326-wsj-xi-putin-partnership-shows-signs-of-fraying/)
+* [The real meaning of Xi’s visit to Putin ｜ Financial Times](https://www.ft.com/content/e4cac940-ada7-454f-ae02-20054be84aeb)
+* [Xi Jinping-Vladimir Putin talks highlight Russia’s role as ‘junior partner’ to China](https://www.ft.com/content/73d50de6-53c8-4bf6-adf9-8cf108f82ca1)
+* [Xi Jinping backs Vladimir Putin on Ukraine but holds out on Russian gas pipeline ｜ Financial Times](https://www.ft.com/content/ae0bb3f6-4cc3-49ca-a0e6-93a8e7cc62cc)
+* [Kazakhstan to step up monitoring of goods re-exported to Russia](https://www.ft.com/content/b4e8c02a-adb5-4148-9b15-c0cf2845fa0f)
+* [Brazil president to propose Ukraine ‘peace club’ on China visit ｜ Financial Times](https://www.ft.com/content/24b59a38-d11f-4333-966f-644250ffff40)
+* [Xi Jinping’s Russia trip reduced chance of nuclear war, says EU foreign policy chief ｜ Financial Times](https://www.ft.com/content/8f895b27-9e16-47b4-8608-dbd002facd65)
+
+## TikTok面临封禁首席执行官出席美国会听证会
+* [现场直击 TikTok 美国国会听证会](https://mp.weixin.qq.com/s/rwzLpwD5WH_Gn03HRnCzLg)
+* [TikTok首席执行官周受资在国会听证会上受猛烈抨击](https://cn.nytimes.com/technology/20230324/tiktok-hearing-congress-china/)
+* [TikTok: time running out for Chinese apps seeking US online growth ｜ Financial Times](https://www.ft.com/content/6c051e46-0e18-4372-8ca1-88aa0a139cb3)
+* [China says it ‘firmly opposes’ forced sale of TikTok ｜ Financial Times](https://www.ft.com/content/7fc2641a-6991-48e8-bc48-fdc297a72c94)
+
+## 瑞银集团收购瑞士信贷
+* [瑞信债权人是“海盗分赃”的牺牲品](https://mp.weixin.qq.com/s/wllAEM4FSNfCTFTgoHY3JA)
+* [Banks: quickly, then slowly ｜ Financial Times](https://www.ft.com/content/6cdda80e-9930-4ad4-a7d4-203771ad7ac4)
+* [How the Swiss ‘trinity’ forced UBS to save Credit Suisse ｜ Financial Times](https://www.ft.com/content/3080d368-d5aa-4125-a210-714e37087017)
+* [Bank busts and regulation – Michael Roberts Blog](https://thenextrecession.wordpress.com/2023/03/21/bank-busts-and-regulation/)
+* [A very Swiss identity crisis ｜ Financial Times](https://www.ft.com/content/e74c0556-5e60-4ab2-9876-7ac687b1d021)
+* [旋风式拯救瑞信后，瑞银将受何影响？｜广场｜端 × 华尔街日报｜端传媒 Initium Media](https://theinitium.com/article/20230325-wsj-whats-next-for-ubs-after-buying-credit-suisse-in-whirlwind-rescue/)
+* [UBS agrees to buy Credit Suisse for more than $2bn ｜ Financial Times](https://www.ft.com/content/ec4be743-052a-4381-a923-c2fbd7ea9cfd)
+* [What the takeover of Credit Suisse means for UBS ｜ Financial Times](https://www.ft.com/content/52729d2c-8204-4bff-90e4-0e7a2a3af4d8)
+* [不止瑞信，瑞士本身也面临一场危机](https://cn.wsj.com/articles/%E4%B8%8D%E6%AD%A2%E7%91%9E%E4%BF%A1-%E7%91%9E%E5%A3%AB%E6%9C%AC%E8%BA%AB%E4%B9%9F%E9%9D%A2%E4%B8%B4%E4%B8%80%E5%9C%BA%E5%8D%B1%E6%9C%BA-c26d03a4)
+* [最新财新周刊｜特别报道：瑞银并购瑞信大交易](https://weekly.caixin.com/2023-03-25/102011825.html?p0#page2)
+
+## 法国总统马克龙强推退休改革法案引发全国罢工
+* [英国共产党官方推特几小时前发布了一条法国...](https://m.weibo.cn/status/4880332254612648?sourceType=weixin&from=10D0095010&wm=20005_0002)
+* [巴黎抗议群众在革命广场怒烧马克龙像：“路易十六已经被斩首了，我们不介意再来一次！”](https://m.bilibili.com/video/BV1kx4y1P7u6?buvid=XX11D581A58B17A6613D5A1DE56DF110DECA8&is_story_h5=false&mid=F0QNyOLkfskanvvtrCUcQA%3D%3D&p=1&plat_id=116&share_from=ugc&share_medium=android&share_plat=android&share_session_id=a75f1367-33f2-4d37-a88d-30df4ec449a0&share_source=WEIXIN_MONMENT&share_tag=s_i&timestamp=1679238087&unique_k=wkeEjth&up_id=589835127&share_times=1)
+* [安妮·埃尔诺对法国总罢工的支持：再次昂首阔步](https://mp.weixin.qq.com/s/vuA4M4uyUAjw4ZLXGtIBNg)
+* [局势升级！消防员，防暴警察加入法国全国性大罢工](https://m.bilibili.com/video/BV1pV4y1X7ia?-Arouter=story&buvid=XX11D581A58B17A6613D5A1DE56DF110DECA8&is_story_h5=true&mid=F0QNyOLkfskanvvtrCUcQA%3D%3D&p=1&plat_id=163&share_from=ugc&share_medium=android&share_plat=android&share_session_id=d3bd259f-c02a-4909-b1a3-39cf7a8f0166&share_source=WEIXIN_MONMENT&share_tag=s_i&timestamp=1679652059&unique_k=pfq8IBL&up_id=483787858&share_times=1)
+* [百万民众示威浪潮背后，法国极右翼对权利垂涎已久](https://mp.weixin.qq.com/s/-dK_Lb7NuVEegcZs3RgCDw)
+* [Is France on the road to a Sixth Republic? ｜ Financial Times](https://www.ft.com/content/b78f2a89-1062-4423-a4ba-fb4cdc56c683)
+
+## 经济
+* [China’s economic rebound weaker than expected, warns Maersk ｜ Financial Times](https://www.ft.com/content/ef8cc881-eec4-4255-b969-6abaa3403dfc)
+* [江苏：开展融资平台审计及债券风险排查](https://mp.weixin.qq.com/s/GqgGlhrejgTE7aK8rIfJpA)
+* [天津：2023年专项债券管理使用负面清单](https://mp.weixin.qq.com/s/oP39F-U3e7MltSLLqGqgtg)
+* [官方财政政策万字报告：2022年回顾及2023年展望](https://mp.weixin.qq.com/s/vy8lJTOQwvdVdU9_NDFwkA)
+* [城投债存量逐步回升](https://mp.weixin.qq.com/s/-TdcB4kmOmNn5uDLXbe_qA)
+* [财政部召开财会监督和预算执行监督专项行动动员部署会：通报典型案例，强化高压震慑](https://mp.weixin.qq.com/s/vgMaVuJSy7YXXK0YuIr1Ng)
+* [财长谈地方债，13大要点一览](https://mp.weixin.qq.com/s/oPAG5AWiJktX3ZHxWlDGuA)
+* [洛阳国宏：存续期债券评级突然大幅提升](https://mp.weixin.qq.com/s/uO1Q-tM35Z4G4NSAu_BEeQ)
+* [简单总结了信用债发行人融资能力逐步弱化的五个阶段及其特征](https://mp.weixin.qq.com/s/ZlKwm3Tw5Oky5qpKxkdpsQ)
+* [刘元春：从中美中央与地方债务结构看中国破解债务软约束的新思路](https://mp.weixin.qq.com/s/tyuHXP2gSlW8DSgwNSYprQ)
+* [山东：开展融资平台调查核查，强化平台债务风险预警](https://mp.weixin.qq.com/s/OIrE9sNbDRcb_csq7yvIsA)
+* [贵安往事：原贵安开投负责人宗文案](https://mp.weixin.qq.com/s/4jOvETlTwiMc4jjFa1BnjA)
+* [山东省财政厅厅长李峰到潍坊市调研：引导撬动更多金融资源支持潍坊经济发展](https://mp.weixin.qq.com/s/7fs-p2Qq-EpFLQZuQMvo2w)
+* [某城投向投资人提供财务资助被自律处分！](https://mp.weixin.qq.com/s/OzYrJcmS7xYRC_846_TdoQ)
+* [国务院确定今年10方面103项重点工作](https://mp.weixin.qq.com/s/8H5ON3Vsp3gkgBDVuagoYw)
+* [说说上海自贸区人民币债券和企业债的那个传闻](https://mp.weixin.qq.com/s/GYR-sgWgLQ-ptPBv8Cv4Gg)
+* [银保监会：坚决破除“金融精英论”“唯金钱论”等错误思想](https://mp.weixin.qq.com/s/BC7pssxAuYRAp4cTHLjGEw)
+* [李扬：在相对健康的资产负债表下，我们能够解决好地方债问题](https://mp.weixin.qq.com/s/9dAC_UtOV9ncSteiL6erxg)
+* [常务副总理、发改委主任、财长重磅发声！](https://mp.weixin.qq.com/s/7jLRFmvFh1034Gw9FmnvPA)
+* [Solar power: Europe attempts to get out of China’s shadow ｜ Financial Times](https://www.ft.com/content/009d8434-9c12-48fd-8c93-d06d0b86779e)
+* [China frees top chip investor to bolster semiconductor efforts ｜ Financial Times](https://www.ft.com/content/ffb81a37-5239-4d5b-80b6-2b318084b460)
+* [Chinese authorities raid US due diligence firm Mintz ｜ Financial Times](https://www.ft.com/content/965ca6b4-9d48-4f2d-ad0f-abc6e3a52b15)
+* [最新封面报道｜车价大战](https://weekly.caixin.com/2023-03-24/102011426.html?p0#page2)
+* [Singapore and Hong Kong vie to be the Caymans of Asia ｜ Financial Times](https://www.ft.com/content/88e20280-bb6e-4209-ae76-d7183c60ff62)
+* [What the Fed should do ｜ Financial Times](https://www.ft.com/content/7fa2e34a-8f4b-4465-854c-fe9de5594216)
+* [Powell splits the difference ｜ Financial Times](https://www.ft.com/content/939e819e-8381-4fee-8639-439847a196b3)
+* [Federal Reserve presses ahead with quarter-point rate rise despite banking turmoil](https://www.ft.com/content/8fefddc0-c611-4400-b112-51e8d0a763da)
+* [Bank of England raises interest rates to 4.25% despite banking turmoil ｜ Financial Times](https://www.ft.com/content/b3315028-974c-4d03-9ab9-8f8aacc72985)
+
+## 劳工
+* [职校生投稿｜我所经历的不合理实习](https://mp.weixin.qq.com/s/v4ElaCl8PxaUc1kmwBiRLQ)
+* [越多越来的大学生，争着去做保安](https://mp.weixin.qq.com/s/g-FnRKipUMaSxwmFl1GbCA)
+* [第一批数字游民，已经后悔了](https://mp.weixin.qq.com/s/QxiPWw0_fn2iajiRySAHMQ)
+* [2023年“两会”劳动提案回顾：基层工人视角缺乏，聚焦养老生育就业](https://www.laodongqushi.com/2023-congress/)
+* [【实证翻译】向临时工转变： 中国制造业中的劳务中介和灵活用工体系](https://www.laodongqushi.com/temporary-worker/)
+* [澎湃新闻｜“超龄打工人”站在零工十字路口](https://chinadigitaltimes.net/chinese/694019.html)
+* [风声OPINION｜60、70后退休再就业难，真正的问题还不是年龄](https://chinadigitaltimes.net/chinese/694045.html)
+* [最新财新周刊｜打通异地就医之路](https://weekly.caixin.com/2023-03-25/102011852.html?p0#page2)
+
+## 性别
+* [【纪念许广平】远远不止“鲁迅夫人”](https://mp.weixin.qq.com/s/A9qNMlabx6Si4L5YCHx7gg)
+* [是她、他，还是Gender X？一张证明不到跨性别人士身分的香港身分证｜香港｜深度｜端传媒 Initium Media](https://theinitium.com/article/20230324-hongkong-transgender-non-binary-and-their-hkid-card/)
+* [极昼工作室｜被前男友偷拍两年后，一个女孩漫长的自愈](https://chinadigitaltimes.net/chinese/694090.html)
+* [【404媒体】微信公众号“女孩别怕”遭封禁](https://chinadigitaltimes.net/chinese/694168.html)
+
+## 其他
+* [“应该还能再苟几年”：广州版清退进行时下的康乐村｜大陆｜深度｜端传媒 Initium Media](https://theinitium.com/article/20230320-mainland-guangzhou-kangle-urban-villages-removal/)
+* [邓聿文：中国党政机构改革，习近平难以摆脱的安全困境｜评论｜大陆｜深度｜端传媒 Initium Media](https://theinitium.com/article/20230321-opinion-china-government-restructure/)
+* [评“中央港澳办”设立：一个（不）重要的机构升格？｜评论｜大陆｜香港｜深度｜端传媒 Initium Media](https://theinitium.com/article/20230322-opinion-central-hk-macau-affair-office/)
+* [疑似编程随想家属发声求救 : DoubanGoosegroup](https://www.reddit.com/r/DoubanGoosegroup/comments/11xnfzg/%E7%96%91%E4%BC%BC%E7%BC%96%E7%A8%8B%E9%9A%8F%E6%83%B3%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0%E6%B1%82%E6%95%91/)
+* [“编程随想”博主被判刑七年](https://www.williamlong.info/archives/7112.html)
+* [维权网: 著名人权捍卫者、女权人士李翘楚被羁押近2年多后，获得律师第一次线下见面](https://wqw2010.blogspot.com/2023/03/24_23.html)
+* [朝鲜人面临越来越大的饥饿风险，人们开始铤而走险发起抗议 – 会员](https://www.caus.money/all-articles/focus_news/9672/)
+* [Conservatives win some culture battles, but they are losing the war ｜ Financial Times](https://www.ft.com/content/f8ba2a61-c55a-4209-ba5b-8dfaca9783ff)
+* [無差別隔離、被扣走的第「0」天──野百合學運企業家一審告贏衛福部](https://www.twreporter.org/a/prevention-and-control-covid-19-policies-violate-human-rights-law-issue-1)
+* [黄哲翰：同岛一命的怨怼共同体——“交通地狱”里，民主台湾的认同吊诡](https://theinitium.com/article/20230321-opinion-taiwan-identity-in-traffic-hell/)
+* [“我们不在中国”：人脸识别技术在英国遭遇强烈争议｜国际｜深度｜端传媒 Initium Media](https://theinitium.com/article/20230322-international-surveillance-in-uk/)
+* [政变带来了转机，新思想和新结构正在革命中生成——专访缅甸民主活动家顺雷伊](https://theinitium.com/article/20230325-international-thinzar-shunlei-yi/)
+* [Rishi Sunak defeats Tory rebels to win vote on post-Brexit Northern Ireland deal](https://www.ft.com/content/8b68d67d-7af8-458c-8da4-af35ef2b2e7b)
+* [俄罗斯武器不想要，中国军火不可靠，谁正在填补东南亚各国的武备库？ – 会员](https://www.caus.money/all-articles/9694/)
+* [张千可｜文学考古学：试论郭沫若的考古研究与抗战历史剧之联系](https://mp.weixin.qq.com/s/mzK0PhXgtdIJAhQDu4eueQ)
+* [睡眠，作为一种“反抗”｜世界睡眠日](https://mp.weixin.qq.com/s/-n2Pu_UFkEIK3IlQ8XWAMA)
+* [算法的形状｜图绘自动写作史（一）：媒介语言中的位值](https://mp.weixin.qq.com/s/KUe3nvWDgC2CGJOeANq_yA)
+* [论坛剧场工作坊 招募](https://mp.weixin.qq.com/s/17Y8aQb_Iynen4GmiadnNA)
+* [从卞仲耘“八五”遇难事件谈起 ｜ 华新民文集](http://hua-xinmin.hxwk.org/2023/03/20/%E4%BB%8E%E5%8D%9E%E4%BB%B2%E8%80%98%E5%85%AB%E4%BA%94%E9%81%87%E9%9A%BE%E4%BA%8B%E4%BB%B6%E8%B0%88%E8%B5%B7/)
+* [IPCC最新报告出炉，我们帮你圈好了这六条重点](https://mp.weixin.qq.com/s/FIHiAkyLvfR8t3Me7b7Rsw)
+* [文章荐读︱周志强：声音与“听觉中心主义”——三种声音景观的文化政治](https://mp.weixin.qq.com/s/onLydGR8uQn1p-U_n0fBFw)
+* [GPT-4来了，但大模型的诸多未解之谜仍然未解](https://mp.weixin.qq.com/s/Ca-qyRcNC_ye6F-KaelYjQ)
+* [Microbes on the farm: a solution for climate change? ｜ Financial Times](https://www.ft.com/content/71422ca3-6cc8-46c3-9f59-768a501b85f3)
+* [The teen mental health crisis: a reckoning for Big Tech ｜ Financial Times](https://www.ft.com/content/77d06d3e-2b9f-4d46-814f-da2646fea60c)
+* [【Data Reporter】美、日職決戰WBC！經典賽後棒球排名最新變化、台灣世界第三積分怎麼來？數據告訴你](https://www.twreporter.org/a/data-reporter-wbc)
+* [伊战20年：一个被改变的华盛顿和美国的惨痛代价](https://cn.nytimes.com/usa/20230323/iraq-20-years/)
+* [【圖解】細胞治療4大問：它能成為癌症新希望嗎？治療費用、風險與挑戰有多少？](https://www.twreporter.org/a/regenerative-medicine-cell-therapy-explanation)
+* [失衡的再生醫療雙法草案：商機下被漠視的病人權益和醫療倫理](https://www.twreporter.org/a/regenerative-medicine-legislation)
+* [專訪日本學者：再生醫療立法9年後，他們為何提出警告？台灣如何借鏡？](https://www.twreporter.org/a/regenerative-medicine-in-japan)
+* [影像：Art Basel，久违的五官神态｜风物｜广场｜影像｜端传媒 Initium Media](https://theinitium.com/article/20230325-photo-art-basel/)
+* [这不是一篇「港漂」自白书：一个移民的身份宣言｜异乡人｜深度｜端传媒 Initium Media](https://theinitium.com/article/20230326-stranger-a-hongkonger-declaration/)
+* [重现《明镜》丑闻，这部电影试图讨论新闻业的未来｜风物｜深度｜电影｜端传媒 Initium Media](https://theinitium.com/article/20230327-culture-spiegel-affair-film-comedy-thousand-lines/)
+* [《黑暗荣耀》：为什么男反派可以惨死，女反派却一定要“在公众面前”惨死？｜风物｜深度｜端传媒 Initium Media](https://theinitium.com/article/20230323-culture-the-glory-critics/)
