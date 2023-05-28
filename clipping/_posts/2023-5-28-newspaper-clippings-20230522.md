@@ -1,0 +1,112 @@
+---
+title: 2023.05.22~2023.05.28一周新闻剪报
+comment: on
+layout: post
+---
+
+昆明城投债兑付及南宁天价停车费引关注、国泰航空空乘歧视非英语乘客
+
+<!--excerpt-->
+
+## 昆明城投债兑付及南宁天价停车费引关注
+* [兰投集团领导班子多次赴省内金融机构对接债务重组、信用修复和融资发债事宜](https://mp.weixin.qq.com/s/QwJb_NIiTTxBA-vQh1-djw)
+* [债市的隐秘角落： 揭秘“债券代持”四大模式](https://mp.weixin.qq.com/s/LKrZOuYdClYX8S2d4Fk_oA)
+* [处于西南地区的三角市，最近都各有各的难](https://mp.weixin.qq.com/s/JCbN14RQ0xDv32tmPmLtCg)
+* [中央审计委员会：密切关注地方债、金融、房地产、粮食、能源等重点领域](https://mp.weixin.qq.com/s/Cpm1AUiCigLJ6GIgHfA-2w)
+* [湖南省长：产业园区要坚决做到“零爆雷”](https://mp.weixin.qq.com/s/uN1rgwVTdFEA4q8-bp9QPA)
+* [从三角市看弱区域城投债务风险演化的三种典型情形](https://mp.weixin.qq.com/s/ltm317soMj48VyvYb-2mTw)
+* [昆明城投债券兑付风波发酵 区域土地收入断崖下跌](https://finance.caixin.com/2023-05-24/102058508.html)
+* [浙江：聚焦违规新增隐债、融资平台违规融资等问题，强化通报问责和处理处罚](https://mp.weixin.qq.com/s/Qg5zFbwbLS2LCUSUhzYQwA)
+* [四方相“声明”，昆明债务形势如何](https://mp.weixin.qq.com/s/cdU0qUB0BJHLIa8BSt9RKg)
+* [独家｜25年停车收费权72亿质押贷款几何 南宁“天价泊车”真相](https://finance.caixin.com/2023-05-24/102058635.html)
+* [2022年至今，云贵地区公司债累计获批65只，主要集中在两地的省会城市](https://mp.weixin.qq.com/s/GvKQ8NBuvsRfDzmZfPFJxQ)
+* [上海市代表团赴滇考察交流](https://mp.weixin.qq.com/s/OencE58IhKqsWOEVNgNKSA)
+* [停车业务惹麻烦了，南宁债务知几何？](https://mp.weixin.qq.com/s/Ap_SbEr-CXjw1rtk9QXTZw)
+* [江西将组织开展融资平台专项审计](https://mp.weixin.qq.com/s/60bDN28-lfbb7WbJKjERJg)
+* [保交楼调查：缺钱缺人缺信用，交付率仅34%](https://mp.weixin.qq.com/s/6mDzrmETDW9TmF2dNTd9XA)
+* [繁荣与危机：南昌见证中国楼市起与落](https://cn.nytimes.com/business/20230526/china-housing-crisis-nanchang/)
+* [中共中央、国务院：依托投融资平台等，组建水网建设运营实体](https://mp.weixin.qq.com/s/B5lVyXGT6AuHbHNm15O1og)
+
+## 国泰航空空乘歧视非英语乘客
+* [国泰歧视风波：两天内，一宗小红书投诉如何升级至香港特首的痛愤？｜香港｜即时｜深度｜端传媒 Initium Media](https://theinitium.com/article/20230525-hongkong-whatsnew-cx-fires-staff-over-alleged-discrimination/)
+* [舆论漩涡中的国泰空服员，如何看待歧视风波？｜香港｜深度｜端传媒 Initium Media](https://theinitium.com/article/20230525-hongkong-cathay-pacific-staff/)
+
+## 经济
+* [年初讲的两个“预期差”，CN修正后还有US](https://mp.weixin.qq.com/s/rwbiRmFFQ7QONLTRR44ldw)
+* [阿水与银行的维权之路](https://mp.weixin.qq.com/s/yxiKVuSSZD16id698gIvKA)
+* [说说搜特转债面临强制退市这件事](https://mp.weixin.qq.com/s/OtD525D22Yg1A2pltWM8_Q)
+* [澳大利亚欲重塑锂矿业，摆脱对中国的依赖](https://cn.nytimes.com/asia-pacific/20230524/australia-lithium-refining/)
+* [地球变得更热了，大米也在面临危机](https://cn.nytimes.com/world/20230526/rice-farming-climate-change/)
+* [凯盛被查前后，谘询公司与外资的在华困境｜大陆｜深度｜端传媒 Initium Media](https://theinitium.com/article/20230526-mainland-capvision/)
+* [[Exclusive] China’s Biggest Debt Collector to Shut; New Rules to Come In Next Quarter](https://www.yicaiglobal.com/news/exclusive-chinas-biggest-debt-collector-to-shut-new-rules-to-come-in-next-quarter)
+* [最新封面报道｜烟草反腐风暴](https://weekly.caixin.com/2023-05-26/102059365.html?p0#page2)
+* [最新财新周刊｜阿里分家](https://weekly.caixin.com/2023-05-27/102059400.html?p0#page2)
+* [The Japan rally ｜ Financial Times](https://www.ft.com/content/4644303f-ec69-46eb-a3ac-df226f35b888)
+* [Making US stocks cheap ｜ Financial Times](https://www.ft.com/content/86e10b0c-d7e7-49a1-973d-dba4aa6c4846)
+* [After the debt ceiling deal ｜ Financial Times](https://www.ft.com/content/54389e5d-7881-49f7-9c0d-f35781fe8485)
+* [Back to Square One on the Russia Sanctions?](https://theovershoot.co/p/back-to-square-one-on-the-russia)
+* [The Fed isn’t done breaking things ｜ Financial Times](https://www.ft.com/content/2e155599-8002-4281-87bd-14cbda44cd53)
+* [The crackdown on risky chemicals that could derail the chip industry ｜ Financial Times](https://www.ft.com/content/76979768-59c0-436f-b731-40ba329a7544)
+* [US Congress: how investment funds became the new insider trading risk ｜ Financial Times](https://www.ft.com/content/e3ed73d1-c97c-41c6-9993-6c1023da418c)
+* [The new gold boom: how long can it last? ｜ Financial Times](https://www.ft.com/content/2b31029a-2fed-4e22-89a5-45f881c401b0)
+* [The fall of Vice: private equity’s ill-fated bet on media’s future](https://www.ft.com/content/b8010767-8fe8-4ec0-aa40-676440b90f8d)
+* [The two Bs on inflation – Michael Roberts Blog](https://thenextrecession.wordpress.com/2023/05/27/the-two-bs-on-inflation/)
+* [余永定：美联储的通胀教训](https://finance.sina.com.cn/zl/china/2023-03-21/zl-imymqrre3199267.shtml)
+* [Is COP28 destined to be a flop? ｜ Financial Times](https://www.ft.com/content/37d14048-f798-4c9d-b872-211447351da1)
+* [Lex in depth: the staggering cost of a green hydrogen economy ｜ Financial Times](https://www.ft.com/content/6e22930b-a007-4729-951f-78d6685a7514)
+* [最新财新周刊｜硅谷银行危机问责](https://weekly.caixin.com/2023-05-27/102059393.html?p0#page2)
+
+## 劳工
+* [寒门子弟上名校之后](https://mp.weixin.qq.com/s/Uh6K2eiUaSDZIGgNJkID5g)
+* [【透过数据看世界】9年下降近45%，中国出生人口数量暴跌背后的真相](https://www.zhihu.com/zvideo/1466410806732189696)
+* [文科生，求职市场最尴尬的存在](https://mp.weixin.qq.com/s/l5pn9GliurseJ8x4YJGmww)
+* [China FAQ 常见中国问题解答系列 – Isn’t China the world’s sweatshop? 难道中国不是世界血汗工厂吗？ ｜ Chuang](https://chuangcn.org/2023/05/china-faq-sweatshop/)
+* [职业间及职业内部收入分化程度近年来持续扩大：富者越富，贫者薪资增长停滞](https://www.laodongqushi.com/wage_differ/)
+* [【现场】打工博物馆的最后一夜：没有我们的历史，就没有我们的未来｜大陆｜深度｜端传媒 Initium Media](https://theinitium.com/article/20230524-mainland-migrant-workers-museum-shutdown/)
+* [再见，打工博物馆｜工劳小报 #22](https://news.laborinfocn2.com/issue22/)
+* [一个时代的结束： 21世纪初中国的劳工圈 ｜ Chuang](https://chuangcn.org/2023/05/laogongquanshidai/)
+
+## 性别
+* [穷厕和厕妹：从互联网的阴暗角落窥见挣扎中的中国女性 ｜ 歪脑 WHYNOT](https://www.wainao.me/wainao-reads/struggling-chinese-women-social-media-05222023#)
+* [【404文库】丁香医生｜我决定陪儿子重新长成一名女性](https://chinadigitaltimes.net/chinese/696407.html)
+
+## 其他
+* [中国加强文化控制，多地脱口秀、音乐演出被取消](https://cn.nytimes.com/china/20230525/china-comedy-music-crackdown/)
+* [维权网: 一审获刑7年的网络工程师阮晓寰（网名编程随想）二审延期](https://wqw2010.blogspot.com/2023/05/7_21.html)
+* [为制衡中国，G7国家借鉴“中国经验”](https://cn.nytimes.com/world/20230522/biden-industrial-policy/)
+* [拜登为何乐观预测中美关系即将“解冻”](https://cn.nytimes.com/usa/20230523/biden-china-g7/)
+* [Exclusive: Russian hypersonic scientist accused of betraying secrets to China ｜ Reuters](https://www.reuters.com/world/russian-hypersonic-scientist-accused-betraying-secrets-china-sources-2023-05-24/)
+* [中国黑客入侵关岛电信系统，台湾或为真正目标？](https://cn.nytimes.com/usa/20230525/china-guam-malware-cyber-microsoft/)
+* [Framing China in Southeast Asia](https://chinamediaproject.org/2023/05/24/framing-china-in-southeast-asia/)
+* [China’s Rush to Ratify](https://chinamediaproject.org/2023/05/26/chinas-rush-to-ratify/)
+* [China’s fishing fleet embroiled in rising tensions with US ｜ Financial Times](https://www.ft.com/content/5b3cc3a1-0c42-4679-81ca-be0ca7f448d1)
+* [Britain is not America — and the right shouldn’t forget it](https://www.ft.com/content/a2050877-124a-472d-925a-fc794737d814)
+* [泰国大选：反对派大胜，泰国的外交政策会否大逆转？｜国际｜深度｜端传媒 Initium Media](https://theinitium.com/article/20230523-international-move-forward-wins-in-thailand-will-change-asia/)
+* [面对2024美国大选，共和党的困境和无法摆脱的“党领袖”特朗普｜评论｜国际｜深度｜端传媒 Initium Media](https://theinitium.com/article/20230526-opinion-usa-2024-elecion-trump-desantis/)
+* [土耳其大选观察：史上首次二轮投票，过去两星期发生了甚么事？｜2023 土耳其大选｜国际｜深度｜端传媒 Initium Media](https://theinitium.com/article/20230528-international-ahead-of-turkish-election-run-off/)
+* [“看不到光明”：被“抛弃”的阿富汗人冒死奔向美国](https://cn.nytimes.com/usa/20230524/darien-gap-afghan-migration/)
+* [【Hello World】敘利亞「暴君外交」勝利？阿薩德手掐難民和毒品流向，重返阿拉伯世界](https://www.twreporter.org/a/hello-world-2023-05-24)
+* [Putin claims capture of Bakhmut as Ukraine insists battle ‘not over’ ｜ Financial Times](https://www.ft.com/content/5950d5d5-26b4-4b8b-a4c6-9dfbd62e9a99)
+* [Pro-Ukraine fighters ‘liberate’ village in Russia’s Belgorod region](https://www.ft.com/content/8811c49c-0549-4ce9-9730-6b67ac66a029)
+* [和校门是否打开相比，这样的“封闭”更让人担心](https://mp.weixin.qq.com/s/OZFFWwNbUGwJy0lQwV8obw)
+* [翻山越岭的意义｜免费newsletter（064）](https://newsletter.newslab.info/finding-meaning-in-an-unequal-world/)
+* [陈佩斯：时间不会欺骗我](https://mp.weixin.qq.com/s/i15EBuAfHuji7k6a5Jl53g)
+* [你有没有想过，流亡意味着什么？｜接力访问042 曾嘉慧](https://mp.weixin.qq.com/s/1EpsJUqjcNXQc96amvkhUQ)
+* [从白发里取出一个少女](https://mp.weixin.qq.com/s/Vk-foTGPWkUXWQiOarCXfw)
+* [承重墙被砸之后，200多户业主的“破裂”生活](https://mp.weixin.qq.com/s?__biz=MTc5MTU3NTYyMQ==&mid=2651236644&idx=1&sn=8a5df577c842e48758c817e8755eecb7&chksm=5904b80e6e73311824e6393a2ed6b0b7291a00096924590e73adcd1c89f2545b0f55457c7e63&scene=90&subscene=93&sessionid=1685009749&flutter_pos=22&clicktime=1685009750&enterid=1685009750&ascene=56&fasttmpl_type=0&fasttmpl_fullversion=6694867-zh_CN-zip&fasttmpl_flag=0&realreporttime=1685009750160&devicetype=android-33&version=2800235b&nettype=WIFI&abtest_cookie=AAACAA%3D%3D&lang=zh_CN&countrycode=CN&exportkey=n_ChQIAhIQn4eQAAS2z2TCfLjqTbet%2BBLvAQIE97dBBAEAAAAAAFCDFiZzIoYAAAAOpnltbLcz9gKNyK89dVj0XBy9hAuYmfNi%2FDaFmAxaOwINcqC6CAvWKB352aalG7c1HILIr9012x0Usn2vFPq5Dz90bWcHl6XafjEoFgL65yoMTX17wCYf8o4BNz2FHD7jWGr5VE8pAq8f2UwFlUYlkTumtWE20FSxkAhJel8dmEzglH%2FNILCqK8B%2FEpqATZgIRGPLUBh3VNwiap8h3gbpLwHZi%2FAqRVxrJxJewngZX0SWHwXKV1hYJwfNG1D23eCjpcfVAhPQVBumq%2Fre12Xq1kDUdeEpsIXT&pass_ticket=z9o721sIpde68yDaoz5hQxgsZp1Ij4JFzOxkbNAhLd7pByz6BhPr2yLSgnoCG2a%2F4IE943YRECfCFeu0k7L72A%3D%3D&wx_header=3)
+* [大脑如何在孤独中迷失与重塑？](https://mp.weixin.qq.com/s/URzY5YlFHBBefGoicY6vAw)
+* [萨拉马戈《复明症漫记》三人谈](https://mp.weixin.qq.com/s/406YFpnHMY3wAWGoKaqt6A)
+* [“脱口秀找到了不属于它的观众”：中国脱口秀演员、观众如何看审查和举报｜大陆｜深度｜端传媒 Initium Media](https://theinitium.com/article/20230522-mainland-stand-up-comedy-cencorship/)
+* [图书馆没有的“禁书”，藏身在香港人家中书柜｜香港｜影像｜端传媒 Initium Media](https://theinitium.com/article/20230522-photo-hongkong-books-removed-from-libraries/)
+* [“淄博烧烤”缘何成为网红](https://cn.nytimes.com/china/20230523/zibo-barbecue/)
+* [一场葬礼，一个秘密，一场意料之外的和解｜寻找一块墓地｜寻找一块墓地｜深度｜端传媒 Initium Media](https://theinitium.com/article/20230524-finding-a-worthy-grave-a-funeral-in-the-philippines/)
+* [是“家”还是“枷”：台湾儿少为什么离家？一定要回家吗？｜台湾｜深度｜端传媒 Initium Media](https://theinitium.com/article/20230525-taiwan-away-from-home-among-adolescents/)
+* [驾照、地址和照片：调查揭示TikTok如何泄露用户隐私](https://cn.nytimes.com/technology/20230525/inside-how-tiktok-shares-user-data-lark/)
+* [信仰、慈善和政治：数据看佛教在香港是怎样的存在｜香港｜数洞｜深度｜端传媒 Initium Media](https://theinitium.com/article/20230526-dataphile-buddhism-in-hk/)
+* [第76届戛纳影展——影展力挺纪录片，纪录片能否走向更广阔的大众？](https://theinitium.com/article/20230527-culture-canne-documentary-76/)
+* [《人选之人-造浪者》好看的秘诀｜与厌世姬、简莉颖、林昱伶一席谈](https://theinitium.com/article/20230523-culture-wave-makers-taiwan-tv-series/)
+* [《人选之人》剧评：一个不完美的社会为什么值得期待｜风物｜深度｜端传媒 Initium Media](https://theinitium.com/article/20230527-culture-tvdrama-wavemakers-from-mainland/)
+* [What neo-Luddites get right — and wrong — about Big Tech](https://www.ft.com/content/f312c9ff-633d-480e-8887-4b5ad3f0ae5e)
+* [Concrete Sublime and Somatic Intensity](https://madeinchinajournal.com/2023/05/22/concrete-sublime-and-somatic-intensity/)
+* [【404文库】丁香园｜“手术直播”成国内医学会议心头好，已被多国严控、禁止](https://chinadigitaltimes.net/chinese/696330.html)
+* [最新财新周刊｜“测”出葡萄万年驯化史](https://weekly.caixin.com/2023-05-27/102059407.html?p0#page2)
