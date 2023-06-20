@@ -77,7 +77,7 @@ layout: post
 
 ## 其他
 * [996.ICU发起人勾结境外势力，被判颠覆国家政权罪刑拘！](https://mp.weixin.qq.com/s/iARcS3fLKvAFx68Y3Yh5UQ)
-* [四问港府申令禁<愿荣光归香港>：何谓禁？如何禁？是否开启审查之路？｜风物｜深度｜端传媒 Initium Media](https://theinitium.com/article/20230613-culture-whatsnew-glory-injunction/)
+* [四问港府申令禁《愿荣光归香港》：何谓禁？如何禁？是否开启审查之路？｜风物｜深度｜端传媒 Initium Media](https://theinitium.com/article/20230613-culture-whatsnew-glory-injunction/)
 * [《依法惩治网络暴力违法犯罪的指导意见》发布](https://www.williamlong.info/archives/7192.html)
 * [为何亚洲霸权之争始于中国海警](https://cn.nytimes.com/china/20230612/china-coast-guard/)
 * [习近平会见巴勒斯坦领导人，中国扩大中东影响力](https://cn.nytimes.com/china/20230615/china-mahmoud-abbas-xi-jinping/)
