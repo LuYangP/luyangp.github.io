@@ -66,8 +66,6 @@ layout: post
 * [最新封面报道｜忠旺真相](https://weekly.caixin.com/2023-06-30/102070728.html?p0#page2)
 * [科技股投资的四个问题](https://mp.weixin.qq.com/s/FA1PfeYR13-JJqsHf8QbmA)
 * [最新财新周刊｜AI监管全球竞速](https://weekly.caixin.com/2023-07-01/102071215.html?p0#page2)
-
-### 环球
 * [Japan jitters ｜ Financial Times](https://www.ft.com/content/78d4804d-1470-4376-972e-624ff122991c)
 * [Why markets have ignored Russia ｜ Financial Times](https://www.ft.com/content/154a4235-b13e-47be-86d6-9d01564574a3)
 * [Long Live SOFR](https://fedguy.com/long-live-sofr/)
