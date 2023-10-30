@@ -130,7 +130,7 @@ layout: post
 * [安特卫普学艺术，学完艺术端盘子 ｜ 零工女孩](https://mp.weixin.qq.com/s/yBP0IO3LvbU5ua9BHQNg5Q)
 * [设计｜郑捷：返本开新，探索东方语境下跨学科表达的形神兼备](https://mp.weixin.qq.com/s/aq2ceVY0DWmW7mr6Rc90Cw)
 * [sim：所有即兴都派不上用场](https://mp.weixin.qq.com/s/2rZELIqubM_IeP7LOmKu9w)
-* [傳播與社會學刊Communication & Society | 本科生、研究助理、課題負責人？試論ChatGPT在學術研究中的角色](https://cschinese.com.cuhk.edu.hk/issueArticle.asp?P_No=97&CA_ID=744)
+* [傳播與社會學刊Communication & Society｜本科生、研究助理、課題負責人？試論ChatGPT在學術研究中的角色](https://cschinese.com.cuhk.edu.hk/issueArticle.asp?P_No=97&CA_ID=744)
 * [To Be Heard｜ “我每天花两个小时看新闻，因为我有求知欲”](https://mp.weixin.qq.com/s/23xjyLxEGCn09T-OM-c4wA)
 * [高铁日记之黑涩会往事](https://mp.weixin.qq.com/s/kH8tjapZxyRycgHAKDN2EQ)
 * [新闻订阅还能这么玩？又省钱了！](https://mp.weixin.qq.com/s/3ll6-F5MCqyCLdq64alB_g)
