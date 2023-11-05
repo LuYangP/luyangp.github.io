@@ -4,7 +4,7 @@ comment: on
 layout: post
 ---
 
-中央金融工作会议召开、美联储议息会议暂不加息市场预期利率见顶、巴以冲突持续、李克强去世及悼念活动、上海万圣节
+中央金融工作会议召开、美联储议息会议暂不加息市场预期利率见顶、巴以冲突持续、悼念李克强、上海万圣节
 
 <!--excerpt-->
 
@@ -58,7 +58,7 @@ layout: post
 * [姚新勇辩驳秦晖:有助理解“巴以问题”及中国自由主义矛盾困境](https://mp.weixin.qq.com/s/Wof_9Oa54rCZ2WGWFHemJg)
 * [FT中文网｜就教于秦晖老师：无瑕的以色列，不存在的巴勒斯坦？](https://chinadigitaltimes.net/chinese/701781.html)
 
-## 李克强去世及悼念活动
+## 悼念李克强
 * [讣告，也是观察中国政治的独特窗口 ｜ 你身边的政治学Siri](https://mp.weixin.qq.com/s/TAGbxKfUp1lCiXx1rrt4Ww)
 * [李克强同志遗体在京火化 习近平等到八宝山革命公墓送别](https://mp.weixin.qq.com/s/5nwz2YhzSN6LhaNE_szzNg)
 * [从“破壁者”到“隐形人”：逝者李克强，和他担任总理的中国十年｜端传媒 Initium Media](https://theinitium.com/zh-Hans/article/20231030-opinion-li-ke-qiang-ten-years)
