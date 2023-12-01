@@ -4,7 +4,7 @@ comment: on
 layout: post
 ---
 
-习近平访美与拜登会面、郑州烂尾楼小夫妻维权被打、OpenAI创始人Sam Altman被董事会解职、巴以冲突持续
+习近平访美与拜登会面、郑州烂尾楼小夫妻维权被打、OpenAI创始人奥尔特曼被董事会解职、巴以冲突持续
 
 <!--excerpt-->
 
@@ -45,7 +45,7 @@ layout: post
 * [最新封面报道｜重估地产业](https://weekly.caixin.com/2023-11-17/102136812.html?p0#page2)
 * [低效能人士的广播 - 其实我对丽君挺有代入感的](https://www.douban.com/people/botuoxi/status/4438292587/?_dtcc=1&_i=0550508m174m3Z)
 
-## OpenAI创始人Sam Altman被董事会解职
+## OpenAI创始人奥尔特曼被董事会解职
 * [突发！“ChatGPT 之父”Sam Altman 被开除，与董事会矛盾早有端倪？](https://mp.weixin.qq.com/s/C5YDT_8-4jLJ3I9PNAzAOQ)
 * [希特勒，乔布斯，奥特曼](https://mp.weixin.qq.com/s/Vm5BDxV1kSYzenzl30vBxA)
 * [AI outperforms conventional weather forecasting methods for first time](https://www.ft.com/content/ca5d655f-d684-4dec-8daa-1c58b0674be1)
