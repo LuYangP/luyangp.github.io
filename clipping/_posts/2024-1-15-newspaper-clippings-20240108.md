@@ -31,7 +31,7 @@ layout: post
 * [Taiwan’s ruling party secures presidency as voters defy China](https://www.ft.com/content/bc1b9521-8381-4fb8-aebd-80846a18085d)
 * [前民进党主席施明德逝世｜端传媒 Initium Media](https://theinitium.com/zh-Hans/article/20240115-whatsnew-taiwan-shih-ming-teh)
 
-## 中共反应
+### 中共反应
 * [中国发射了卫星还是导弹？台湾国防部错译警报引发争议](https://cn.nytimes.com/asia-pacific/20240110/taiwan-alert-chinese-flyover/)
 * [“外长候选人”刘建超访美谈及台湾，中国增外国人免签措施｜Whatsnew｜端传媒 Initium Media](https://theinitium.com/zh-Hans/article/20240112-whatsnew-mainland-liujianchao)
 * [选前北京紧缩贸易优惠：ECFA的“早收清单”如何影响台湾出口经济模式？｜端传媒 Initium Media](https://theinitium.com/zh-Hans/article/20240113-taiwan-ecfa-effect)
