@@ -17,7 +17,7 @@ layout: post
 * [新余大火警示：老旧小区隐患重重难逃生](https://china.caixin.com/2024-01-26/102160858.html)
 * [江西新余火灾致39人遇难，违章装修引发失火](https://cn.nytimes.com/china/20240125/china-fire-jiangxi/)
 
-## 股市持续下跌政府设立平准基金救市
+## 股市持续下跌政府考虑设立平准基金救市
 * [恐慌并不比狂热更理性](https://mp.weixin.qq.com/s/Kz-59UiO3TWcJZshIINpmA)
 * [日本财政改革的启示](https://mp.weixin.qq.com/s/BRx02PV0L3nWugLAnBg0nA)
 * [国常会听取资本市场运行情况及工作考虑的汇报](https://mp.weixin.qq.com/s/z8vvfxhoNjzECHhelPwWWg)
