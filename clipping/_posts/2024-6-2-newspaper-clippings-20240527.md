@@ -16,6 +16,7 @@ layout: post
 * [Hedge fund billionaire Bill Ackman likely to back Donald Trump](https://www.ft.com/content/f85801ff-3de4-4c56-a729-6f585c08ef1d)
 * [Donald Trump found guilty on all counts in ‘hush money’ trial](https://www.ft.com/content/fce3443a-289a-4672-846e-7d7a7232d2f1)
 * [Trump’s guilty verdict puts America’s political system on trial](https://www.ft.com/content/fdc03850-2645-4c48-999b-2f7536918737)
+* [荷兰分享会，川普被定罪，夫妻聊下坠](https://mp.weixin.qq.com/s/lpb4pyCizcq9_-O_tc_hoA)
 
 ## 美国允许援乌武器攻击俄本土目标
 * [美欧争论是否允许援乌武器攻击俄本土目标 俄警告局势升级风险](https://international.caixin.com/2024-05-30/102201415.html?channel=1022&channelSource=jx_newsletter&originReferrer=jx_newsletter)
@@ -51,12 +52,19 @@ layout: post
 * [风声OPINION｜中国房地产政策“史诗级”巨变，全面学习新加坡模式可行吗？](https://chinadigitaltimes.net/chinese/708298.html)
 * [“全民居者有其屋”：新加坡如何建立公共住房系统](https://cn.nytimes.com/asia-pacific/20240528/singapore-public-housing-program/)
 * [最新财新周刊｜房地产金融松绑](https://weekly.caixin.com/2024-06-01/102202227.html?p0#page2)
+* [单身女性买房，一年跌掉80万，她们还好吗](https://mp.weixin.qq.com/s/yyNaO1dS28Ur7WtPZJYqIw)
+* [证监会：对恒大按欺诈募资额20%罚款，并推进对相关中介机构的调查](https://mp.weixin.qq.com/s/DGcdOvw9bVPsy3-WInOU7g)
 
 ## 经济
 * [China’s middle class still jittery about spending – especially on property, survey finds ｜ South China Morning Post](https://www.scmp.com/economy/china-economy/article/3264152/chinas-middle-class-still-jittery-about-spending-especially-property-survey-finds)
 * [Xi Jinping issues call to arms: China must cultivate new job sources, quell ‘chaos’ in employment market ｜ South China Morning Post](https://www.scmp.com/economy/china-economy/article/3264452/chinas-xi-jinping-issues-call-arms-cultivate-new-sources-employment-quell-chaos-job-market)
 * [5月统计局制造业PMI降至49.5 需求重现收缩](https://economy.caixin.com/2024-05-31/102201775.html)
 * [5月长债收益率低位横盘 央行“必要时考虑卖出国债”](https://finance.caixin.com/2024-05-31/102201986.html)
+* [央行下属金融时报：10年期国债收益率合理区间约在2.5%至3%](https://mp.weixin.qq.com/s/yjNzlBB50oJl7HKArMNs1w)
+* [央行发声：强大的货币应当具有“稳定”、“好用”特征](https://mp.weixin.qq.com/s/NgbpHVB34CS1xidYiNdDfw)
+* [哪些“转型城投”在新增债券批文？](https://mp.weixin.qq.com/s/vTXAWvi1AEEtsBMmS5AbMQ)
+* [某省在省级层面设立平稳基金，组建银团支持重点地市化债](https://mp.weixin.qq.com/s/DBm5siWhKmW-YrvUGyAShw)
+* [锦龙股份：子公司中山证券获得2.68亿执行款，与泛海债有关](https://mp.weixin.qq.com/s/k2xyEk9TH5VzlEDJMdp6KA)
 * [国家大基金三期成立 注册资本3440亿元](https://www.caixin.com/2024-05-27/102200442.html?channel=1022&channelSource=jx_newsletter&originReferrer=jx_newsletter)
 * [China raises $47bn for chip industry in drive for self-sufficiency](https://www.ft.com/content/175a36b0-c928-4285-bbc1-41b6026e4f92)
 * [China Turns to Exporting Livestock Feed, Soybeans on Weak Domestic Demand](https://www.bloomberg.com/news/articles/2024-05-30/china-turns-to-exporting-livestock-feed-on-weak-domestic-demand)
@@ -68,6 +76,7 @@ layout: post
 * [最新财新周刊｜大修《文物保护法》](https://weekly.caixin.com/2024-06-01/102202230.html?p0#page2)
 * [特供中国的英伟达算力芯片，为什么卖不动？](https://mp.weixin.qq.com/s/0wBja3_qoSQfbReuJUlstQ)
 * [NVIDIA CEO Calls Taiwan “One Of The Most Important Countries” Amid His Visit To The Local Streets](https://wccftech.com/nvidia-ceo-taiwan-one-of-the-most-important-countries/)
+* [1688挤进淘宝，阿里正在内部赛马](https://mp.weixin.qq.com/s/Biww2PmEhWv9xxRCnON_yQ)
 * [最新财新周刊｜金属牛市来了吗？](https://weekly.caixin.com/2024-06-01/102202236.html?p0#page2)
 * [最新财新周刊｜外资回流A股](https://weekly.caixin.com/2024-06-01/102202228.html?p0#page2)
 * [How to devalue the dollar](https://www.noahpinion.blog/p/how-to-devalue-the-dollar?r=12ygf&utm_campaign=post&utm_medium=web)
@@ -77,6 +86,8 @@ layout: post
 * [Solve China’s ‘overcapacity problem’ by helping developing nations go green, central bank adviser urges ｜ South China Morning Post](https://www.scmp.com/economy/global-economy/article/3264298/solve-chinas-overcapacity-problem-helping-developing-nations-go-green-central-bank-adviser-urges)
 * [黄益平：可推中国版“绿色马歇尔计划”消化过剩产能](https://economy.caixin.com/2024-05-28/102200835.html?channel=1022&channelSource=jx_newsletter&originReferrer=jx_newsletter)
 * [高善文：奋楫逐浪天地宽](https://gaoshanwen.blog.caixin.com/archives/275512)
+* [【论债务八】企业部门债务之供应、需求与过剩](https://mp.weixin.qq.com/s/dJg2JnmjEm4tS_y9TFIHBg)
+* [A股的远见](https://mp.weixin.qq.com/s/LMV2LyepudyL3ZdXq_G3Mw)
 * [The valuation mystery](https://www.ft.com/content/9cc86154-ba46-4117-8afd-805d4dc825c0)
 * [The valuation mystery: more clues](https://www.ft.com/content/62c362f2-0c58-42ed-a8ff-19ace3a11821)
 * [Crypto Rebalancing](https://fedguy.com/crypto-rebalancing/)
@@ -107,6 +118,8 @@ layout: post
 * [Are You Okay? ｜ Made in China Journal](https://madeinchinajournal.com/2024/05/27/are-you-okay/)
 * [下岗与工运、牢狱与监视、疾病与衰老 ——重返工运领袖孟晗的前半生](https://theinitium.com/zh-Hans/article/20240527-mainland-feature-labor-menghan-civil-movement)
 * [台湾拟修人工生殖法：婚育脱钩和代理孕母制成争论核心｜Whatsnew｜端传媒 Initium Media](https://theinitium.com/zh-Hans/article/20240530-whatsnew-taiwan-surrogacy)
+* [科技与职业｜技术发展如何改变劳动市场、重塑工作体验？](https://mp.weixin.qq.com/s/C5M-KyN20hZbQBHUGMQAsQ)
+* [当几个从职校毕业的gap青年，决定抱团取暖…](https://mp.weixin.qq.com/s/YXzHlqlY1fhJoTo11epXBQ)
 
 ## 性别
 * [獨家調查：「大貓案」權自立共犯首度曝光，「美術館叔叔」梁恩睿性侵兒少被判25年](https://www.twreporter.org/a/child-and-youth-sexual-exploitation-criminal-case)
@@ -149,3 +162,6 @@ layout: post
 * [1000xRESIST：给尚未出生的离散华人｜端传媒 Initium Media](https://theinitium.com/zh-Hans/article/20240602-game-on-1000xresist)
 * [魏春亮说｜吐槽嘉峪关的选调生，到底犯了多大的罪？](https://chinadigitaltimes.net/chinese/708394.html)
 * [最新财新周刊｜强风事件何解](https://weekly.caixin.com/2024-06-01/102202233.html?p0#page2)
+* [心理咨询有什么用？](https://mp.weixin.qq.com/s/VLmdrkxAP2VjEZ0ja5soPQ)
+* [郭有才的花期，比菏泽牡丹还短](https://mp.weixin.qq.com/s/s_KXcp_YbdWlh3wHIdxMAg)
+* [预告 ｜ 第三届无墙儿童艺术节介绍（一）](https://mp.weixin.qq.com/s/NjYyfzt9_ygVduV7bgoPNw)
