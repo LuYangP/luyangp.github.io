@@ -75,6 +75,10 @@ layout: post
 * [Trump media group plans to raise $3bn to spend on cryptocurrencies](https://www.ft.com/content/cc55d091-0b28-40bb-a11c-e32d4e121ca3)
 * [US opens door to retirement savers purchasing crypto tokens](https://www.ft.com/content/e08b00b1-4bfa-4351-be23-b0e3b02294de)
 * [Crypto wins a champion in the White House](https://www.ft.com/content/0474af48-e6ae-434d-aa9b-91715ff79392)
+* [SLR reform and the ‘doom loop’](https://www.ft.com/content/20df1236-4370-4c7d-b2ed-09e95aa04f01)
+* [Jamie Dimon warns US bond market will ‘crack’ under pressure from rising debt](https://www.ft.com/content/8c3628f3-477f-4124-8b3f-2bb76bf567cd)
+* [Dollar’s correlation with Treasury yields breaks down](https://www.ft.com/content/9ca05517-b3fb-46f1-9cde-866061e816a7)
+* [Treasury secretary Scott Bessent insists US will ‘never default’ on its debt](https://www.ft.com/content/9c652f09-cfca-4078-9e2b-5fdacd772a75)
 
 ## 马斯克退出特朗普政府
 * [4月欧洲电动汽车销量同比增长近三成 特斯拉逆市大跌49%](https://www.caixin.com/2025-05-27/102323793.html)
@@ -144,7 +148,6 @@ layout: post
 * [「令和米亂」：日本的大米為何就是降不了價？｜Whatsnew ｜ 端傳媒 Initium Media](https://theinitium.com/article/20250528-whatsnew-international-japan-rice-price)
 * [Japan faces big decisions on tackling bond market volatility](https://www.ft.com/content/9d1ae0ba-503e-41ae-9196-6e50d525da01)
 * [Spain Bets on 1 Million Migrants to Keep Its Economy Growing](https://www.bloomberg.com/news/features/2025-05-29/spain-opens-doors-to-1-million-migrants-to-boost-workforce?srnd=phx-economics-v2&embedded-checkout=true)
-* [SLR reform and the ‘doom loop’](https://www.ft.com/content/20df1236-4370-4c7d-b2ed-09e95aa04f01)
 * [The pitch for growth: will football help regenerate England’s cities?](https://www.ft.com/content/b49e569a-179f-4c8f-a2d7-f759c821c436)
 * [Alan Taylor: we have flipped the switch from the ‘great moderation’](https://www.ft.com/content/e842038f-e4df-4e99-a5be-8b6f12312a12)
 * [Bank of England policymaker plays down inflation risk in call for rate cuts](https://www.ft.com/content/565e116e-7150-4d9a-a85d-9e025ce5fabd)
@@ -156,12 +159,9 @@ layout: post
 * [New York Times agrees first AI deal with Amazon](https://www.ft.com/content/bc73404e-6f01-4b9e-9563-1a5f055d2c98)
 * [Donald Trump tells Jay Powell Fed is making a ‘mistake’ by not cutting US interest rates](https://www.ft.com/content/4c94f8e1-565d-4f3a-934d-3a06b2665b38)
 * [Foreign tax provision in Trump budget bill spooks Wall Street](https://www.ft.com/content/b400009a-9a0e-4ee0-b6ed-2a25c2de0d8f)
-* [Jamie Dimon warns US bond market will ‘crack’ under pressure from rising debt](https://www.ft.com/content/8c3628f3-477f-4124-8b3f-2bb76bf567cd)
 * [Taylor Swift buys rights to her first six albums](https://www.ft.com/content/070d5d5c-d639-43f8-b88f-03003232f998)
 * [Opec+ to boost oil output for third consecutive month](https://www.ft.com/content/cba7c221-3404-4cde-a5cf-b1289a0b0dd1)
-* [Dollar’s correlation with Treasury yields breaks down](https://www.ft.com/content/9ca05517-b3fb-46f1-9cde-866061e816a7)
 * [Influential economist Stanley Fischer dies](https://www.ft.com/content/71cf5371-46c3-4214-95d2-e6c5ce11ecf0)
-* [Treasury secretary Scott Bessent insists US will ‘never default’ on its debt](https://www.ft.com/content/9c652f09-cfca-4078-9e2b-5fdacd772a75)
 
 ## 劳工
 * [山东高密一化工厂爆炸已致5人死亡6人失联（更新）](https://china.caixin.com/2025-05-27/102323817.html)
