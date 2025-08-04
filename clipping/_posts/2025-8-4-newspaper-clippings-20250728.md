@@ -4,10 +4,10 @@ comment: on
 layout: post
 ---
 
-美国与欧盟等多国达成贸易协定与中国谈判仍在进行、加沙饥荒持续英法考虑承认巴勒斯坦国、中国北方强降雨致超过40人遇难
+美国与多国达成贸易协定与中国谈判仍在进行、加沙饥荒持续英法考虑承认巴勒斯坦国、中国北方强降雨致超过40人遇难
 <!--excerpt-->
 
-## 美国与欧盟等多国达成贸易协定与中国谈判仍在进行
+## 美国与多国达成贸易协定与中国谈判仍在进行
 * [美国与欧盟达成贸易协定 欧盟被课15%关税并承诺7500亿美元能源采购](https://international.caixin.com/2025-07-28/102345792.html?channel=1022&channelSource=jx_newsletter&originReferrer=jx_newsletter)
 * [Tariff Endgame](https://fedguy.com/tariff-endgame/?utm_source=rss&utm_medium=rss&utm_campaign=tariff-endgame)
 * [EU, US to form metals alliance to counterbalance Chinese overcapacity](https://www.reuters.com/world/china/eu-us-form-metals-alliance-counterbalance-chinese-overcapacity-2025-07-28/)
