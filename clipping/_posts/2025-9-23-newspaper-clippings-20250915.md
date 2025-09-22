@@ -4,7 +4,7 @@ comment: on
 layout: post
 ---
 
-中美贸易谈判就TikTok问题达成协议、特朗普宣布对H-1B签证收取10万美元费用、以色列对加沙发起地面进攻、美著名脱口秀因涉柯克言论被停播、特朗普访英及伦敦爆发大规模反移民游行
+中美贸易谈判就TikTok问题达成协议、特朗普宣布对H1B签证收取10万美元费用、以色列对加沙发起地面进攻、美著名脱口秀因涉柯克言论被停播、特朗普访英及伦敦爆发大规模反移民游行
 
 <!--excerpt-->
 
@@ -32,7 +32,7 @@ layout: post
 * [Donald Trump says Afghanistan’s Bagram air base should be returned to US control](https://www.ft.com/content/965290cc-cea0-409d-85ff-890d02bb22e3)
 * [Donald Trump and Xi Jinping to meet in South Korea as US president hails TikTok deal](https://www.ft.com/content/9fc9e921-5dbb-4464-a89f-55273b0ac84e)
 
-## 特朗普宣布对H-1B签证收取10万美元费用
+## 特朗普宣布对H1B签证收取10万美元费用
 * [特朗普颁布H-1B新规，10万美元签证费引发混乱](https://cn.nytimes.com/usa/20250922/trump-h1b-visas-fee-employees/?utm_source=RSS)
 * [Trump to add $100,000 application fee to H-1B foreign worker visas](https://www.ft.com/content/f6bfaefe-647b-4d73-bb83-bb8e7194f499)
 * [Companies rush to issue emergency guidance after Trump launches H-1B visa fee](https://www.ft.com/content/9822b5ee-4d3e-4e73-bbf4-be382d2fada7)
