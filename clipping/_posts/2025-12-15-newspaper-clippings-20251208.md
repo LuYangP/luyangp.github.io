@@ -4,7 +4,7 @@ comment: on
 layout: post
 ---
 
-美国发表国家安全战略、特朗普批准英伟达向中国出售H200芯片、俄乌和平谈判持续、中央经济工作会议、香港宏福苑大火后续
+美国发表国家安全战略、特朗普批准英伟达向中国出售H200芯片、俄乌和平谈判持续、中央经济工作会议、澳洲邦迪海滩犹太光明节枪击案、香港宏福苑大火后续
 <!--excerpt-->
 
 ## 美国发表国家安全战略
@@ -80,6 +80,13 @@ layout: post
 * [IMF上调今明两年中国经济增速预期 建议更坚决果断应对房地产问题](https://economy.caixin.com/2025-12-10/102392053.html?channel=1022&channelSource=jx_newsletter&originReferrer=jx_newsletter)
 * [China Pledges to Drive Investment to Achieve Steady Growth And Recovery in 2026](https://www.yicaiglobal.com/news/china-sets-investment-stabilization-recovery-as-top-priority-for-2026)
 * [最新财新周刊｜2026年经济更重提质增效](https://weekly.caixin.com/2025-12-13/102392985.html?p0#page2)
+
+## 澳洲邦迪海滩犹太光明节枪击案
+* [澳海滩发生枪击已致10死 以总统谴责攻击针对犹太社区](https://international.caixin.com/2025-12-14/102393291.html?channel=1022&channelSource=jx_newsletter&originReferrer=jx_newsletter)
+* [悉尼邦迪海滩枪击案致15人遇难，这里是最新消息汇总](https://cn.nytimes.com/asia-pacific/20251215/what-we-know-bondi-shooting/?utm_source=RSS)
+* [Gunmen accused of killing 15 at Sydney Jewish festival were father and son](https://www.ft.com/content/debf26f6-db4a-4913-a4d0-2080f372b17d)
+* [Australia to review gun laws after 15 die in attack on Jewish festival](https://www.ft.com/content/c422b9f4-3286-446e-802c-9c75e38d88dd)
+* [‘Hero’ who tackled Bondi gunman draws global praise](https://www.ft.com/content/f31cfea0-de17-4d83-8b14-92545db5eb44)
 
 ## 香港宏福苑大火后续
 * [EP-183 不明白直播丨大火之后：没有被「驯服」的香港公民社会（文字版） – 不明白播客](https://bumingbai.net/2025/12/08/ep-183-text/)
@@ -201,11 +208,6 @@ layout: post
 * [美国特种作战小组登船扣押自中国运往伊朗货物](https://cn.nytimes.com/usa/20251215/cargo-ship-seized-iran-china/?utm_source=RSS)
 * [中国人权｜拍摄维吾尔集中营的人，要在美国争取自己的自由](https://chinadigitaltimes.net/chinese/723471.html)
 * [Poland as a Model of Political Transformation for the Global South](https://warsawinstitute.org/poland-as-a-model-of-political-transformation-for-the-global-south/)
-* [澳海滩发生枪击已致10死 以总统谴责攻击针对犹太社区](https://international.caixin.com/2025-12-14/102393291.html?channel=1022&channelSource=jx_newsletter&originReferrer=jx_newsletter)
-* [悉尼邦迪海滩枪击案致15人遇难，这里是最新消息汇总](https://cn.nytimes.com/asia-pacific/20251215/what-we-know-bondi-shooting/?utm_source=RSS)
-* [Gunmen accused of killing 15 at Sydney Jewish festival were father and son](https://www.ft.com/content/debf26f6-db4a-4913-a4d0-2080f372b17d)
-* [Australia to review gun laws after 15 die in attack on Jewish festival](https://www.ft.com/content/c422b9f4-3286-446e-802c-9c75e38d88dd)
-* [‘Hero’ who tackled Bondi gunman draws global praise](https://www.ft.com/content/f31cfea0-de17-4d83-8b14-92545db5eb44)
 * [西班牙極右黨派VOX的反民主閃電戰：收復失地，收復子宮](https://theinitium.com/20251212-explainer-spain-vox-right-wing-reproduction/)
 * [还原布朗大学恐怖之夜：蒙面男子闯入教室向学生扫射](https://cn.nytimes.com/usa/20251215/gunshots-lockdown-brown-university/?utm_source=RSS)
 * [Donald Trump and Bill Clinton pictured in newly released Epstein photos](https://www.ft.com/content/5eab6e6a-d0ca-4154-a117-35a95a5dad87)
