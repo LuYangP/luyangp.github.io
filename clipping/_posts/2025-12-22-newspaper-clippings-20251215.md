@@ -4,10 +4,10 @@ comment: on
 layout: post
 ---
 
-澳洲邦迪海滩犹太光明节枪击案致16人死亡
+澳洲邦迪海滩枪击案后续
 <!--excerpt-->
 
-## 澳洲邦迪海滩犹太光明节枪击案致16人死亡
+## 澳洲邦迪海滩枪击案后续
 * [澳海滩枪击案两行凶者为父子 水果店主赤手夺枪止暴被誉英雄](https://international.caixin.com/2025-12-15/102393430.html?channel=1022&channelSource=jx_newsletter&originReferrer=jx_newsletter)
 * [澳洲邦迪海灘光明節槍擊案16死，針對猶太人的無差別攻擊｜Whatsnew](https://theinitium.com/20251217-whatsnew-australia-bondi-beach-shooting/)
 * [Bondi becomes focus of fury over Australia’s tide of antisemitism](https://www.ft.com/content/1dac14d6-74ea-4e72-b05a-1ba57db0b0d4)
