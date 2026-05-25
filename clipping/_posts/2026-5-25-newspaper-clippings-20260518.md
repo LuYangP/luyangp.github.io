@@ -98,6 +98,9 @@ layout: post
 ## 山西沁源留神峪煤矿瓦斯爆炸致超82人死亡
 * [山西煤矿爆炸事故已致82人死亡，仍有人下落不明](https://cn.nytimes.com/china/20260525/xi-coal-mine-explosion-rescue/?utm_source=RSS)
 * [凤凰网｜“暗面”之下：山西沁源矿难调查](https://chinadigitaltimes.net/chinese/727388.html)
+* [山西沁源县一高瓦斯煤矿爆炸 已致82死2失联](https://china.caixin.com/2026-05-23/102446953.html)
+* [山西煤矿瓦斯爆炸事故已致82人遇难 救援工作仍在进行](https://photos.caixin.com/2026-05-23/102446999.html)
+* [留神峪煤矿爆炸背后：矿工三个月未发工资，或有非法开采](https://china.caixin.com/2026-05-24/102447121.html)
 
 ## 经济
 * [宏观边际MacroMargin: 中国4月经济数据一览， 除了外贸和通胀数据外，其他指标全部低于预期，不少指标大幅低于预期](https://x.com/MacroMargin/status/2056218799016395101)
